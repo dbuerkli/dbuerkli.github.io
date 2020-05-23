@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Danny Buerkli</title>
+ <link href="http://localhost:4000//atom.xml" rel="self"/>
+ <link href="http://localhost:4000//"/>
+ <updated>2020-05-23T14:54:08+02:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Danny Buerkli</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>„Gradually, then suddenly“ — four concepts that may help us think clearly about the coronavirus epidemic</title>
+   <link href="http://localhost:4000//2020/03/08/gradually-then-suddenly"/>
+   <updated>2020-03-08T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/03/08/gradually-then-suddenly</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on &lt;a href=&quot;https://medium.com/@dannybuerkli/gradually-then-suddenly-four-concepts-that-may-help-us-think-clearly-about-the-coronavirus-671e2583f828&quot;&gt;Medium&lt;/a&gt; (08 March 2020).&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;This essay is also available, in lightly updated form, on the website of the &lt;a href=&quot;https://necsi.edu/gradually-then-suddenly&quot;&gt;New England Complex Systems Systems Institute&lt;/a&gt; (NECSI)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A &lt;a href=&quot;https://www.reatch.ch/de/content/erst-ganz-langsam-dann-sehr-schnell&quot;&gt;German translation&lt;/a&gt; has been published by &lt;a href=&quot;https://www.reatch.ch/de/content/erst-ganz-langsam-dann-sehr-schnell&quot;&gt;reatch&lt;/a&gt; (“research and technology in switzerland”)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/passipo&quot;&gt;Massimo Conte&lt;/a&gt; of the &lt;a href=&quot;https://www.complexityeducation.com/2020/03/13/prima-gradualmente-poi-improvvisamente/&quot;&gt;Complexity Education Project&lt;/a&gt; has published an &lt;a href=&quot;https://www.complexityeducation.com/2020/03/13/prima-gradualmente-poi-improvvisamente/&quot;&gt;Italian translation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The current situation around the coronavirus epidemic is evolving rapidly. Switzerland, where I’m based, as of March 7 2020, has 228 confirmed cases. The overwhelming odds are that this number will increase rapidly and with it will the number of seriously affected individuals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In some of my social circles the most pressing worry is, however, not centered on what we ought to be doing to get this under control. For many people the overriding concern is seemingly not to be seen as worried or, god forbid, as “panicking”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;From what I can tell this doesn’t derive from a sober analysis of the facts but from some sort of magical thinking which says that bad things haven’t happened here in a long time and therefore surely this cannot be bad.&lt;/p&gt;
+
+&lt;p&gt;Mental models, like the one just mentioned above, are the things which help us think about the world. That’s why, in situations like these, it may be helpful to examine and challenge our mental models.&lt;/p&gt;
+
+&lt;p&gt;So here are four basic concepts (&lt;a href=&quot;https://en.wikipedia.org/wiki/Complex_system&quot;&gt;taken from complex systems thinking&lt;/a&gt;) which can help us make sense of what is going on. They also help explain why epidemiologists and public health experts are as alarmed as they are.&lt;/p&gt;
+
+&lt;p&gt;Three important caveats before we continue:&lt;/p&gt;
+
+&lt;p&gt;First, I’m neither an epidemiologist nor a public health expert nor a certified expert on complex systems. For all I know most of what follows could be wrong. I might well also be missing one or more crucial considerations.&lt;/p&gt;
+
+&lt;p&gt;Second, all of what follows below might be painfully obvious to you. I also claim no originality here. All of this is basic, none of it is novel. I draw my inspiration from complex systems thinking but these concepts can be found in other disciplines as well.&lt;/p&gt;
+
+&lt;p&gt;Third,what follows is — of course — not some sort of &lt;em&gt;complete&lt;/em&gt; description of how we should think about any epidemic.&lt;/p&gt;
+
+&lt;p&gt;There is also always an obvious risk of embarrassing yourself when writing about a situation which evolves rapidly but here we are.&lt;/p&gt;
+
+&lt;p&gt;So proceed with caution. Also, wash your hands and follow your local public health advice.&lt;/p&gt;
+
+&lt;h1 id=&quot;exponential-growth-yesterday-everything-was-still-under-control&quot;&gt;Exponential growth: “yesterday everything was still under control?!”&lt;/h1&gt;
+
+&lt;p&gt;Italy went from one diagnosed case to well over 3’000 in just over a month (34 days) with only three cases in the first 21 days. It’s safe to say that most intuitively did not expect the number of diagnosed cases to grow so quickly.&lt;/p&gt;
+
+&lt;p&gt;We are all familiar with the &lt;a href=&quot;https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem&quot;&gt;story&lt;/a&gt; of the inventor who asked to be modestly compensated by his emperor by receiving one grain of rice on the first square of the chessboard, two on the second square, four on the third square, and so on until all squares are filled. About halfway into the chessboard the emperor realizes that the request wasn’t as modest.&lt;/p&gt;
+
+&lt;p&gt;The point is that exponential growth keeps surprising us. And for some reason &lt;a href=&quot;https://ourworldindata.org/coronavirus&quot;&gt;we don’t seem to have a good intuitive handle on it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ray Kurzweil coined the expression of the “&lt;a href=&quot;https://image-src.bcg.com/Images/BCG-The-Double-Game-of-Digital-Strategy-Oct-2015_tcm27-88402.pdf&quot;&gt;second half of the chessboard&lt;/a&gt;”. In the first half the effects are large but potentially manageable. In the second half things spiral out of control.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20200308_graduallythensuddenly_a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;&quot;Everything is fine&quot; -&amp;gt; &quot;It's growing but we got this under control&quot; -&amp;gt; &quot;Oh...&quot;&lt;/figcaption&gt;
+
+&lt;p&gt;What does that mean?&lt;/p&gt;
+
+&lt;p&gt;A small number of cases COVID-19 cases combined with an exponential growth rate may not, as we might assume, be a small problem. Absent an effective intervention which prevents further exponential growth a small number of cases may already spell deep trouble. Better avoid getting into the ‘second half of the chessboard’ (see also &lt;a href=&quot;https://twitter.com/marcelsalathe/status/1236410942726049794?s=21&quot;&gt;this thread by epidemiologist Marcel Salathé&lt;/a&gt; on this topic).&lt;/p&gt;
+
+&lt;p&gt;Of course the exponential growth of coronavirus infections cannot literally go on forever because there is only a finite number of humans. It is also true that diseases do not usually spread at an exponential rate for the entire duration of an epidemic.&lt;/p&gt;
+
+&lt;p&gt;The point is, however, that we will tend to underestimate the danger that an initial small number of cases poses because we struggle to imagine how quickly that small number can turn into a very large one.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://ourworldindata.org/coronavirus&quot;&gt;current doubling time&lt;/a&gt; (as of March 6, excluding China) is three days. Every three days the number of known coronavirus cases doubles.&lt;/p&gt;
+
+&lt;p&gt;Such exponential growth is why intervening early and heavily may well be justified. The logic with all undesirable things with exponential growth rates is the same: you want to nip it in the bud early. Early action may well be &lt;em&gt;orders of magnitude&lt;/em&gt; cheaper and easier compared to reacting later.&lt;/p&gt;
+
+&lt;h1 id=&quot;phase-changes-everything-is-fine-until-it-suddenly-isnt&quot;&gt;Phase changes: Everything is fine until it suddenly isn’t&lt;/h1&gt;
+
+&lt;p&gt;Complex systems tend to have ‘tipping points’ and go through ‘phase changes’ once they reach one of those. This means that once a system reaches a certain threshold things can change rapidly.&lt;/p&gt;
+
+&lt;p&gt;Take the provision of healthcare in hospitals as an example. An epidemic starts and hospital beds start filling up. Everything is basically fine. We can provide adequate medical care to everyone who shows up and needs it. No need to overreact or introduce costly containment measures, right?&lt;/p&gt;
+
+&lt;p&gt;Maybe, except that at one point we will hit a ‘tipping point’ and run out of hospital beds (or ventilators, or masks, or any other finite resource).&lt;/p&gt;
+
+&lt;p&gt;Once that happens, things shift suddenly.&lt;/p&gt;
+
+&lt;p&gt;Survival rates might go down because we cannot provide care anymore to the same standard, infection rates among healthcare staff go up because there aren’t enough masks to go around, etc.&lt;/p&gt;
+
+&lt;p&gt;Imagine a bathtub that keeps filling up with water. Water flows in at a constant rate. The tub slowly fills. Everything is completely fine. Until at one point the tub starts to overflow. The fact that the tub hasn’t overflowed &lt;em&gt;yet&lt;/em&gt; doesn’t tell us that we shouldn’t worry about it overflowing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20200308_graduallythensuddenly_b.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The same logic also holds for supply chains. Many firms will have some amount of material in stock.&lt;/p&gt;
+
+&lt;p&gt;The fact that they are still able to function for a period of time in the absence of continued deliveries from their suppliers tells us very little about how resilient the system really is.&lt;/p&gt;
+
+&lt;p&gt;Everything can &lt;em&gt;seem&lt;/em&gt; to continue just fine for a while until it suddenly starts to fall apart because one or more critical components are simply not available anymore. For the most part we should be able to know in advance where things will fall apart — though that doesn’t necessarily mean that we can do anything about it.&lt;/p&gt;
+
+&lt;h1 id=&quot;delayed-feedback-cycles-why-are-things-still-getting-worse-even-though-we-introduced-all-these-measures&quot;&gt;Delayed feedback cycles: “why are things still getting worse even though we introduced all these measures?”&lt;/h1&gt;
+
+&lt;p&gt;Imagine how hard it would be to drive a car where there was a lag of just a few seconds between you turning the steering wheel and the car doing what you want it to do. It would be phenomenally annoying.&lt;/p&gt;
+
+&lt;p&gt;(This is also why cooks prefer gas stoves over electric ones: an electric stove has a built-in delay between me turning the knob up or down and the temperature changing. With gas stoves there is no delay, the temperature rises or falls immediately.)&lt;/p&gt;
+
+&lt;p&gt;This is the situation we are finding ourselves in, both in terms of detection of the disease and in terms of understanding the effects of measures taken in response to the epidemic.&lt;/p&gt;
+
+&lt;p&gt;The cases that are being diagnosed today are people who got infected two weeks ago or so. The current count of diagnosed cases captures a past reality, not the present situation. It’s like looking at a star at night — because light takes time to travel to us you’re looking at the past.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20200308_graduallythensuddenly_c.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The delayed feedback loops hold for our understanding of whether the measures that are being taken are effective. Italy introduced school closures on March 04. Whether these will curb the number of new infections will be known only two weeks after that (and quite possibly even later).&lt;/p&gt;
+
+&lt;p&gt;This makes decision-making very difficult for governments. One implication is that any restrictions that are put in place will likely be lifted slowly and gradually rather than all at once in order to avoid wild swings.&lt;/p&gt;
+
+&lt;p&gt;Another implication, particularly when you put this together with exponential growth, is that you need to act early because the results of the intervention will only show with a delay.&lt;/p&gt;
+
+&lt;h1 id=&quot;leverage-points-relatively-small-change-relatively-large-effect&quot;&gt;Leverage points: (relatively) small change, (relatively) large effect&lt;/h1&gt;
+
+&lt;p&gt;Another feature of complex systems is that there usually exist ‚leverage points’, interventions which can create an outsized effect because of their position and influence in the system.&lt;/p&gt;
+
+&lt;p&gt;This cuts both ways, of course.&lt;/p&gt;
+
+&lt;p&gt;If you wanted to accelerate the spread of SARS-CoV-2 quickly and cheaply you’d be well advised to encourage mass gatherings.&lt;/p&gt;
+
+&lt;p&gt;If, on the other hand, you want to do the opposite you’d encourage ‘social distancing’, increased hand washing as well as other personal hygiene measures. Because they are — hopefully — ‘leverage points’ these may well make a much bigger difference than we might intuitively believe.&lt;/p&gt;
+
+&lt;p&gt;“Social distancing” and handwashing might be two examples of such leverage points. They are both &lt;em&gt;comparatively&lt;/em&gt; easy and inexpensive to implement yet they might make a big difference.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20200308_graduallythensuddenly_d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;&quot;Death of Achilles&quot; by Rubens --- Paris found a leverage point and... you know how the story ends&lt;/figcaption&gt;
+
+&lt;p&gt;If these four concepts happen to apply in this situation then we’re well advised to act swiftly because that may well save us from a lot of pain.&lt;/p&gt;
+
+&lt;p&gt;I offer these thoughts in the spirit of Donella Meadows — a pioneer of systems thinking — who said: &lt;em&gt;“Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Further reading:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Three people you should follow on Twitter on this are &lt;a href=&quot;https://twitter.com/marcelsalathe&quot;&gt;Marcel Salathé&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/C_Althaus&quot;&gt;Marcel Althaus&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/yaneerbaryam&quot;&gt;Yaneer Bar-Yam&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For an accessible general introduction to ‚system thinking’: &lt;a href=&quot;https://www.chelseagreen.com/product/thinking-in-systems/&quot;&gt;Donella H. Meadows, Thinking in Systems — A Primer&lt;/a&gt; and &lt;a href=&quot;https://markfoden.com/clockcat&quot;&gt;Mark Foden’s “The clock and the cat”&lt;/a&gt; podcast&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For a highly visual and interactive explanation of disease dynamics: Kevin Simler’s &lt;a href=&quot;https://www.meltingasphalt.com/interactive/going-critical/&quot;&gt;“Going Critical”&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For a short explanation of ‚base rate thinking’ vs. ‚exponential thinking’: &lt;a href=&quot;https://www.bloomberg.com/opinion/articles/2020-03-03/how-fast-will-the-new-coronavirus-spread-two-sides-of-the-debate&quot;&gt;Tyler Cowen’s „growthers vs. base-raters” article on Bloomberg Opinion&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For a more general introduction on how complexity relates to policy making: &lt;a href=&quot;https://www.bis.org/review/r120905a.pdf&quot;&gt;Andrew Haldane’s 2012 speech „The dog and the frisbee”&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I owe a lot of thanks to all the individuals who took the time to read and comment on initial drafts. I asked people with expertise in epidemiology and other related fields to look over it in an attempt to avoid obvious mistakes. Any remaining errors are, obviously, mine.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What I think we do at the Centre for Public Impact</title>
+   <link href="http://localhost:4000//2020/01/30/what-i-think-we-do-at-cpi"/>
+   <updated>2020-01-30T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/01/30/what-I-think-we-do-at-CPI</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This article was published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/what-i-think-we-do-at-the-centre-for-public-impact-54abaa81f3f5&quot;&gt;Medium&lt;/a&gt; page (30 January 2020).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is my last week at the &lt;a href=&quot;https://www.centreforpublicimpact.org/&quot;&gt;Centre for Public Impact&lt;/a&gt; after five wonderful years. I feel privileged to have been part of an organisation with such an ambitious purpose.&lt;/p&gt;
+
+&lt;p&gt;Part of the challenge of being in an organisation with a remit as broad as “shaping a new future for government” is that it can be difficult to wrap your head around what exactly you’re doing and why.&lt;/p&gt;
+
+&lt;p&gt;As I’ve been reflecting over the past couple of weeks on my time here I came across a &lt;a href=&quot;https://medium.com/thefarewellfund/hospicing-the-old-16e537396c4b&quot;&gt;post on Medium&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/CassieRobinson&quot;&gt;Cassie Robinson&lt;/a&gt; which introduced me to the Berkana Institute’s &lt;a href=&quot;https://berkana.org/about/our-theory-of-change/&quot;&gt;Two Loop model&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The model resonated with me because it encapsulates what our work at CPI is about when we are at our best and why it all matters.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20200130_Berkana_TwoLoopModel.png&quot; alt=&quot;The Berkana Institute's Two Loop model showing the Dominant System and the Emergent System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;color: grey&quot;&gt;The Berkana Institute’s Two Loop model&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In Cassie’s &lt;a href=&quot;https://medium.com/thefarewellfund/hospicing-the-old-16e537396c4b&quot;&gt;words&lt;/a&gt;, the model&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;shows a dominant system that is dying, and an emergent system that has the potential to become the system of influence. As the dominant system reaches its peak, new pioneers emerge (1), recognising that the dominant system (however impossible and far away that might seem) is beginning to decline.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In order to bring the Emergent System into the world, it is important that it is&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;named&lt;/strong&gt; and that the pioneers, the people and organisations building alternatives are &lt;strong&gt;connected&lt;/strong&gt; together (2), and the work they are doing, &lt;strong&gt;illuminated&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thinking of the world we move in and of our work in the way of this model clarified a lot for me.&lt;/p&gt;
+
+&lt;p&gt;We are indeed working — together with and alongside an entire community of changemakers, thinkers, and practitioners — towards bringing a new paradigm into being.&lt;/p&gt;
+
+&lt;p&gt;Our &lt;a href=&quot;https://medium.com/centre-for-public-impact/a-manifesto-for-better-government-8121132f45ef&quot;&gt;“Manifesto for Better Government”&lt;/a&gt; is an explicit attempt to &lt;em&gt;name &lt;/em&gt;this emergent system. Much of our work is equally about &lt;em&gt;connecting&lt;/em&gt; people and organisations who are building alternatives to the current model of public administration. And, finally, many of the articles we publish on our website serve to &lt;em&gt;illuminate &lt;/em&gt;the work of those pioneers.&lt;/p&gt;
+
+&lt;p&gt;The Two Loop Model doesn’t tell us &lt;em&gt;what &lt;/em&gt;to do or &lt;em&gt;how &lt;/em&gt;to do it but it provides a useful way of thinking about the quest that we’re on. It clarifies the choices we face and the decisions we need to make in order to be effective.&lt;/p&gt;
+
+&lt;p&gt;CPI might play a role as one of the “midwives” who do the naming, connecting, and illuminating — alongside and in partnership with many of the other excellent individuals and organisations who are working towards the same goal. At the same time, CPI might also have a role on the “hospice” side of things, helping the Dominant System die with grace and compassion.&lt;/p&gt;
+
+&lt;p&gt;While I won’t be part of CPI anymore I’ll remain firmly in the community of people and organisations who are working towards a new paradigm in government. After a two-month sabbatical I’ll be joining &lt;a href=&quot;https://www.staatslabor.ch/en&quot;&gt;staatslabor&lt;/a&gt; in Switzerland, a government reform lab I co-founded three years ago.&lt;/p&gt;
+
+&lt;p&gt;I can’t wait to get started there and to continue working on this emerging paradigm for government which we at CPI — and many others — have begun to articulate and are working towards.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Easy-to-avoid mistakes which will diminish your chances when applying for a job</title>
+   <link href="http://localhost:4000//2019/09/04/mistakes-to-avoid"/>
+   <updated>2019-09-04T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2019/09/04/mistakes-to-avoid</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This article was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/13-easy-to-avoid-mistakes-which-will-unnecessarily-but-significantly-diminish-your-chances-when-de2b4b0f5093&quot;&gt;Medium&lt;/a&gt; page (04 September 2019).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been involved in a few recruitment rounds over the past years. There are recurring, easy-to-avoid mistakes people make which unnecessarily but very significantly diminish their chances.&lt;/p&gt;
+
+&lt;p&gt;Sometimes those mistakes correlate with a lack of competence. But a lot of times it seems to be more due to a &lt;a href=&quot;https://twitter.com/hashtag/hiddencurriculum?src=hashtag_click&quot;&gt;#hiddencurriculum&lt;/a&gt; issue. People may have never had the benefit of being told these things (or of being in an environment where these are taught as self-evident).&lt;/p&gt;
+
+&lt;p&gt;A few remarks upfront:&lt;/p&gt;
+
+&lt;p&gt;I’ve seen all of the things listed below happen a lot. These aren’t cherry-picked. All quotes are made up.&lt;/p&gt;
+
+&lt;p&gt;Let me be super clear about my intention: I want people to avoid these traps so they can shine and show us what they’re capable of.&lt;/p&gt;
+
+&lt;p&gt;We invest a lot of energy at &lt;a href=&quot;https://twitter.com/CPI_foundation&quot;&gt;@CPI_foundation&lt;/a&gt; into trying to hire in a fair and unbiased way. That’s why we use the &lt;a href=&quot;https://twitter.com/beapplied&quot;&gt;@beapplied&lt;/a&gt; platform (which lets us review answers to work-related questions anonymously rather than review CVs and cover letters) and structured interviews.&lt;/p&gt;
+
+&lt;p&gt;That’s why we care about how people perform once they decide to submit an application with us. We want to get the best candidates and that might well include people who don’t come across in the best possible way for reasons that don’t correlate with competence.&lt;/p&gt;
+
+&lt;p&gt;For applications that we run through the &lt;a href=&quot;https://twitter.com/beapplied&quot;&gt;@beapplied&lt;/a&gt; platform, we ask applicants practical questions (e.g. “how would you handle situation x?”). We then review the anonymized written answers. The way we do this is by reviewing all responses to question 1, then all those to question 2, etc.&lt;/p&gt;
+
+&lt;p&gt;This is quite different from the usual CV plus cover letter system. While most items below apply universally in any job application or interview situation, some are more specific to systems that use anonymized written answers.&lt;/p&gt;
+
+&lt;p&gt;With all of that out of the way, here we go:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Always submit your CV/resume as a PDF, never as a Word file.&lt;/strong&gt; Word files look unpolished and the formatting often breaks. This is a small thing but do not underestimate just how big of a difference it makes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Do not reveal confidential information about your current or past employers.&lt;/strong&gt; Don’t. Resist the temptation. It’s done to build a connection and impress but it does the opposite. It immediately makes me worry about what you’ll say about us once you leave.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Be kind when you talk about your current or former colleagues.&lt;/strong&gt; There are ways of talking about difficult situations that don’t sound like you’re slagging off a colleague.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Be specific about &lt;em&gt;your&lt;/em&gt; contributions when asked.&lt;/strong&gt; If you’re asked what your contribution to a team was, make sure we understand what &lt;em&gt;you&lt;/em&gt; did. Don’t be shy, it’s not bragging, we want to know!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Answer the question.&lt;/strong&gt; If we ask how you would go about doing x, tell us how you would go about doing x. Don’t answer a different question.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Keep it simple.&lt;/strong&gt; Avoid jargon and abbreviations. This is particularly important in writing where we can’t ask clarifying questions. If you’re telling me about how “dealing with the IATR process required NFC buy-in” I will have no idea what you’re talking about.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Practical tip: for “tell me about a time when you did x” questions &lt;strong&gt;use the ‘STAR’ framework: Situation, Task, Action, Result&lt;/strong&gt;. Works like a charm because makes sure that you give a clear answer. It also helps because it makes you tell a story rather than just list facts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In written answers (I/III): &lt;strong&gt;check your grammar. Use the active voice&lt;/strong&gt; (“results had to be communicated” -&amp;gt; “we/I communicated the results”). Use a clear structure (paragraphs, bullet points, section titles, …).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In written answers (II/III): &lt;strong&gt;play it straight.&lt;/strong&gt; Humour and/or quirky responses rarely work. You can be as witty as you like in person but it often comes across as ill-judged in text.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In written answers (III/III): &lt;strong&gt;keep it short.&lt;/strong&gt; Don’t use more words than necessary. We are often impressed by concise answers (both spoken and in writing) that do the job. It demonstrates your ability to think and communicate clearly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Specifically for answers on the &lt;a href=&quot;https://twitter.com/beapplied&quot;&gt;@beapplied&lt;/a&gt; platform: avoid cross-referencing between your answers&lt;/strong&gt; (“as I’ve mentioned above…”). Because we batch review all responses to the same question together and because it’s all anonymized we won’t know what you’re referring to.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On your CV/resume: &lt;strong&gt;use a straight-forward email address&lt;/strong&gt; (usually some combination of your first and last name), avoid anything that isn’t that (e.g. “joebrumby96@gmail.com”).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Outside of a formal job application process, when asking for an informational interview or a ‘coffee chat’: &lt;strong&gt;avoid emailing multiple people on the team separately.&lt;/strong&gt; Even if you customise your emails, don’t forget that we tend to sit next to each other and we talk 😃&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s it for now. This isn’t a comprehensive list and it’s always hard to get all the nuance across in short posts but hopefully, this is of use to some out there. If you recognize having done some of these things yourself don’t worry too much, I’ve certainly done the same! :)&lt;/p&gt;
+
+&lt;p&gt;This post started out as a &lt;a href=&quot;https://twitter.com/dannybuerkli/status/1164128608379691009&quot;&gt;thread&lt;/a&gt; on Twitter. It seemed to resonate and I’ve turned it into a Medium post to make it easier to refer to it.&lt;/p&gt;
+
+&lt;p&gt;I was inspired to share this by &lt;a href=&quot;https://twitter.com/jhaushofer&quot;&gt;@jhaushofer&lt;/a&gt; (who recently shared a &lt;a href=&quot;https://twitter.com/hashtag/hiddencurriculum?src=hashtag_click&quot;&gt;#hiddencurriculum&lt;/a&gt; doc he gives to Research Assistants and students: &lt;a href=&quot;https://twitter.com/jhaushofer/status/1156853146985086976&quot;&gt;https://twitter.com/jhaushofer/status/1156853146985086976…&lt;/a&gt;) and by &lt;a href=&quot;https://twitter.com/patio11&quot;&gt;@patio11&lt;/a&gt; who made a different-but-related point that there’s lots of value in capturing implicit knowledge and making it explicit (&lt;a href=&quot;https://twitter.com/patio11/status/1069422308526239744&quot;&gt;https://twitter.com/patio11/status/1069422308526239744…&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Many thanks to my colleagues &lt;a href=&quot;https://twitter.com/MargotGagliani&quot;&gt;@MargotGagliani&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/_AdrianBrown&quot;&gt;@_AdrianBrown&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/JohnBurgoyne07&quot;&gt;John Burgoyne&lt;/a&gt; who helped me pull this together.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A tale of two paradigms — meet the ideas which changing public administrations around the world</title>
+   <link href="http://localhost:4000//2019/08/23/a-tale-of-two-paradigms"/>
+   <updated>2019-08-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2019/08/23/a-tale-of-two-paradigms</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/a-tale-of-two-paradigms-meet-the-idea-which-is-quietly-changing-public-administrations-around-e2e57171f451&quot;&gt;Medium&lt;/a&gt; page (23 August 2019).&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Most people imagine that the present style of management has always existed, and is a fixture. Actually, it is a modern invention — a prison created by the way in which people interact.” W. Edwards Deming&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We need paradigms to understand the world around us. There is no such thing as &lt;em&gt;“simply seeing what’s in front of us”&lt;/em&gt; or &lt;em&gt;“just using common sense”&lt;/em&gt;. We always require some frame through which to interpret what is going on.&lt;/p&gt;
+
+&lt;p&gt;One such paradigm —which exerts much influence in business just as in public administration — is managerialism, the belief that all kinds of problems, irrespective of their context, can be solved by applying control, hierarchy, &lt;a href=&quot;https://www.centreforpublicimpact.org/sub-prime-evidence-evidence-based-policy-facing-crisis/&quot;&gt;evidence&lt;/a&gt;, and “&lt;a href=&quot;https://www.centreforpublicimpact.org/misleading-allure-best-practice-%e2%81%a0-contributor-daniel-thornton/&quot;&gt;best practice&lt;/a&gt;”.&lt;/p&gt;
+
+&lt;p&gt;While the problems with managerialism have been apparent for a long time, it still exerts a strong influence on our imagination, including in the public sector. Unfortunately, managerialism is, however, not well adapted to many of the challenges public administrations face.&lt;/p&gt;
+
+&lt;p&gt;To understand why that’s the case it’s important to understand the historical context from which this paradigm emerged.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-origins-of-managerialism&quot;&gt;The origins of managerialism&lt;/h1&gt;
+
+&lt;p&gt;Let’s go back to the England of Queen Victoria. Before Frederick Winslow Taylor introduced the idea of “scientific management” in the late 19th century, every artisan would have their own way of, say, weaving a piece of cloth.&lt;/p&gt;
+
+&lt;p&gt;Taylor broke up any activity into its constituent parts, figured out The One Best Wayfor each and did away with all that variation. Once the ideal, e.g. most time-saving way of picking up a hammer had been found, Taylor made sure no worker deviated from it.&lt;/p&gt;
+
+&lt;p&gt;Taylor’s method of so-called “&lt;a href=&quot;https://en.wikipedia.org/wiki/Scientific_management&quot;&gt;scientific management&lt;/a&gt;” allowed firms to literally do more with less. Around the year 1900, the time required to produce a cannon projectile dropped from ten hours to a mere ninety minutes.&lt;/p&gt;
+
+&lt;p&gt;Today, this way of optimizing production seems so obvious that it’s hard to imagine a world in which we would organize things differently. But to the artisans of the late 19th century, the introduction of these “best practices” felt anything but obvious. Workers who thought of themselves as skilled individuals felt offended by the fact that they were reduced to being human cogs in an optimized machine.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190823_two_paradigms_a.jpeg&quot; alt=&quot;steel foundry&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Optimize this! (photo by Ant Rozetsky on Unsplash)&lt;/figcaption&gt;
+
+&lt;p&gt;Taylor’s peers, on the other hand, were deeply impressed. Henri Le Châtelier, a chemist, praised Taylor’s method as “a model which every young engineer will have to study”. Many took this advice and studied Taylor’s ideas and those of his contemporaries — like Henry L. Gantt, of Gantt chart fame — and collectively&lt;a href=&quot;https://hbr.org/2014/07/managements-three-eras-a-brief-history&quot;&gt; built the modern discipline of management&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;times-have-changed-but-taylors-influence-still-looms-large--put-the-pen-in-your-left-shirt-pocket&quot;&gt;Times have changed but Taylor’s influence still looms large — “put the pen in your left shirt pocket”&lt;/h1&gt;
+
+&lt;p&gt;Management thinking has, of course, evolved a great deal since the early 20th century. But in many ways, Taylor’s insights are still as influential and useful as ever. Amazon’s close monitoring of its fulfillment center workers&lt;a href=&quot;https://www.nytimes.com/2018/02/01/technology/amazon-wristband-tracking-privacy.html&quot;&gt; using wristbands&lt;/a&gt; or the way in which UPS instructs its drivers in which shirt pocket to put their pens (&lt;a href=&quot;https://www.thenation.com/article/these-workers-have-new-demand-stop-watching-us/&quot;&gt;“right-handed people should use the left pocket, and vice versa”&lt;/a&gt;) is indistinguishable from how Taylor optimized steel plants.&lt;/p&gt;
+
+&lt;p&gt;Taylor’s fundamental insight was that people we would come to call “managers” could deconstruct activities into their constituent parts (e.g. how a delivery driver pulls out his pen to get a receipt signed) and would identify The One Best Way to do it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190823_two_paradigms_b.jpeg&quot; alt=&quot;stopwatch&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;&quot;I've calculated that putting your pen in your left pocket will save us three seconds&quot; (photo by Jude Beck on Unsplash)&lt;/figcaption&gt;
+
+&lt;p&gt;This method of optimising work excels, but only under a rather specific set of circumstances. It works when we have clear objectives, when those objectives are measurable, when we understand what drives performance, when things work in linear and deterministic ways and, finally, when none of these things change.&lt;/p&gt;
+
+&lt;p&gt;A different way of saying it is that Taylor’s practices work in situations that are &lt;em&gt;complicated &lt;/em&gt;but not &lt;em&gt;complex&lt;/em&gt;. But what does that mean?&lt;/p&gt;
+
+&lt;h1 id=&quot;interlude-what-is-the-difference-between-complicated-and-complex&quot;&gt;Interlude: what is the difference between “complicated” and “complex”?&lt;/h1&gt;
+
+&lt;p&gt;Something that’s complex isn’t just something that’s &lt;em&gt;very&lt;/em&gt; complicated. The two concepts are entirely distinct. Here’s a simple yet accurate analogy which I owe to &lt;a href=&quot;https://markfoden.com/clockcat/2018/12/episode-1-introduction&quot;&gt;Mark Foden&lt;/a&gt; (once you’re done reading you should click through and listen to his podcast):&lt;/p&gt;
+
+&lt;p&gt;⏰Complicated things are like &lt;em&gt;clocks&lt;/em&gt;. You can take one apart, study the many pieces, understand how they interlock and from that learn how a clock works. Clocks operate in predetermined ways.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190823_two_paradigms_c.jpeg&quot; alt=&quot;clock&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Clock = complicated (photo by Sonja Langford on Unsplash)&lt;/figcaption&gt;
+
+&lt;p&gt;🐈 Complex things are like &lt;em&gt;cats&lt;/em&gt;. They don’t work in predetermined ways and opening up a cat will get you only a limited (and gory) insight into why it behaves the way it does. Cats are organisms and their behaviour emerges from interactions between what’s happening inside a cat as well as between that and a cat’s environment.&lt;/p&gt;
+
+&lt;p&gt;Or, in the words of &lt;a href=&quot;https://medium.com/@nntaleb/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15&quot;&gt;Nassim Nicholas Taleb&lt;/a&gt;, “&lt;em&gt;the main idea behind complex systems is that the ensemble behaves in way not predicted by the components. The interactions matter more than the nature of the units&lt;/em&gt;.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190823_two_paradigms_d.jpeg&quot; alt=&quot;cat&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Cat = complex (photo by Borna Bevanda on Unsplash)&lt;/figcaption&gt;
+
+&lt;p&gt;Any social benefits system, for example, has aspects of both “clock” and “cat”. The transactional parts that deal with moving money from government to beneficiaries are &lt;em&gt;complicated&lt;/em&gt;, i.e. clock-like. The aspects of the system that aim to change beneficiaries’ behaviour are &lt;em&gt;complex&lt;/em&gt;, i.e. cat-like.&lt;/p&gt;
+
+&lt;h1 id=&quot;much-of-what-public-administrations-deal-with-is-complex-not-complicated&quot;&gt;Much of what public administrations deal with is complex, not complicated&lt;/h1&gt;
+
+&lt;p&gt;There are many bits of government that are predominantly transactional, relatively unchanging and &lt;em&gt;complicated&lt;/em&gt;. These are activities that may have easily measurable outcomes with clearly understood mechanisms behind them.&lt;/p&gt;
+
+&lt;p&gt;Printing passports might be one example. This doesn’t mean that running a well-functioning passport office is easy — it is not. It simply means that managerial practices will work. By using targets, KPIs, best practices, and a strict distinction between managers and workers we stand a reasonable chance of achieving a well-functioning passport office.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190823_two_paradigms_d.jpeg&quot; alt=&quot;passport&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Printing passports --- complicated but, for the most part, not complex (Photo by Kelly Sikkema on Unsplash)&lt;/figcaption&gt;
+
+&lt;p&gt;There is, however, a wide and important range of things governments do that are predominantly &lt;em&gt;complex&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Think, for example, of education or healthcare. How a child learns or how patients maintain or regain their health isn’t a process that can be understood by closely looking at its different parts in isolation.&lt;/p&gt;
+
+&lt;p&gt;These outcomes can’t be “managed” or “produced” in any meaningful sense of the word. Instead, it is better to think of them as &lt;a href=&quot;https://necsi.edu/emergence&quot;&gt;emergent&lt;/a&gt; properties of complex systems.&lt;/p&gt;
+
+&lt;p&gt;Bringing “clock” practices to bear on “cat” problems is a bit like trying to get a flower to bloom by pulling at leaves instead of tending to the surrounding conditions the plant needs. At best it’s ineffective, at worst it’s destructive.&lt;/p&gt;
+
+&lt;p&gt;Emergency room physicians at a medical center in Oregon, USA recently complained about their hospital administrators refusing to admit very ill patients. What had happened? The management was under pressure to improve the hospital’s performance metrics. Those metrics are negatively impacted by people dying in the hospital. Entirely predictably the hospital started&lt;a href=&quot;https://www.theguardian.com/commentisfree/2018/sep/08/our-obsession-with-metrics-is-hurting-us-and-even-endangering-our-lives&quot;&gt; sending critically ill patients away&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There exist an &lt;a href=&quot;https://www.themandarin.com.au/89264-welcome-targetworld-goals-can-undermine-performance/&quot;&gt;enormous&lt;/a&gt; &lt;a href=&quot;https://gimletmedia.com/shows/reply-all/o2hx34&quot;&gt;number&lt;/a&gt; of &lt;a href=&quot;https://oxfamblogs.org/fp2p/book-review-navigation-by-judgment-by-dan-honig/&quot;&gt;examples&lt;/a&gt; where public administrations attempt to solve “cat” problems with “clock” practices. The problems than then promptly ensue are sadly entirely predictable and they are the norm, not the exception.&lt;/p&gt;
+
+&lt;p&gt;How should we go about changing this?&lt;/p&gt;
+
+&lt;h1 id=&quot;if-youre-in-a-hole-stop-digging-learn-from-whats-already-here-and-lead-by-example&quot;&gt;“If you’re in a hole stop digging”, learn from what’s already here, and lead by example&lt;/h1&gt;
+
+&lt;p&gt;It’s time to replace or at least complement the dominant managerial paradigm with something that’s more adapted to complexity.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-the-first-rule-of-holes-if-youre-in-a-hole-stop-digging&quot;&gt;1) The First Rule of Holes: “If you’re in a hole, stop digging”&lt;/h2&gt;
+
+&lt;p&gt;No amount of tweaking and refining will make practices borne out of complicatedness fit for complexity. If you’re in a hole, you need to stop digging. A different shovel made of sophisticated materials isn’t going to help. Doing less of the wrong thing is not the same as doing the right thing. This might mean, for example, not having fewer targets but having no targets.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-we-should-learn-from-whats-already-here&quot;&gt;2) We should learn from what’s already here&lt;/h2&gt;
+
+&lt;p&gt;It’s important to remember that none of this is fundamentally new. Elinor Ostrom won a Nobel Prize for documenting some of these mechanisms in her 1991 book “&lt;a href=&quot;https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5&quot;&gt;Governing the Commons&lt;/a&gt;”.&lt;/p&gt;
+
+&lt;p&gt;James C. Scott described the importance of tacit knowledge in complex situations his 1999 classic “&lt;a href=&quot;https://yalebooks.yale.edu/book/9780300078152/seeing-state&quot;&gt;Seeing Like a State&lt;/a&gt;” and Herbert Simon wrote in 1969:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“when we come to the design of systems as complex as cities, or buildings, or economies, we must give up the aim of creating systems that will optimize some hypothesized utility function”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We should be careful not to reinvent the wheel and to learn as much as possible from the pioneers who have worked on these questions for a long time.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-you-cant-reason-someone-out-of-something-they-havent-been-reasoned-into--thats-why-we-need-to-lead-by-example&quot;&gt;3) “You can’t reason someone out of something they haven’t been reasoned into” — that’s why we need to lead by example&lt;/h2&gt;
+
+&lt;p&gt;Paradigms don’t change easily. The old ones usually put up a fight before we all collectively shift to a new paradigm. Too much — companies, careers, reputations — is at risk for this to happen quickly. Also, when they’re strong enough we forget that they exist in the first place. Established practices become “common sense” and, as a result, are impervious to criticism.&lt;/p&gt;
+
+&lt;p&gt;That’s why it’s almost impossible to win a theoretical argument against the dominant paradigm. The way forward then is to proceed by practical action, to demonstrate the effectiveness of complexity-conscious ways of working, and to champion the many examples that already exist out there.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-emerging-contours-of-a-complexity-conscious-paradigm-for-public-administration&quot;&gt;The emerging contours of a complexity-conscious paradigm for public administration&lt;/h1&gt;
+
+&lt;p&gt;We are currently witnessing in a kind of ‘&lt;a href=&quot;https://www.civilserviceworld.com/articles/opinion/opinion-quiet-revolution-public-services-has-got-whitehall%E2%80%99s-attention&quot;&gt;quiet revolution&lt;/a&gt;’ the emergence of a new, competing paradigm. It’s one that relies on &lt;a href=&quot;https://resources.centreforpublicimpact.org/production/2019/07/WEB-CPI-Shared-Power-Principle.pdf&quot;&gt;shared power rather than control&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Buurtzorg, a Dutch home care organisation, for example, delivers outstanding care with no managers and no targets (see our &lt;a href=&quot;https://www.centreforpublicimpact.org/case-study/buurtzorg-revolutionising-home-care-netherlands/&quot;&gt;detailed case study here&lt;/a&gt;). Wigan Council in the north of England &lt;a href=&quot;https://www.centreforpublicimpact.org/tight-values-loose-delivery-donna-hall-leading-deal-wigan/&quot;&gt;implemented&lt;/a&gt; &lt;a href=&quot;http://www.centreforpublicimpact.org/case-study/the-wigan-deal/&quot;&gt;The Deal&lt;/a&gt;, a radically holistic, ethnographically based approach to public service delivery.&lt;/p&gt;
+
+&lt;p&gt;Movements like the &lt;a href=&quot;https://www.losingcontrol.org/&quot;&gt;Losing Control Network&lt;/a&gt; or &lt;a href=&quot;https://www.oneteamgov.uk/&quot;&gt;OneTeamGov&lt;/a&gt; are working in vastly different contexts but are gaining traction with their ideas that are highly attuned to complexity.&lt;/p&gt;
+
+&lt;p&gt;The same themes are also resonating in the development world. &lt;a href=&quot;https://global.oup.com/academic/product/navigation-by-judgment-9780190672454?cc=gb&amp;amp;lang=en&amp;amp;&quot;&gt;Dan Honig&lt;/a&gt;, Professor at Johns Hopkins SAIS, used a database of over 14’000 development projects to show that “tight controls” and a “narrow focus on reaching pre-set targets” undermined the performance of foreign aid projects in complex environments. The &lt;a href=&quot;https://www.odi.org/sites/odi.org.uk/files/odi-assets/events-documents/5149.pdf&quot;&gt;Doing Development Differently&lt;/a&gt; movement has been arguing for a more complexity-informed approach for years now.&lt;/p&gt;
+
+&lt;p&gt;All progress happens at the periphery first and then moves, over time, into the mainstream. This will not be any different. While we don’t yet exactly know what this new paradigm will look like we can discern some emerging contours.&lt;/p&gt;
+
+&lt;p&gt;In our recent discussion paper on the &lt;a href=&quot;https://resources.centreforpublicimpact.org/production/2019/07/WEB-CPI-Shared-Power-Principle.pdf&quot;&gt;Shared Power Principle&lt;/a&gt;, we describe four patterns that characterize this paradigm:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Subsidiarity as a guide:&lt;/strong&gt; putting decision-making power into the hands of people or organisations with the greatest knowledge of an issue and helping them exercise this power as effectively as possible.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Relationships first:&lt;/strong&gt; embracing human complexity and acknowledging that we should not seek solutions with the “average” citizen in mind. We need more bespoke approaches, which require deep and trusted relationships that go beyond mere transactions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;New forms of governance and leadership:&lt;/strong&gt; fostering the emergence of more diverse accountability structures that give people time and space to make and discuss decisions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Building a culture of continuous learning:&lt;/strong&gt; creating a culture of continuous learning within teams and across different organisations.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://resources.centreforpublicimpact.org/production/2019/07/WEB-CPI-Shared-Power-Principle.pdf&quot;&gt;paper&lt;/a&gt; contains much more detail on all of these. Much remains to be discovered and figured out but it is encouraging to see so much movement and experimentation.&lt;/p&gt;
+
+&lt;p&gt;One day this new, complexity-informed paradigm will no doubt seem blindingly obvious, just like the managerial paradigm of efficiency and “best practice” feels obvious right now. Until then we need to keep chipping away at the old paradigm and leading by example to bring about a new one.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Special thanks go to my colleagues &lt;a href=&quot;https://twitter.com/LenaKuenkel&quot;&gt;Lena Kuenkel&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/_AdrianBrown&quot;&gt;Adrian Brown&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/JohnBurgoyne07&quot;&gt;John Burgoyne&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/bnjcomms&quot;&gt;Bridget Nurre Jennions&lt;/a&gt; for their help with this post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How self-organisation has changed the way we work and what I have learned along the way</title>
+   <link href="http://localhost:4000//2019/07/31/how-self-organisation-has-changed-the-way-we-work"/>
+   <updated>2019-07-31T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2019/07/31/how-self-organisation-has-changed-the-way-we-work</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/how-self-management-has-changed-the-way-i-work-5976fc46cca3&quot;&gt;Medium&lt;/a&gt; page (31 July 2019).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In January this year we, the London-based team of the &lt;a href=&quot;https://www.centreforpublicimpact.org/&quot;&gt;Centre for Public Impact&lt;/a&gt;, began moving from being a hierarchical, conventional organisation to one that’s built on self-organisation. We collectively determine the projects we take on as an organisation, we individually decide where our skills and judgment can contribute most and each project team is empowered to make all decisions it needs to. There’s more detail to it, of course, but this is the gist of it.&lt;/p&gt;
+
+&lt;p&gt;Before moving to self-management we operated the way most organisations do: we had a hierarchy, line managers, and all the other features you’d find in most places. Why? Because that’s how work works, doesn’t it?&lt;/p&gt;
+
+&lt;p&gt;Self-organisation offered a radical and promising alternative. We got interested in self-management through seeing a handful of public service organisations doing it and sensing that there was a lot of promise in this.&lt;/p&gt;
+
+&lt;p&gt;When I was first confronted with the idea of self-organisation (or self-management, as it’s also called) I was skeptical — somewhere on the spectrum between “ha, no way” and “beautiful idea but this can’t possibly work for &lt;em&gt;us&lt;/em&gt;”. I completely changed my mind. Having lived it now I know that I wouldn’t want to go back.&lt;/p&gt;
+
+&lt;p&gt;The way to self-management has, however, involved considerable pain and we’ve made more than a few decisions which turned out to look a lot like mistakes. It’s, of course, possible that in some oblique way these helped us get to where we are today. But if we were to do this again I would want to think long and hard about these and almost certainly do things differently.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We initially weren’t aligned on whether we had in fact made the decision to move to self-management and, if so, what it would mean:&lt;/strong&gt; in Fall last year we had a team away day where we discussed our collective desire to move to a less hierarchical, more self-directed management model. Out of that grew the decision to move to self-management. We have, however, different recollections of how that decision came about, who was involved in it and whether the group had wanted this in the first place.&lt;/p&gt;
+
+&lt;p&gt;We had a lack of a clear mandate coupled with a disagreement over who gets to make the decision to move to self-management (is it ‘the last hierarchical decision ever taken’ or is it the team? If it’s the team, does it need to happen by consensus or is a plurality enough?). This turned out to be a formidable obstacle which cost us a lot of time and energy.&lt;/p&gt;
+
+&lt;p&gt;Moving to self-organisation is not necessarily a decision that needs to be made by consensus, though that’s an option. What it needs is clarity around the decision to do it and what self-management means. We had neither.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We tried to reinvent the mechanics of self-organised working without learning from others that had gone before us:&lt;/strong&gt; we took a radical approach and removed (almost) at once all structure and procedures that we had in place previously. The idea was that this would show what we actually needed. It works in theory but it didn’t in practice. We ended up discovering lots of things which no doubt others already knew. This approach caused a significant amount of unnecessary pain and anxiety for many on the team because of the high degree of uncertainty that came with it.&lt;/p&gt;
+
+&lt;p&gt;Every organisation is unique and I would never advocate copying an existing model wholesale. Not building more purposefully on what was already out there was, however, not the best choice.&lt;/p&gt;
+
+&lt;p&gt;We’ve also come to understand that self-management does not imply getting rid of structures and processes. Quite the opposite, it requires an intentional effort to craft structures which create clarity and allow everyone to get on with the work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We struggled to distinguish management from leadership and abdicated responsibility:&lt;/strong&gt; one of the most common failure modes when moving from traditional management to self-organisation is for managers to disengage and abdicate responsibility in an attempt to create the space for others to step into. I walked right into that trap. The only solace is that I wasn’t the only one to do that…&lt;/p&gt;
+
+&lt;p&gt;If you’re reading the above and are thinking &lt;em&gt;‘this sounds hard and while Danny is being candid I suspect there’s lots more emotional conflict and anxiety behind what he’s writing”&lt;/em&gt; then you’d be exactly right.&lt;/p&gt;
+
+&lt;p&gt;This is easily one of the hardest things I’ve ever done professionally. But it is also easily one of the most rewarding undertakings. And I would not want to go back to what we had before.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The relationships I have with the people who I used to ‘line manage’ are deeper and more genuine:&lt;/strong&gt; Previously people I work with would show me their work or get my opinion not necessarily because they thought it was useful but because they knew I expected them to do so. Now I’m pulled into meetings or asked for advice on something because people believe it’ll be useful, not because they have to. Apart from the considerable amount of time that we’ve stopped wasting this makes for much more genuine and productive personal relationships.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I spend no time ‘managing’ and much more time adding value:&lt;/strong&gt; A fair amount of my time would be spent keeping up with how a project was going, getting to grips with some detail I’d need to know so I could explain it myself, reviewing materials, etc. etc. etc. This will sound familiar to almost anyone in a managerial position. I still do some of that — but never with the intention of “checking” or “approving” but with the intention of providing support. It makes a huge difference.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I feel liberated from needing to conform to a particular role that isn’t mine:&lt;/strong&gt; we used to have fairly rigidly defined ideas of what our jobs were. Self-organisation has allowed me to feel comfortable with two things:&lt;/p&gt;
+
+&lt;p&gt;Firstly, my job is made up of several roles and these can include things which traditionally would be seen as not appropriate for a manager. Let me give you a silly example: I tremendously enjoy coding and automating recurring business processes. Doing that is most definitely value-adding but it’s something that as a manager I’d traditionally be discouraged from doing because it’s a ‘hands-on’ type of activity that could, at least in theory, be done by someone else. I’ve now embraced this as a (minor but very enjoyable) part of what I do.&lt;/p&gt;
+
+&lt;p&gt;Secondly, the roles I play and their relative balance will change shift regularly — and that’s great. In a traditional model, any change in roles can feel threatening and we tend to evaluate them against questions like “how does this change my status?”. In self-organised environments, this is much less of a concern.&lt;/p&gt;
+
+&lt;p&gt;We are only seven months in and &lt;em&gt;far&lt;/em&gt; from having ‘figured it out’. It does, however, feel like the initial hurdle is maybe behind us. There’s tremendous energy that comes from us all collectively having generated clarity around what we’re trying to do and why we’re doing it.&lt;/p&gt;
+
+&lt;p&gt;I wanted to take a step back and share some of what we have learned. This is a personal reflection — and one that in all likelihood I would have never written if it weren’t for this environment which allows for more openness and vulnerability. I’m confident that my colleagues would agree with much of it but I’m equally certain that they’d bring up other aspects as well and tell some of the stories &lt;em&gt;very &lt;/em&gt;differently.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also wanted to express our gratitude to those who have and are still helping us figure this out.&lt;/p&gt;
+
+&lt;p&gt;Vishal Jodhani — a master facilitator and possibly the most attentive listener on earth — gave us a spin in the right direction with the facilitation training he ran with us more than a year ago. Therese Wallin — trainer at &lt;a href=&quot;http://tuffleadershiptraining.com/&quot;&gt;Tuff Leadership Training&lt;/a&gt; and a role model for clear and frank communication — and &lt;a href=&quot;https://twitter.com/disruptandlearn&quot;&gt;Lisa Gill&lt;/a&gt; — also with Tuff and host of the wonderful &lt;a href=&quot;http://leadermorphosis.co/&quot;&gt;Leadermorphosis&lt;/a&gt; podcast — provide encouragement and much of the mental underpinning for what we’re doing. &lt;a href=&quot;https://twitter.com/RichDecibels&quot;&gt;Rich Bartlett&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/LombardoNati&quot;&gt;Nati Lombardo &lt;/a&gt;— founders of &lt;a href=&quot;https://www.thehum.org/&quot;&gt;The Hum&lt;/a&gt; and part of &lt;a href=&quot;https://enspiral.com/&quot;&gt;Enspiral&lt;/a&gt; — shared their expertise and inspiring examples. Belinda Harrison-Wong — no-nonsense &lt;a href=&quot;https://www.exceedconsulting.co.uk/&quot;&gt;coach&lt;/a&gt; — worked with what used to be the “management team” to help us with this transition. Finally, &lt;a href=&quot;https://twitter.com/HelenWBTeam&quot;&gt;Helen Sanderson&lt;/a&gt; — inspiring role model, founder of &lt;a href=&quot;https://wellbeingteams.org/&quot;&gt;Wellbeing Teams&lt;/a&gt; and fearless facilitator — pointed out what was in front of us at just the right moment in time.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How we know when decentralization works in government</title>
+   <link href="http://localhost:4000//2019/05/13/how-we-know-when-decentralization-works"/>
+   <updated>2019-05-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2019/05/13/how-we-know-when-decentralization-works</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/how-we-know-when-decentralization-works-in-government-7299bd7d8f50&quot;&gt;Medium&lt;/a&gt; page (13 May 2019).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a lively debate raging in the public policy world over the use of evidence, the role of innovation and experimentation, and the importance of “place”. Some public policies clearly benefit from being steered from the national level. Others are much more effective when key decisions are made locally, e.g. in cities.&lt;/p&gt;
+
+&lt;p&gt;But how do we know when to centralize and when not to? When is evidence of “what works” useful and when is it not? When is local experimentation crucial for success and when is it a waste of time and resources? When is the “&lt;a href=&quot;https://www.centreforpublicimpact.org/the-enabling-state-how-governments-can-achieve-more-by-letting-go/&quot;&gt;enablement mindset&lt;/a&gt;” most needed?&lt;/p&gt;
+
+&lt;p&gt;We develop a simple model here that helps us think about these questions in a structured way. Like all models, it is a simplification but it hopefully helps illuminate the questions we should be asking ourselves and others in this debate.&lt;/p&gt;
+
+&lt;p&gt;One important caveat: we are looking here at public policies and their effectiveness from a purely empirical perspective. In other words, we are not exploring normative considerations for or against, e.g. decentralization or the use of evidence.&lt;/p&gt;
+
+&lt;p&gt;Policymaking is about changing the world in a purposeful way&lt;/p&gt;
+
+&lt;p&gt;“Policies” or “strategies” or “interventions” in government are fundamentally about changing the world from the current state into a more desired state, to move it from where it is today to where we want it to be.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_a.png&quot; alt=&quot;Policies and interventions aim to move the world from a state &amp;quot;A&amp;quot; to a state &amp;quot;B&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are of course many more reasons why governments sometimes embark on certain policies. Often it is about needing to be seen doing &lt;em&gt;something. &lt;/em&gt;But let’s assume for now that our motives are pure and the objective of a policy is to change the world from A to B in some purposeful way.&lt;/p&gt;
+
+&lt;p&gt;Assuming that we have a vision or desired state in mind the question becomes: given that we’re &lt;em&gt;here, &lt;/em&gt;how do we get &lt;em&gt;there&lt;/em&gt;?&lt;/p&gt;
+
+&lt;h1 id=&quot;the-problem-of-the-infinite-policy-design-space&quot;&gt;The problem of the infinite policy design space&lt;/h1&gt;
+
+&lt;p&gt;Any intervention or policy will always have multiple dimensions about which we need to make decisions. This is what some people call the “design space” of a policy. This design space is very large, even for simple policies.&lt;/p&gt;
+
+&lt;p&gt;Take &lt;a href=&quot;https://en.wikipedia.org/wiki/Conditional_cash_transfer&quot;&gt;conditional cash transfers&lt;/a&gt; as an example. Conditional cash transfer programmes seek to reduce poverty by making welfare payments conditional on some criteria, e.g. whether the recipient’s children are enrolled in school.&lt;/p&gt;
+
+&lt;p&gt;What is the design space for a conditional cash transfer programme?&lt;/p&gt;
+
+&lt;p&gt;We need to decide on the amount of money we transfer to beneficiaries. Should it be 10$ per year? 100$ per year? 1000$ per year?&lt;/p&gt;
+
+&lt;p&gt;We also need to decide on the frequency of transfers. Should money be given weekly? Monthly? Quarterly?&lt;/p&gt;
+
+&lt;p&gt;Next, we need to decide on the conditions attached to the transfer and on how we’ll determine whether the conditions are met. And it goes on and on.&lt;/p&gt;
+
+&lt;p&gt;The number of possible combinations is enormous. You could have a programme that transfers $10 weekly and demands that a recipient’s child be vaccinated. Or you could have a programme that transfers $50 on a monthly basis and requires that the children be sent to school. Or you could go for any other conceivable combination of these factors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_b.png&quot; alt=&quot;Design space for a policy with only two dimensions&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Design space for a policy with only two dimensions&lt;/figcaption&gt;
+
+&lt;p&gt;The graph above shows a policy with just two elements. Each dot represents one possible combination. With ten choices to make on each dimension, we would get 100 possible versions of that policy.&lt;/p&gt;
+
+&lt;p&gt;Given that most policies involve not just two but hundreds if not thousands of dimensions the “design space” of any policy is — for all intents and purposes — infinite.&lt;/p&gt;
+
+&lt;p&gt;What policymakers are interested in is which configuration will yield the best result. In other words, which policy design will be the most effective?&lt;/p&gt;
+
+&lt;p&gt;We could, in theory, try out every single conceivable combination in the design space. That would mean trying out a huge number of variants of any policy. Given the number of dimensions of most policies and the combinatorial explosion involved we would quickly be faced with a near-infinite number of policies to try out. That seems impractical, particularly once you factor in that most policies take time to show their results.&lt;/p&gt;
+
+&lt;p&gt;Systematically trying out every single combination of parameters is clearly not an option.&lt;/p&gt;
+
+&lt;p&gt;What should we do instead then? The answer depends on two things: the &lt;em&gt;shape of the response surface&lt;/em&gt;and on &lt;em&gt;how much that response surface differs between different places&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;smooth-and-rugged-policies--for-some-policies-small-changes-dont-make-a-difference-for-others-it-changes-everything&quot;&gt;Smooth and rugged policies — for some policies small changes don’t make a difference, for others it changes everything&lt;/h1&gt;
+
+&lt;p&gt;There exist policies for which the response surface is relatively &lt;em&gt;smooth&lt;/em&gt;. Small changes in the design space won’t make a big difference.&lt;/p&gt;
+
+&lt;p&gt;The sketch below shows such a policy. The red dot shows the optimal configuration. You can imagine this as a hill on a map with the red dot being the highest point.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_c.png&quot; alt=&quot;Policy with a &amp;quot;smooth&amp;quot; response surface - small changes in its configuration won't make a big difference&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Policy with a &quot;smooth&quot; response surface --- small changes in its configuration won't make a big difference&lt;/figcaption&gt;
+
+&lt;p&gt;Because the surface is &lt;em&gt;smooth &lt;/em&gt;we can systematically search our way to the best solution. For policies with smooth response surfaces, we are much more likely to have either found the optimal place in the design space (the red dot in the sketch) or be somewhere near it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_d.png&quot; alt=&quot;For policies with a &amp;quot;smooth&amp;quot; response surface, we can iterate in small steps and find our way to better configurations&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;For policies with a &quot;smooth&quot; response surface, we can iterate in small steps and find our way to better configurations&lt;/figcaption&gt;
+
+&lt;p&gt;Furthermore, because the surface is &lt;em&gt;smooth&lt;/em&gt; there is &lt;em&gt;one &lt;/em&gt;right answer to the question of “which configuration of parameters will maximize the effectiveness of this policy?”. Once you found it you should stay there and not change anything. If you deviate from it, you’re doing it wrong.&lt;/p&gt;
+
+&lt;p&gt;But what if the response surface for a policy isn’t &lt;em&gt;smooth&lt;/em&gt; but &lt;em&gt;rugged&lt;/em&gt;?&lt;/p&gt;
+
+&lt;p&gt;First, we now have multiple “right” answers, i.e. multiple configurations which will produce good results.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_e.png&quot; alt=&quot;Policy with a &amp;quot;rugged&amp;quot; response surface --- small changes in its configuration will make a big difference here&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Policy with a &quot;rugged&quot; response surface - small changes in its configuration will make a big difference here&lt;/figcaption&gt;
+
+&lt;p&gt;Second, finding our way to a good configuration (a red dot in the sketch) is harder because the landscape is more confusing. For those policies, we are much less likely to have either found a global maximum or be near it. This is typical for policies which are complex (rather than just complicated).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_f.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To summarize, a policy can either have a &lt;em&gt;smooth&lt;/em&gt; or &lt;em&gt;rugged&lt;/em&gt; surface. This is, of course, a spectrum with perfectly flat surfaces on one side and crazily spiky surfaces on the other.&lt;/p&gt;
+
+&lt;p&gt;There is, however, a dimension beyond rugged-vs-smooth that we need to consider.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-importance-of-place--some-policies-work-the-same-way-everywhere-others-dont&quot;&gt;The importance of place — some policies work the same way everywhere, others don’t&lt;/h1&gt;
+
+&lt;p&gt;So far we implicitly assumed that we are implementing this policy only in one place. But almost any policy will, of course, be implemented in more than one place, city, town, region, etc.&lt;/p&gt;
+
+&lt;p&gt;If we implement a policy in more than one place each place will have its own response surface. If we look at those local response surfaces and compare them to each other we’ll see one of two situations: it’s possible that they all look the same. Or it’s possible that they look very different.&lt;/p&gt;
+
+&lt;p&gt;If they all look the same we have &lt;em&gt;low variability&lt;/em&gt; between surfaces. If they all look radically different we have &lt;em&gt;high variability&lt;/em&gt; between surfaces.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_g.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Response surfaces can either be similar (low variability) between different places or very different (high variability)&lt;/figcaption&gt;
+
+&lt;p&gt;If we have a &lt;em&gt;smooth&lt;/em&gt; surface and &lt;em&gt;low variability&lt;/em&gt; it means that no matter where this policy is implemented, the effect will be the same. Changes in the specification of the policy will also have the same effect everywhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_h.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Smooth response surfaces and low variability between places&lt;/figcaption&gt;
+
+&lt;p&gt;If the surface is &lt;em&gt;rugged &lt;/em&gt;and the variability is &lt;em&gt;low&lt;/em&gt; we will get the same effect no matter where we implement the policy. Again, we can “scale” policies to our heart’s content.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_i.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Rugged response surface and low variability between places&lt;/figcaption&gt;
+
+&lt;p&gt;If the surface is &lt;em&gt;smooth&lt;/em&gt; and the variability is &lt;em&gt;high&lt;/em&gt; we will see some differences between places. This means that a policy’s effectiveness will be different in different places — it’ll work everywhere but somewhat better in some places than others.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_j.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Smooth response surfaces and high variability between places&lt;/figcaption&gt;
+
+&lt;p&gt;The most challenging case is, however, when the response surface is &lt;em&gt;rugged &lt;/em&gt;and the variability is &lt;em&gt;high.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Rugged response surfaces and high variability between places&lt;/figcaption&gt;
+
+&lt;p&gt;If we implement the policy with the same specification in different places we’ll get radically different results. To achieve similar results we will need different specifications.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-this-means-for-evidence-experimentation-innovation-management-and-local-decision-making&quot;&gt;What this means for evidence, experimentation, innovation, management, and local decision-making&lt;/h1&gt;
+
+&lt;p&gt;What does this all mean in practice? This model gives us a useful framework to think about the role of evidence, experimentation, innovation, management, and local vs. central decisionmaking.&lt;/p&gt;
+
+&lt;p&gt;Let’s look at the four stylized types of policies in turn.&lt;/p&gt;
+
+&lt;p&gt;If we’re looking at a policy that has a &lt;em&gt;smooth response surface&lt;/em&gt; and &lt;em&gt;low variability&lt;/em&gt; between places life is easy. Evidence about “what works” will travel well. “Scaling” works well because what worked in one place will work in another. That’s why we can pilot a policy in one place then scale it to many more. Top-down control and deciding things at the highest possible (e.g. national) level will also serve us well. In this scenario, there is nothing to be gained from allowing local variation or experimentation.&lt;/p&gt;
+
+&lt;p&gt;Consider now a policy with a &lt;em&gt;rugged response surface&lt;/em&gt; but still &lt;em&gt;low variability &lt;/em&gt;between places. Evidence about “what works” will also travel well. Because the response surface rugged we are, however, less likely to have found the best way of configuring the policy. This means that we would benefit from local experimentation since that increases the chances of hitting on new and better ways of doing things. But if we were to decree this policy and roll it out in an identical fashion across a country we could expect to see the same results no matter where we implement it.&lt;/p&gt;
+
+&lt;p&gt;What about a policy that has a &lt;em&gt;smooth response surface&lt;/em&gt; but &lt;em&gt;high variability&lt;/em&gt; between places? High variability means that unless we have worked out the absolute best way of configuring this policy then the same policy implemented the same way will generate different results in different places. Again this implies that we would benefit from local experimentation.&lt;/p&gt;
+
+&lt;p&gt;Finally, let’s look at policies that have a &lt;em&gt;rugged response surface &lt;/em&gt;and show &lt;em&gt;high variability&lt;/em&gt; between places. Those are policies for which small changes will make a huge difference &lt;em&gt;and&lt;/em&gt; for which the effects will vary drastically across places. Evidence about “what works” is not going to tell us much if anything at all in this scenario. Local decision-making and experimentation are essential because anything else will guarantee inferior results.&lt;/p&gt;
+
+&lt;p&gt;“Local” or “place” in this context can mean a city, a region or an individual. For some of the most complex social services which governments provide the unit that we should be looking at is the individual. Saying that individuals with complex needs require individualized solutions to their problems is simply saying that the response surface is rugged and the variability between individuals high.&lt;/p&gt;
+
+&lt;p&gt;The bottom line is this: unless we’re looking at a policy with a smooth response surface and low variability across places local decision-making and experimentation will always beat control from higher up.&lt;/p&gt;
+
+&lt;p&gt;Some things certainly fall into the smooth surface/low variability category but most policy problems arguably don’t. This provides the justification for subsidiarity, the idea that everything should be dealt with at the lowest level possible.&lt;/p&gt;
+
+&lt;p&gt;In other words, we should start from the assumption that a problem can be dealt with at the lowest level and only hand it up if there is compelling evidence that it’s necessary. Unless we are very sure we’re in a situation with a smooth response surface and low variability localism will generate better results.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sources and inspiration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This post draws on many different ideas. Two were particularly influential:&lt;/p&gt;
+
+&lt;p&gt;The idea of a response surface is inspired by Lant Pritchett’s talk titled “The debate over RCTs is over: We won, they lost.” (&lt;a href=&quot;http://www.nyudri.org/s/The-Debate-about-RCTs-in-Development-is-Over-1.pptx&quot;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;The discussion of the role of evidence is influenced by Nancy Cartwright’s and Jeremy Hardie’s book “&lt;a href=&quot;https://global.oup.com/academic/product/evidence-based-policy-9780199841622?cc=ch&amp;amp;lang=en&amp;amp;&quot;&gt;Evidence-Based Policy: A Practical Guide to Doing It Better&lt;/a&gt;”.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>“What gets measured gets managed” — It’s wrong and Drucker never said it</title>
+   <link href="http://localhost:4000//2019/04/08/what-gets-measured-gets-managed-drucker-never-said-it"/>
+   <updated>2019-04-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2019/04/08/what-gets-measured-gets-managed-drucker-never-said-it</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This article was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6&quot;&gt;Medium&lt;/a&gt; page (08 April 2019).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Out of all received wisdoms “what gets measured gets managed” must be one of the most widely accepted as obvious. After all, how could we ever manage something that isn’t being measured?&lt;/p&gt;
+
+&lt;p&gt;The quote is usually attributed to Peter Drucker, the brilliant management theorist. A bit of digging reveals, however, two surprising things.&lt;/p&gt;
+
+&lt;p&gt;First, Drucker — &lt;a href=&quot;https://www.drucker.institute/thedx/measurement-myopia/&quot;&gt;according to the Drucker Institute&lt;/a&gt; no less — never said it.&lt;/p&gt;
+
+&lt;p&gt;Let that sink in. All those Harvard Business Review articles &lt;a href=&quot;https://hbr.org/2010/10/what-cant-be-measured&quot;&gt;attributing the quote to him&lt;/a&gt;? Apparently not so.&lt;/p&gt;
+
+&lt;p&gt;Second, the fact that something is wrong with “what gets measured gets managed” has been apparent for a &lt;em&gt;long &lt;/em&gt;time.&lt;/p&gt;
+
+&lt;p&gt;V. F. Ridgway published a &lt;a href=&quot;https://www.jstor.org/stable/pdf/2390989.pdf?seq=1#page_scan_tab_contents&quot;&gt;paper in 1956&lt;/a&gt; criticizing the measurement mantra. Simon Caulkin, a columnist, &lt;a href=&quot;https://www.theguardian.com/business/2008/feb/10/businesscomment1&quot;&gt;neatly summarized&lt;/a&gt; Ridgway’s argument as:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“What gets measured gets managed — even when it’s pointless to measure and manage it, and even if it harms the purpose of the organisation to do so”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Indeed the paper’s title is “Dysfunctional Consequences of Performance Measurements”.&lt;/p&gt;
+
+&lt;p&gt;Ridgway clearly was onto something in 1956. Not everything that matters can be measured. Not everything that we can measure matters.&lt;/p&gt;
+
+&lt;p&gt;It’s also obvious that there are plenty of organizations that achieve outstanding results without measuring some outcome of interest and “managing” for it. The &lt;a href=&quot;https://www.centreforpublicimpact.org/case-study/buurtzorg-revolutionising-home-care-netherlands/&quot;&gt;Dutch home care organization Buurtzorg&lt;/a&gt; is just one example. They achieve higher patient satisfaction at lower costs without measuring and managing for either in any meaningful way.&lt;/p&gt;
+
+&lt;p&gt;To summarize: Drucker never said the infamous sentence and we know already in 1956 that the “what gets measured gets managed” was deeply flawed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20190408_ruler.jpeg&quot; alt=&quot;Three rulers&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Photo by William Warby on Unsplash&lt;/figcaption&gt;
+
+&lt;p&gt;There is a mountain of evidence out there that Ridgway was right. That’s why it’s hard to understand why we are still having this debate more than 60 years after his paper.&lt;/p&gt;
+
+&lt;p&gt;Why would Ridgway say that it may be pointless to measure and manage something? Because measuring what we actually care about — rather than what’s easily measured — is fiendishly difficult and often impossible.&lt;/p&gt;
+
+&lt;p&gt;The difficulty of precisely specifying the outcome we are truly after is well known to AI researchers. There’s an &lt;a href=&quot;https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml&quot;&gt;entire lis&lt;/a&gt;t with hilarious examples of algorithms being given a metric to optimize for and finding entirely unexpected ways of ostensibly achieving their objective while violating common sense.&lt;/p&gt;
+
+&lt;p&gt;This is entertaining in the case of a toy algorithm. It’s less so when organisations and the people they serve are affected like when “staff at an outsourced Police control room were making 999 calls at quiet times in order to meet their target of answering 92% of calls within 10 seconds”. Or the time when “doctors [in the UK] were diverted from treating seriously ill patients to ones with minor problems in order to meet 4-hour waiting time targets” (&lt;a href=&quot;http://rethinkingservice.blogspot.com/2018/05/9-reasons-why-targets-make-performance.html&quot;&gt;details here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;What’s depressing about this is how predictable these problems with measurement and management are, how long we’ve understood them, how everyone involved in pursuing some meaningless metric knows it’s a sham and how “what gets measured gets managed” somehow is still accepted as gospel.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The quote from Simon Caulkin above was previously inaccurately attributed to V. F. Ridgway. Many thanks to &lt;a href=&quot;http://scottbot.net/&quot;&gt;Scott B. Weingart&lt;/a&gt; for spotting the error and &lt;a href=&quot;https://twitter.com/scott_bot/status/1115254667569659910&quot;&gt;kindly pointing it out&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hat tip to Bill Hennessy whose &lt;a href=&quot;http://billhennessy.com/simple-strategies/2015/09/09/i-wish-drucker-never-said-it&quot;&gt;blog post &lt;/a&gt; on this topic sparked my investigation into this — note though that the V. F. Ridgway quote is misattributed there.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
