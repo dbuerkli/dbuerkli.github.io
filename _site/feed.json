@@ -3,14 +3,14 @@
     "title": "Danny Buerkli",
     "home_page_url": "http://localhost:4000/",
     "feed_url": "http://localhost:4000/feed.json",
-    "description": "Simple and minimalistic jekyll blogging theme.",
+    "description": "Essays and Twitter threads",
     "icon": "http://localhost:4000/apple-touch-icon.png",
     "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     
     "author":  {
         "name": "Danny Buerkli",
-        "url": null,
+        "url": "https://dannybuerkli.com/",
         "avatar": null
     },
     
@@ -33,7 +33,7 @@
             
                 "author":  {
                 "name": "Danny Buerkli",
-                "url": null,
+                "url": "https://dannybuerkli.com/",
                 "avatar": null
                 }
                 
@@ -57,7 +57,7 @@
             
                 "author":  {
                 "name": "Danny Buerkli",
-                "url": null,
+                "url": "https://dannybuerkli.com/",
                 "avatar": null
                 }
                 
@@ -81,7 +81,7 @@
             
                 "author":  {
                 "name": "Danny Buerkli",
-                "url": null,
+                "url": "https://dannybuerkli.com/",
                 "avatar": null
                 }
                 
@@ -105,7 +105,7 @@
             
                 "author":  {
                 "name": "Danny Buerkli",
-                "url": null,
+                "url": "https://dannybuerkli.com/",
                 "avatar": null
                 }
                 
@@ -129,7 +129,7 @@
             
                 "author":  {
                 "name": "Danny Buerkli",
-                "url": null,
+                "url": "https://dannybuerkli.com/",
                 "avatar": null
                 }
                 
@@ -153,7 +153,7 @@
             
                 "author":  {
                 "name": "Danny Buerkli",
-                "url": null,
+                "url": "https://dannybuerkli.com/",
                 "avatar": null
                 }
                 
@@ -177,7 +177,31 @@
             
                 "author":  {
                 "name": "Danny Buerkli",
-                "url": null,
+                "url": "https://dannybuerkli.com/",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2016/05/18/10-government-innovations-and-their-place-in-the-hype-cycle",
+            "title": "10 Government Innovations and Their Place in the Hype Cycle",
+            "summary": "10 selected hot topics in government innovation and their place in the Hype Cycle",
+            "content_text": "This article was originally published in the Huffington Post (18 May 2016).The Hype Cycle, created by Gartner, provides a helpful and entertaining way to map how a technology develops from conception to maturity to adoption. As new technologies and ways of doing things come into the world, it takes experimentation to fully grasp the potential (or lack thereof) of something new. And much like in the private sector, where the Hype Cycle originated, it can be applied just as well to government.New technologies start in the technology trigger phase, climb the peak of inflated expectations, fall into the trough of disillusionment, and traverse the slope of enlightenment before - finally - arriving at the plateau of productivity. Things go from new and shiny to mature, from hyperbolic to realistic expectations, from courageous first users to mainstream adoption. Some of course never make it to the end and fall into the graveyard of discarded ideas.New Public Management (NPM) was at one point at the peak of inflated expectations but is now firmly and, many would argue, productively embedded in the practices of many governments. Along the way governments have learned, sometimes painfully, how to make best use of it.With that in mind, and without being too serious or scientific about it, here are 10 selected hot topics in government innovation and their place in the Hype Cycle.1) Artificial Intelligence: out with the humans, in with the machinesTransitioning out of technology trigger phase, scaling peak of inflated expectationsIf you’re a policymaker, you should be very afraid. DeepMind has beaten the world’s best Go player, something all experts thought was at least another decade out, and governments are only beginning to grasp what might be possible using machine-learning and AI. When will you be replaced? Expectations are high but will rise even more as governments start experimenting in earnest with this technology.2) Blockchain: one replicated, shared ledger to rule them allPeak of inflated expectationsBlockchain is the technology behind Bitcoin. While worthwhile government applications for blockchain will surely emerge, hype notwithstanding, few people seem to genuinely understand what blockchain can and cannot do. Everyone is still trying to figure out where applications of this technology really make sense for governments and their citizens and what it’s really good for. No doubt worthwhile and potentially radical applications will emerge, but some disappointments seem inevitable along the way.3) Design Thinking: Post it-sized, citizen-centred insightsPeak of inflated expectationsOriginating in the world of product and service design, this method borrows heavily from ethnography and is particularly valuable to improving governmental services. Design is not likely to be the solution for all of our governmental problems, but you wouldn’t be able to tell if you only listened to some of the star speakers at design conferences. It’s a solid method that delivers great results if used thoughtfully and in the right context. We should stick with it through the disillusionment that may be coming as governments learn about the limits of the method the hard way.4) Policy Labs: creative laboratories for better governmentJust past the peak of inflated expectations, about to descend into the trough of disillusionmentPolicy Labs are the hottest property in government innovation land. They bring together design thinkers and other creative problem-solvers to tackle government’s hardest problems. Organisations such as MindLab, OPM Lab and the UK Policy Lab are leading the way. The trough of disillusionment will likely come as more governments adopt the model, but it’s worth sticking with it since they, if set up and run well and given the necessary political backing, can make a difference.5) Randomised Control Trials: randomise this!Trough of disillusionmentHaving originated in development economics many countries, regional governments and cities - developing and developed alike - are warming up to the idea that randomised studies of interventions can help them figure out what works and what doesn’t. After an initial hype practitioners and policymakers are now getting better at understanding where and how this method can deliver most value.6) Social Impact Bonds: pay for success onlyTrough of disillusionmentSocial Impact Bonds, SIBs for those in the know, were first trialled in Peterborough, UK, in an attempt to reduce prisoner recidivism by using an innovative financing mechanism where private investors would get a return if a new intervention performed better than a conventional one. After much initial, and justified, excitement it today seems clear that they should work in theory, but it’s less clear how well they work in practice. SIBs are difficult and expensive to run, they likely have a place in the social services landscape, but it may be more limited than was initially thought.7) Open Data: spray and prayTrough of disillusionmentTo the casual observer, it may not be immediately obvious if “open data“ has produced much of practical value to citizens, other than better public transportation apps and free pizza at government-sponsored open data “hackathons”. Making government data easily accessible should improve accountability and allow smart outside actors to spot opportunities for improvement, but so far actual results have been somewhat below expectations.8) Behavioural Insights: gently nudging citizens to better decisionsSlope of enlightenmentBehavioural science has given governments a new tool not just to better understand the sometimes odd decisions their citizens make but to find ways to gently nudge people towards better choices. The method is well on its way to mainstream adoption in some (Anglo-Saxon) countries, but remains under-utilised in others.9) E-Government: bringing government websites into the 21st centurySlope of enlightenmentAllowing citizens to conduct their interactions with government online is a somewhat unexciting but absolutely essential service to citizens. No one should be subjected to long, pointless queuing to pick up a piece of paper anymore. Government Digital Services in the UK, 18F in the US and the entire Estonian government are showing how it can be done. Building user-friendly government online services can also act as a gateway to a more digitally enabled government in other areas.10) Lean in government: cut the slack the Toyota wayPlateau of productivityAs a structured way to cut waste in all kinds of processes, “lean” has long established itself as a useful tool for government operations too, not just for car factories. While “lean” doesn’t generate any particular excitement anymore, it’s become a productive instrument to improve government services.Not all countries, regions or cities are in the same place at the same time on this journey. Inflated expectations in one place co-exist with bitter disillusionment in others.The movement of new ideas, methods and technologies through the Hype Cycle is inevitable, as we collectively take promising new approaches and figure out what exactly they can and cannot do. Asking about impact, rather than appearance, can help us get there faster and discern the useful from the hopeless a bit quicker.Some amount of experimentation where the end result is unknown is, however, inevitable and indeed desirable. Odds are that all of these methods have some valuable contribution to make to better government. It is worth persevering all the way through to the plateau of productivity if we want citizens to reap the benefits.",
+            "content_html": "<p><em>This article was originally published in the <a href=\"https://www.huffpost.com/entry/10-government-innovations_b_10031858\">Huffington Post</a> (18 May 2016).</em></p><p><br /></p><hr /><p><br /></p><p>The Hype Cycle, created by Gartner, provides a helpful and entertaining way to map how a technology develops from conception to maturity to adoption. As new technologies and ways of doing things come into the world, it takes experimentation to fully grasp the potential (or lack thereof) of something new. And much like in the private sector, where the Hype Cycle originated, it can be applied just as well to government.</p><p>New technologies start in the <em>technology trigger</em> phase, climb the <em>peak of inflated expectations</em>, fall into the <em>trough of disillusionment</em>, and traverse the <em>slope of enlightenment</em> before - finally - arriving at the <em>plateau of productivity</em>. Things go from new and shiny to mature, from hyperbolic to realistic expectations, from courageous first users to mainstream adoption. Some of course never make it to the end and fall into the graveyard of discarded ideas.</p><p><img src=\"/assets/20160518_hypecycle.png\" alt=\"steel foundry\" /></p><p>New Public Management (NPM) was at one point at the peak of inflated expectations but is now firmly and, many would argue, productively embedded in the practices of many governments. Along the way governments have learned, sometimes painfully, how to make best use of it.</p><p>With that in mind, and without being too serious or scientific about it, here are 10 selected hot topics in government innovation and their place in the Hype Cycle.</p><h1 id=\"1-artificial-intelligence-out-with-the-humans-in-with-the-machines\">1) Artificial Intelligence: out with the humans, in with the machines</h1><p><em>Transitioning out of technology trigger phase, scaling peak of inflated expectations</em></p><p>If you’re a policymaker, you should be very afraid. <a href=\"https://deepmind.com/\">DeepMind</a> has beaten the world’s best Go player, something all experts thought was at least another decade out, and governments are only beginning to grasp what might be possible using machine-learning and AI. When will you be replaced? Expectations are high but will rise even more as governments start experimenting in earnest with this technology.</p><h1 id=\"2-blockchain-one-replicated-shared-ledger-to-rule-them-all\">2) Blockchain: one replicated, shared ledger to rule them all</h1><p><em>Peak of inflated expectations</em></p><p><a href=\"https://blockchain.info/\">Blockchain</a> is the technology behind <a href=\"https://bitcoin.org/en/\">Bitcoin</a>. While worthwhile government applications for blockchain will surely emerge, hype notwithstanding, few people seem to genuinely understand what blockchain can and cannot do. Everyone is still trying to figure out where applications of this technology really make sense for governments and their citizens and what it’s really good for. No doubt worthwhile and potentially radical applications will emerge, but some disappointments seem inevitable along the way.</p><h1 id=\"3-design-thinking-post-it-sized-citizen-centred-insights\">3) Design Thinking: Post it-sized, citizen-centred insights</h1><p><em>Peak of inflated expectations</em></p><p>Originating in the world of product and service design, this method borrows heavily from ethnography and is particularly valuable to improving governmental services. <a href=\"http://www.centreforpublicimpact.org/article/briefing-bulletin-design-for-policy-and-public-services/\">Design</a> is not likely to be the solution for all of our governmental problems, but you wouldn’t be able to tell if you only listened to some of the star speakers at design conferences. It’s a solid method that delivers great results if used thoughtfully and in the right context. We should stick with it through the disillusionment that may be coming as governments learn about the limits of the method the hard way.</p><h1 id=\"4-policy-labs-creative-laboratories-for-better-government\">4) Policy Labs: creative laboratories for better government</h1><p><em>Just past the peak of inflated expectations, about to descend into the trough of disillusionment</em></p><p>Policy Labs are the hottest property in government innovation land. They bring together design thinkers and other creative problem-solvers to tackle government’s hardest problems. Organisations such as <a href=\"http://www.centreforpublicimpact.org/article/welcome-to-the-lab/\">MindLab</a>, <a href=\"http://www.centreforpublicimpact.org/article/laws-from-the-lab/\">OPM Lab</a> and the <a href=\"http://www.centreforpublicimpact.org/article/lab-lessons/\">UK Policy Lab</a> are leading the way. The trough of disillusionment will likely come as more governments adopt the model, but it’s worth sticking with it since they, if set up and run well and given the necessary political backing, can make a difference.</p><h1 id=\"5-randomised-control-trials-randomise-this\">5) Randomised Control Trials: randomise this!</h1><p><em>Trough of disillusionment</em></p><p>Having originated in development economics many countries, regional governments and cities - developing and developed alike - are warming up to the idea that randomised studies of interventions can help them figure out what works and what doesn’t. After an initial hype practitioners and policymakers are now getting better at understanding where and how this method can deliver most value.</p><h1 id=\"6-social-impact-bonds-pay-for-success-only\">6) Social Impact Bonds: pay for success only</h1><p><em>Trough of disillusionment</em></p><p>Social Impact Bonds, SIBs for those in the know, were first trialled in Peterborough, UK, in an attempt to reduce prisoner recidivism by using an innovative financing mechanism where private investors would get a return if a new intervention performed better than a conventional one. After much initial, and justified, excitement it today seems clear that they should work in theory, but it’s less clear how well they work in practice. SIBs are difficult and expensive to run, they likely have a place in the social services landscape, but it may be more limited than was initially thought.</p><h1 id=\"7-open-data-spray-and-pray\">7) Open Data: spray and pray</h1><p><em>Trough of disillusionment</em></p><p>To the casual observer, it may not be immediately obvious if <a href=\"http://www.centreforpublicimpact.org/article/data-deliverers/\">“open data“</a> has produced much of practical value to citizens, other than better public transportation apps and free pizza at government-sponsored open data “hackathons”. Making government data easily accessible should improve accountability and allow smart outside actors to spot opportunities for improvement, but so far actual results have been somewhat below expectations.</p><h1 id=\"8-behavioural-insights-gently-nudging-citizens-to-better-decisions\">8) Behavioural Insights: gently nudging citizens to better decisions</h1><p><em>Slope of enlightenment</em></p><p><a href=\"https://s3-eu-west-1.amazonaws.com/funct-cpi-wordpress/assets/uploads/2015/09/Behavioural-Insights_Final_Online.pdf\">Behavioural science</a> has given governments a new tool not just to better understand the sometimes odd decisions their citizens make but to find ways to gently nudge people towards better choices. The method is well on its way to mainstream adoption in some (Anglo-Saxon) countries, but remains under-utilised in others.</p><h1 id=\"9-e-government-bringing-government-websites-into-the-21st-century\">9) E-Government: bringing government websites into the 21st century</h1><p><em>Slope of enlightenment</em></p><p>Allowing citizens to conduct their interactions with government online is a somewhat unexciting but absolutely essential service to citizens. No one should be subjected to long, pointless queuing to pick up a piece of paper anymore. <a href=\"https://gds.blog.gov.uk/\">Government Digital Services</a> in the UK, <a href=\"https://18f.gsa.gov/\">18F</a> in the US and the entire <a href=\"https://e-estonia.com/\">Estonian government</a> are showing how it can be done. Building user-friendly <a href=\"http://www.centreforpublicimpact.org/article/online-on-track/\">government online services</a> can also act as a gateway to a more digitally enabled government in other areas.</p><h1 id=\"10-lean-in-government-cut-the-slack-the-toyota-way\">10) Lean in government: cut the slack the Toyota way</h1><p><em>Plateau of productivity</em></p><p>As a structured way to cut waste in all kinds of processes, “lean” has long established itself as a useful tool for government operations too, not just for car factories. While “lean” doesn’t generate any particular excitement anymore, it’s become a productive instrument to improve government services.</p><p>Not all countries, regions or cities are in the same place at the same time on this journey. Inflated expectations in one place co-exist with bitter disillusionment in others.</p><p>The movement of new ideas, methods and technologies through the Hype Cycle is inevitable, as we collectively take promising new approaches and figure out what exactly they can and cannot do. Asking about impact, rather than appearance, can help us get there faster and discern the useful from the hopeless a bit quicker.</p><p>Some amount of experimentation where the end result is unknown is, however, inevitable and indeed desirable. Odds are that all of these methods have some valuable contribution to make to better government. It is worth persevering all the way through to the plateau of productivity if we want citizens to reap the benefits.</p>",
+            "url": "http://localhost:4000/2016/05/18/10-government-innovations-and-their-place-in-the-hype-cycle",
+            
+            
+            
+            
+            
+            "date_published": "2016-05-18T00:00:00+02:00",
+            "date_modified": "2016-05-18T00:00:00+02:00",
+            
+                "author":  {
+                "name": "Danny Buerkli",
+                "url": "https://dannybuerkli.com/",
                 "avatar": null
                 }
                 

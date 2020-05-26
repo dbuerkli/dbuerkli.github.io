@@ -1,5 +1,5 @@
 site: Danny Buerkli
-url: "https://dbuerkli.github.io/"
+url: "https://dannybuerkli.com/"
 title: Danny Buerkli
 description: Essays and Twitter threads
 twitter:
@@ -10,8 +10,8 @@ author:
   twitter: dannybuerkli
   name: Danny Buerkli
   avatar:
-  email: #youremail
-  url: #yoururl
+ # email: #youremail
+  url: "https://dannybuerkli.com/"
 permalink: pretty
 
 baseurl: ""
