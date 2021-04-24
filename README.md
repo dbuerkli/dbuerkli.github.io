@@ -1,0 +1,1 @@
+This is Danny Buerkli's personal website, hosted by Github Pages and built with Jekyll using the Sidey theme.

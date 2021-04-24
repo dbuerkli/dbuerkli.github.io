@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dannybuerkli.com//sitemap.xml
