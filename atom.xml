@@ -4,89 +4,20 @@
  <title>Danny Buerkli</title>
  <link href="https://dannybuerkli.com//atom.xml" rel="self"/>
  <link href="https://dannybuerkli.com//"/>
- <updated>2021-04-24T10:30:32+02:00</updated>
+ <updated>2020-05-26T23:05:14+02:00</updated>
  <id>https://dannybuerkli.com/</id>
  <author>
-   <name>Danny Buerkli (Bürkli)</name>
+   <name>Danny Buerkli</name>
    <email></email>
  </author>
 
- 
- <entry>
-   <title>Four things I’ve been surprised by in the context of the pandemic</title>
-   <link href="https://dannybuerkli.com//2021/03/03/four-things-ive-been-surprised-by"/>
-   <updated>2021-03-03T00:00:00+01:00</updated>
-   <id>https://dannybuerkli.com//2021/03/03/four-things-ive-been-surprised-by</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 03 March 2021&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This short piece was originally published on &lt;a href=&quot;https://dannybuerkli.medium.com/four-things-ive-been-surprised-by-in-the-context-of-the-pandemic-f2115d14724&quot;&gt;Medium&lt;/a&gt;. It was originally &lt;a href=&quot;https://twitter.com/dannybuerkli/status/1348320859405103104&quot;&gt;a thread I wrote on Twitter&lt;/a&gt; in January 2021. It seemed to resonate quite a bit, which is why I’ve turned it into a lightly edited blog post.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ve been cleaning out my notes and wanted to share a short note with four things I’ve learned, I’ve been wrong about and I’ve been surprised by in the context of the pandemic.&lt;/p&gt;
-
-&lt;p&gt;The usual disclaimers apply: This is a short blog post (and formerly a Twitter thread), i.e. there isn’t a huge amount of nuance in what follows.&lt;/p&gt;
-
-&lt;h1 id=&quot;1-narratives-are-much-more-stable-than-i-would-have-ever-thought-possible&quot;&gt;1) Narratives are (much) more stable than I would have ever thought possible.&lt;/h1&gt;
-
-&lt;p&gt;Switzerland is, by any sensible metric, doing badly in this pandemic. And yet this hasn’t filtered through to public discourse. It boggles the mind.&lt;/p&gt;
-
-&lt;p&gt;The logic seems to be “we usually do really well, therefore we must be doing well now”. Except we aren’t.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/DinaPomeranz/status/1347844229792473089&quot;&gt;Exhibit A:&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/20210303_fourthingsivelearned_a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;2-if-our-starting-assumptions-are-wrong-were-doomed-aka-mental-models-rule-everything-around-me&quot;&gt;2) If our starting assumptions are wrong, we’re doomed (aka ‘mental models rule everything around me’).&lt;/h1&gt;
-
-&lt;p&gt;One of the reasons for Switzerland’s abysmal performance seems to be a ‘business-as-usual’ mindset. We don’t seem to have clocked that this a crisis of enormous proportions.&lt;/p&gt;
-
-&lt;p&gt;Once the starting assumption is “we can deal with this the way we deal with any other problem” everything downstream is destined to fail.&lt;/p&gt;
-
-&lt;p&gt;The starting assumption ought to be much closer to “how can we mobilize everything we’ve got?” rather than “let’s do this in BAU [business as usual] channels”.&lt;/p&gt;
-
-&lt;p&gt;That is also why we witnessed silly debates last summer over the cost of the contact tracing operations. Investing massively in contact tracing would have easily been one of the most cost-effective investments available.&lt;/p&gt;
-
-&lt;p&gt;And yet it wasn’t done because, as far as I can tell, politicians and (some) media were worrying about cost — arguably because they were trapped in a ‘business-as-usual’ assumption where we assess governmental expenditures based on their efficiency.&lt;/p&gt;
-
-&lt;p&gt;Whatever looks efficient in the short run in a crisis situation, is bound to end up introducing fragility.&lt;/p&gt;
-
-&lt;p&gt;It’s as if you argued with the fire department and told them to load fewer fire hoses because that way you’d save on fuel while driving to where the fire is.&lt;/p&gt;
-
-&lt;p&gt;The problem is this: if you want efficiency, you need to know what you’re optimising for. In a complex or chaotic situation there are, however, no stable variables you can optimise for. This isn’t the time for efficiency, what you’re looking for is redundancy and effectiveness.&lt;/p&gt;
-
-&lt;p&gt;The first chapter in Stanley McChrystal et al.’s book &lt;a href=&quot;https://www.penguinrandomhouse.com/books/317066/team-of-teams-by-general-stanley-mcchrystal-tantum-collins-david-silverman-and-chris-fussell/&quot;&gt;“Team of Teams”&lt;/a&gt; is a good and highly accessible introduction to the foolishness of looking for efficiency in crisis situations.&lt;/p&gt;
-
-&lt;p&gt;The ‘business-as-usual’ starting point is also how we get these odd debates over the roll-out of the vaccines. Of course we should be vaccinating outside of business hours, if not 24/7.&lt;/p&gt;
-
-&lt;p&gt;The human and economic costs of any kind of lockdown are astronomical. Shortening that by even just a few days by going all-out on the vaccination effort will easily pay for itself, not to speak of the ethical/moral imperative to do so.&lt;/p&gt;
-
-&lt;h1 id=&quot;3-there-seems-to-be-a-shocking-lack-of-ambition-and-imagination-at-the-top-of-somemany-of-our-political-institutions&quot;&gt;3) There seems to be a shocking lack of ambition and imagination at the top of (some/many of) our political institutions.&lt;/h1&gt;
-
-&lt;p&gt;This relates to point 2 from above. If it wasn’t for Israel, to pick just one example, we’d probably still have people telling us that it simply isn’t possible to vaccinate this many people in such a short period of time.&lt;/p&gt;
-
-&lt;p&gt;This &lt;a href=&quot;https://marginalrevolution.com/marginalrevolution/2021/01/mass-vaccination-for-virginia-from-my-email.html&quot;&gt;point&lt;/a&gt; has also been made over and over by people like &lt;a href=&quot;https://twitter.com/tylercowen&quot;&gt;Tyler Cowen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It’s hard not to read this lack of ambition as a sign of decadence and decay. We’ve become so comfortable and sure of our own success, that we seem to be unable to mobilise our institutions — even in the face of an enormous crisis.&lt;/p&gt;
-
-&lt;p&gt;It’s fine to fail at an impossible task — and that’s how the narrative is currently being spun (&lt;em&gt;“we maybe didn’t cover ourselves in glory, but this was fundamentally unwinnable”&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Trouble is, this isn’t/wasn’t impossible. Hard, yes, but doable. Lots of excuses will be made, but — hopefully — everyone will ultimately recognise these for what they are.&lt;/p&gt;
-
-&lt;h1 id=&quot;4-the-best-way-to-think-about-media-products-is-to-understand-their-economic-incentive-structure&quot;&gt;4) The best way to think about media products is to understand their (economic) incentive structure.&lt;/h1&gt;
-
-&lt;p&gt;This is a trivial point. I used to think of media products as somehow being different from other goods/services. I’ve been thoroughly disabused of that notion.&lt;/p&gt;
-
-&lt;p&gt;Most media products are probably best thought of as belonging to the category of general entertainment. There’s nothing inherently wrong with that, it just seems important to recognise.&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>„Gradually, then suddenly“ — four concepts that may help us think clearly about the coronavirus epidemic</title>
    <link href="https://dannybuerkli.com//2020/03/08/gradually-then-suddenly"/>
    <updated>2020-03-08T00:00:00+01:00</updated>
    <id>https://dannybuerkli.com//2020/03/08/gradually-then-suddenly</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 08 March 2020&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This essay was originally published on &lt;a href=&quot;https://medium.com/@dannybuerkli/gradually-then-suddenly-four-concepts-that-may-help-us-think-clearly-about-the-coronavirus-671e2583f828&quot;&gt;Medium&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on &lt;a href=&quot;https://medium.com/@dannybuerkli/gradually-then-suddenly-four-concepts-that-may-help-us-think-clearly-about-the-coronavirus-671e2583f828&quot;&gt;Medium&lt;/a&gt; (08 March 2020).&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -247,9 +178,7 @@
    <link href="https://dannybuerkli.com//2020/01/30/what-i-think-we-do-at-cpi"/>
    <updated>2020-01-30T00:00:00+01:00</updated>
    <id>https://dannybuerkli.com//2020/01/30/what-I-think-we-do-at-CPI</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 30 January 2020&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This article was published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/what-i-think-we-do-at-the-centre-for-public-impact-54abaa81f3f5&quot;&gt;Medium&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;This article was published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/what-i-think-we-do-at-the-centre-for-public-impact-54abaa81f3f5&quot;&gt;Medium&lt;/a&gt; page (30 January 2020).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;This is my last week at the &lt;a href=&quot;https://www.centreforpublicimpact.org/&quot;&gt;Centre for Public Impact&lt;/a&gt; after five wonderful years. I feel privileged to have been part of an organisation with such an ambitious purpose.&lt;/p&gt;
 
@@ -296,9 +225,7 @@
    <link href="https://dannybuerkli.com//2019/09/04/mistakes-to-avoid"/>
    <updated>2019-09-04T00:00:00+02:00</updated>
    <id>https://dannybuerkli.com//2019/09/04/mistakes-to-avoid</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 04 September 2019&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This article was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/13-easy-to-avoid-mistakes-which-will-unnecessarily-but-significantly-diminish-your-chances-when-de2b4b0f5093&quot;&gt;Medium&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;This article was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/13-easy-to-avoid-mistakes-which-will-unnecessarily-but-significantly-diminish-your-chances-when-de2b4b0f5093&quot;&gt;Medium&lt;/a&gt; page (04 September 2019).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I have been involved in a few recruitment rounds over the past years. There are recurring, easy-to-avoid mistakes people make which unnecessarily but very significantly diminish their chances.&lt;/p&gt;
 
@@ -377,9 +304,7 @@
    <link href="https://dannybuerkli.com//2019/08/23/a-tale-of-two-paradigms"/>
    <updated>2019-08-23T00:00:00+02:00</updated>
    <id>https://dannybuerkli.com//2019/08/23/a-tale-of-two-paradigms</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 23 August 2019&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/a-tale-of-two-paradigms-meet-the-idea-which-is-quietly-changing-public-administrations-around-e2e57171f451&quot;&gt;Medium&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/a-tale-of-two-paradigms-meet-the-idea-which-is-quietly-changing-public-administrations-around-e2e57171f451&quot;&gt;Medium&lt;/a&gt; page (23 August 2019).&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Most people imagine that the present style of management has always existed, and is a fixture. Actually, it is a modern invention — a prison created by the way in which people interact.” W. Edwards Deming&lt;/p&gt;
@@ -534,9 +459,7 @@
    <link href="https://dannybuerkli.com//2019/07/31/how-self-organisation-has-changed-the-way-we-work"/>
    <updated>2019-07-31T00:00:00+02:00</updated>
    <id>https://dannybuerkli.com//2019/07/31/how-self-organisation-has-changed-the-way-we-work</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 31 July 2019&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/how-self-management-has-changed-the-way-i-work-5976fc46cca3&quot;&gt;Medium&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/how-self-management-has-changed-the-way-i-work-5976fc46cca3&quot;&gt;Medium&lt;/a&gt; page (31 July 2019).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;In January this year we, the London-based team of the &lt;a href=&quot;https://www.centreforpublicimpact.org/&quot;&gt;Centre for Public Impact&lt;/a&gt;, began moving from being a hierarchical, conventional organisation to one that’s built on self-organisation. We collectively determine the projects we take on as an organisation, we individually decide where our skills and judgment can contribute most and each project team is empowered to make all decisions it needs to. There’s more detail to it, of course, but this is the gist of it.&lt;/p&gt;
 
@@ -595,9 +518,7 @@
    <link href="https://dannybuerkli.com//2019/05/13/how-we-know-when-decentralization-works"/>
    <updated>2019-05-13T00:00:00+02:00</updated>
    <id>https://dannybuerkli.com//2019/05/13/how-we-know-when-decentralization-works</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 13 May 2019&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/how-we-know-when-decentralization-works-in-government-7299bd7d8f50&quot;&gt;Medium&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/how-we-know-when-decentralization-works-in-government-7299bd7d8f50&quot;&gt;Medium&lt;/a&gt; page (13 May 2019).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;There is a lively debate raging in the public policy world over the use of evidence, the role of innovation and experimentation, and the importance of “place”. Some public policies clearly benefit from being steered from the national level. Others are much more effective when key decisions are made locally, e.g. in cities.&lt;/p&gt;
 
@@ -753,9 +674,7 @@
    <link href="https://dannybuerkli.com//2019/04/08/what-gets-measured-gets-managed-drucker-never-said-it"/>
    <updated>2019-04-08T00:00:00+02:00</updated>
    <id>https://dannybuerkli.com//2019/04/08/what-gets-measured-gets-managed-drucker-never-said-it</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 08 April 2019&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This article was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6&quot;&gt;Medium&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;This article was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6&quot;&gt;Medium&lt;/a&gt; page (08 April 2019).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Out of all received wisdoms “what gets measured gets managed” must be one of the most widely accepted as obvious. After all, how could we ever manage something that isn’t being measured?&lt;/p&gt;
 
@@ -809,9 +728,11 @@
    <link href="https://dannybuerkli.com//2016/05/18/ten-government-innovations-and-their-place-in-the-hype-cycle"/>
    <updated>2016-05-18T00:00:00+02:00</updated>
    <id>https://dannybuerkli.com//2016/05/18/ten-government-innovations-and-their-place-in-the-hype-cycle</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 18 May 2016&lt;/em&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;This article was originally published in the &lt;a href=&quot;https://www.huffpost.com/entry/10-government-innovations_b_10031858&quot;&gt;Huffington Post&lt;/a&gt; (18 May 2016).&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;This article was originally published in the &lt;a href=&quot;https://www.huffpost.com/entry/10-government-innovations_b_10031858&quot;&gt;Huffington Post&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Hype Cycle, created by Gartner, provides a helpful and entertaining way to map how a technology develops from conception to maturity to adoption. As new technologies and ways of doing things come into the world, it takes experimentation to fully grasp the potential (or lack thereof) of something new. And much like in the private sector, where the Hype Cycle originated, it can be applied just as well to government.&lt;/p&gt;
 
