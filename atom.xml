@@ -4,13 +4,144 @@
  <title>Danny Buerkli</title>
  <link href="https://dannybuerkli.com//atom.xml" rel="self"/>
  <link href="https://dannybuerkli.com//"/>
- <updated>2021-10-25T23:38:23+02:00</updated>
+ <updated>2024-03-29T17:57:16+01:00</updated>
  <id>https://dannybuerkli.com/</id>
  <author>
    <name>Danny Buerkli</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>How to do things at work (if you&apos;re starting out)</title>
+   <link href="https://dannybuerkli.com//2023/10/25/how-to-do-things-at-work"/>
+   <updated>2023-10-25T00:00:00+02:00</updated>
+   <id>https://dannybuerkli.com//2023/10/25/how-to-do-things-at-work</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 25 October 2023&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This was originally an internal document meant to help out new joiners figure out how to be productive at work.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;i-what-this-article-is-and-what-it-isnt&quot;&gt;I. What this article is and what it isn’t&lt;/h1&gt;
+
+&lt;p&gt;I occasionally get asked for advice on how to work, i.e. how to get things done at work. I claim no special insight into this. What I can offer, however, are a few things that have worked for me.
+If you are reading this, you are probably, like me, engaged in some kind of knowledge work.&lt;/p&gt;
+
+&lt;p&gt;What makes our line of work at staatslabor interesting are the almost infinite degrees of freedom. The downside is, that – unlike artisans – our tools and habits are less well defined.&lt;/p&gt;
+
+&lt;p&gt;This document offers a set of tools which, if you hone your use of them, will let you do more satisfying, more creative, more challenging, and – by virtue of all of this – more impactful work.
+My focus here is on individual contribution, not on management. Nevertheless it should all remain useful throughout your career.&lt;/p&gt;
+
+&lt;p&gt;Everything you are about to see I have been taught by others, either in person or in writing. Much of it I practice regularly. Some of it I aspire to, but might still be working on.&lt;/p&gt;
+
+&lt;p&gt;The usual disclaimers apply. Your mileage may vary. Keep what’s useful to you, discard what isn’t.&lt;/p&gt;
+
+&lt;h1 id=&quot;ii-first-some-general-advice-on-how-to-be-productive-at-work&quot;&gt;II. First, some general advice on how to be productive at work&lt;/h1&gt;
+
+&lt;p&gt;What follows are a few principles that seem to work well in almost any context.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Do the obvious thing.&lt;/strong&gt; Much of the secret of being productive is this: doing the obvious next step that will advance what you are trying to do.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Be two steps ahead.&lt;/strong&gt; Think “what will be required once we complete this step?” Anticipate what it is and, if possible, already have that prepared or, even better, get it done.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Output first.&lt;/strong&gt; In academia we learn to work incrementally. We read for weeks (or months) on end and then produce a paper at once. Don’t do that. Start producing right away. Work in increments, not in big bangs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Signal intentions early and often. Overcommunicate.&lt;/strong&gt; When you feel that you are sharing too much, you are probably approaching the level of communication you should be at.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Drive to the conclusion (“so what?”).&lt;/strong&gt; When doing analysis of any kind, always drive it to an action-oriented conclusion (rather than just preparing the facts).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Always suggest a course of action.&lt;/strong&gt; Whenever you can, offer your (reasoned) opinion on what should happen next.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Aim for speed and precision.&lt;/strong&gt; Speed matters. Most things can be done much more quickly than we think. Being quick will pay enormous (compounding!) dividends. But be also precise. Dot the i’s and cross the t’s.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Aim for clarity, insight, and brevity.&lt;/strong&gt; Make your points obvious, make them insightful and keep it short. Or, as Woodrow Wilson allegedly said “be brief, be brilliant, be gone”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Leverage existing work.&lt;/strong&gt; Steal like a pirate. Reuse as much as possible.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Underpromise and overdeliver.&lt;/strong&gt; Do what you said you’d do by the time you committed to. If necessary, renegotiate.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ask for feedback.&lt;/strong&gt; Ask for as much feedback as you can, from individuals whose opinions you respect. The secret to receiving feedback is this: listen and accept it graciously. That’s it. Later on you decide what to keep and what to ignore.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ask for help when help is needed.&lt;/strong&gt; This is something many people, myself included, struggle with. Don’t. Get the help you need and get it early.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ask until you understand what is being asked of you.&lt;/strong&gt; If someone is tasking you with something, it’s on them to make themselves understood but it’s on you to ask until you’re clear on what they want.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Avoid surprises.&lt;/strong&gt; Things will go wrong. You will make mistakes. Don’t hide them. Communicate early and actively.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Maintain an internal locus of control.&lt;/strong&gt; Having an internal locus of control means believing (correctly, I think) that you influence what happens to you.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Recovery is a strategic must.&lt;/strong&gt; You will fail at certain things and it will make you feel bad. Setbacks are inevitable. What you can influence is how you recover.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;iii-how-to-know-what-to-do-when&quot;&gt;III. How to know what to do when&lt;/h1&gt;
+
+&lt;p&gt;There are probably as many prioritization and time management methods as there are atoms in the universe. The one that has stuck for me comes from David Allen’s “Getting Things Done”.&lt;/p&gt;
+
+&lt;p&gt;It can be summarized as follows:&lt;/p&gt;
+
+&lt;p&gt;Have &lt;em&gt;one&lt;/em&gt; “to do” list. &lt;em&gt;Everything&lt;/em&gt; you need or want to do goes on there.&lt;/p&gt;
+
+&lt;p&gt;That’s it. No categories, no colors, no order, no symbols, no intricate time allocation systems, nothing. Just a list.&lt;/p&gt;
+
+&lt;p&gt;I use the Notes app on my Mac (which will sync effortlessly between my laptop and my phone), though anything that can store text will do.&lt;/p&gt;
+
+&lt;p&gt;Knowing that every task I need to remember is on this one list gives me peace of mind. When I plan my week or my day, I simply look down the list and then do whatever is most important and/or urgent.&lt;/p&gt;
+
+&lt;h1 id=&quot;iv-taking-notes&quot;&gt;IV. Taking note(s)&lt;/h1&gt;
+
+&lt;p&gt;Taking good notes and being able to retrieve them quickly is a superpower. It’s also indispensable.&lt;/p&gt;
+
+&lt;p&gt;There is no way you will be able to remember everything if you don’t write it down. And unless you can find your notes quickly, they will be of no use. You should be able to locate your notes for any given meeting or topic within less than 30 seconds.&lt;/p&gt;
+
+&lt;p&gt;All my notes go in one single Google Doc. The most recent entries go at the top. Every entry has a short title and a date. There are much more elaborate ways to take notes. This system works for me because it is incredibly simple.&lt;/p&gt;
+
+&lt;h1 id=&quot;v-being-responsive-on-email-and-slack&quot;&gt;V. Being responsive on Email and Slack&lt;/h1&gt;
+
+&lt;p&gt;Here’s how I try to use Email and Slack:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;If it will take me less than two minutes to respond (or decide), I will do it right away.&lt;/li&gt;
+  &lt;li&gt;If it will take me longer, I’ll do it at a time that suits me.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The most important habit to develop is taking immediate action on things. Don’t delay. Unless you genuinely need time to think or gather more information. But for many messages that won’t be the case. Just respond right away.&lt;/p&gt;
+
+&lt;p&gt;Allen’s &lt;em&gt;“Getting Things Done”&lt;/em&gt; has more on this, but that is essentially it.&lt;/p&gt;
+
+&lt;h1 id=&quot;vi-using-your-computer-efficiently&quot;&gt;VI. Using your computer efficiently&lt;/h1&gt;
+
+&lt;p&gt;Your computer is your most important tool. Most days you are probably touching it for eight hours or more. Learn how to use it like the serious professional that you are.&lt;/p&gt;
+
+&lt;p&gt;The most important habit is to use keyboard shortcuts. It will make you a lot faster.&lt;/p&gt;
+
+&lt;h1 id=&quot;vii-further-reading&quot;&gt;VII. Further reading&lt;/h1&gt;
+
+&lt;p&gt;Here is a small selection of things I have found worthwhile:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;David Allen, “Getting Things Done”:&lt;/strong&gt; A classic, and deservedly so. The only productivity book that has stuck for me. It’s old and very US-American, read past that if need be.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javier Grillo-Marxuach, &lt;a href=&quot;https://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf&quot;&gt;“The Eleven Laws of Showrunning”&lt;/a&gt;:&lt;/strong&gt; Funny and poignant. Your job has more in common with Hollywood showrunning than you might think.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Robert Poynton, “Do Improvise: Less Push. More Pause. Better results”:&lt;/strong&gt; A short and wise book on how to draw inspiration from improv theater at work.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Facets of failure - lessons we might be able to learn from Switzerland’s pandemic crisis management</title>
@@ -349,7 +480,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
 &lt;p&gt;Ray Kurzweil coined the expression of the “&lt;a href=&quot;https://image-src.bcg.com/Images/BCG-The-Double-Game-of-Digital-Strategy-Oct-2015_tcm27-88402.pdf&quot;&gt;second half of the chessboard&lt;/a&gt;”. In the first half the effects are large but potentially manageable. In the second half things spiral out of control.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/20200308_graduallythensuddenly_a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;&quot;Everything is fine&quot; -&amp;gt; &quot;It's growing but we got this under control&quot; -&amp;gt; &quot;Oh...&quot;&lt;/figcaption&gt;
+&lt;figcaption&gt;&quot;Everything is fine&quot; -&amp;gt; &quot;It&apos;s growing but we got this under control&quot; -&amp;gt; &quot;Oh...&quot;&lt;/figcaption&gt;
 
 &lt;p&gt;What does that mean?&lt;/p&gt;
 
@@ -469,7 +600,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
 
 &lt;p&gt;The model resonated with me because it encapsulates what our work at CPI is about when we are at our best and why it all matters.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/20200130_Berkana_TwoLoopModel.png&quot; alt=&quot;The Berkana Institute's Two Loop model showing the Dominant System and the Emergent System&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/20200130_Berkana_TwoLoopModel.png&quot; alt=&quot;The Berkana Institute&apos;s Two Loop model showing the Dominant System and the Emergent System&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;span style=&quot;color: grey&quot;&gt;The Berkana Institute’s Two Loop model&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -621,7 +752,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
 &lt;p&gt;Taylor’s fundamental insight was that people we would come to call “managers” could deconstruct activities into their constituent parts (e.g. how a delivery driver pulls out his pen to get a receipt signed) and would identify The One Best Way to do it.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/20190823_two_paradigms_b.jpeg&quot; alt=&quot;stopwatch&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;&quot;I've calculated that putting your pen in your left pocket will save us three seconds&quot; (photo by Jude Beck on Unsplash)&lt;/figcaption&gt;
+&lt;figcaption&gt;&quot;I&apos;ve calculated that putting your pen in your left pocket will save us three seconds&quot; (photo by Jude Beck on Unsplash)&lt;/figcaption&gt;
 
 &lt;p&gt;This method of optimising work excels, but only under a rather specific set of circumstances. It works when we have clear objectives, when those objectives are measurable, when we understand what drives performance, when things work in linear and deterministic ways and, finally, when none of these things change.&lt;/p&gt;
 
@@ -651,7 +782,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
 
 &lt;p&gt;Printing passports might be one example. This doesn’t mean that running a well-functioning passport office is easy — it is not. It simply means that managerial practices will work. By using targets, KPIs, best practices, and a strict distinction between managers and workers we stand a reasonable chance of achieving a well-functioning passport office.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/20190823_two_paradigms_d.jpeg&quot; alt=&quot;passport&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/20190823_two_paradigms_e.jpeg&quot; alt=&quot;passport&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Printing passports --- complicated but, for the most part, not complex (Photo by Kelly Sikkema on Unsplash)&lt;/figcaption&gt;
 
 &lt;p&gt;There is, however, a wide and important range of things governments do that are predominantly &lt;em&gt;complex&lt;/em&gt;.&lt;/p&gt;
@@ -856,8 +987,8 @@ The countries that did comparatively well all shifted into an “all-out effort�
 
 &lt;p&gt;The sketch below shows such a policy. The red dot shows the optimal configuration. You can imagine this as a hill on a map with the red dot being the highest point.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_c.png&quot; alt=&quot;Policy with a &amp;quot;smooth&amp;quot; response surface - small changes in its configuration won't make a big difference&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Policy with a &quot;smooth&quot; response surface --- small changes in its configuration won't make a big difference&lt;/figcaption&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/20190513_decentralization_c.png&quot; alt=&quot;Policy with a &amp;quot;smooth&amp;quot; response surface - small changes in its configuration won&apos;t make a big difference&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Policy with a &quot;smooth&quot; response surface --- small changes in its configuration won&apos;t make a big difference&lt;/figcaption&gt;
 
 &lt;p&gt;Because the surface is &lt;em&gt;smooth &lt;/em&gt;we can systematically search our way to the best solution. For policies with smooth response surfaces, we are much more likely to have either found the optimal place in the design space (the red dot in the sketch) or be somewhere near it.&lt;/p&gt;
 
