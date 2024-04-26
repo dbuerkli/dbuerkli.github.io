@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Danny Buerkli</title>
- <link href="https://dannybuerkli.com//atom.xml" rel="self"/>
- <link href="https://dannybuerkli.com//"/>
- <updated>2024-03-29T17:57:16+01:00</updated>
- <id>https://dannybuerkli.com/</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-04-26T17:02:17+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Danny Buerkli</name>
    <email></email>
@@ -13,10 +13,166 @@
 
  
  <entry>
+   <title>How we used maps to help a government agency figure out its technology strategy</title>
+   <link href="http://localhost:4000/2024/04/26/wardley-maps-tech-strategy"/>
+   <updated>2024-04-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2024/04/26/wardley-maps-tech-strategy-</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 26 April 2024&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This post was originally &lt;a href=&quot;https://www.linkedin.com/pulse/how-we-used-maps-help-government-agency-figure-out-its-technology-rddcf&quot;&gt;published on the staatslabor Linkedin page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Many organizations find it challenging to respond to technological change. How do you distinguish between urgent necessity and hype? And how do you know what to do, once you believe something must be done?
+We recently worked with a national government agency on those problems. They felt disoriented by the speed by which they were being overtaken by technological developments.&lt;/p&gt;
+
+&lt;p&gt;This agency operates in a specific corner of the education space. The public service they provide is important for society, but could conceivably also be provided by the private sector – though there are good arguments for why this ought to be a government task.&lt;/p&gt;
+
+&lt;p&gt;Unusually for a government entity, they are competing with private providers. This meant that the organization would, over time, lose its mandate, if it did not manage to use technology appropriately and offer these services to the standard that their clients have come to expect.&lt;/p&gt;
+
+&lt;p&gt;We worked with a small team of government officials on a short project of just a few weeks to help them decide on their tech strategy.&lt;/p&gt;
+
+&lt;p&gt;To do this we used Wardley Maps, a method developed by Simon Wardley. His maps are a way of anticipating change and discovering useful strategies.
+The agency found the results compelling. And because what we did was useful and straightforward at the same time, we felt that by sharing what we did others might benefit too.&lt;/p&gt;
+
+&lt;p&gt;First, let’s get three quick disclaimers out of the way:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;We will inevitably gloss over important details. It’s impossible to pack in all the nuance and keep it readable at the same time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We are not naming the government entity. This means that the examples we can provide are unfortunately not as specific as you might hope.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finally, if you are not familiar with Wardley Mapping, we suggest more detailed readings at the end. It is a remarkably useful way of looking at the world, so any time spent understanding the method more deeply is time well spent.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With all that out of the way, how did we help this government entity make sense of technological change?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;First we drafted a (Wardley) map of what they do. This helped us ground all subsequent discussions in the specific details of their operation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;With that map in hand, we looked at where technological developments, such as Large Language Models (LLMs, e.g. GPT-4 or Claude 3), would impact their business.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lastly, since we now had an agreed upon description of what they were doing and how technology would influence their operation, we discussed what they could and should do about it.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Let’s look at each of these steps in turn.&lt;/p&gt;
+
+&lt;h1 id=&quot;step-1-mapping-the-business&quot;&gt;Step 1: Mapping the business&lt;/h1&gt;
+
+&lt;p&gt;The first step was to draw a map of what the agency does, i.e. of the service it provides. We did this over the course of three two-hour sessions, together with a small working group of executives.&lt;/p&gt;
+
+&lt;p&gt;This map grounded all subsequent discussions over the impact of technology on the agency’s business, as described by the executives themselves.&lt;/p&gt;
+
+&lt;p&gt;In between the sessions we would clean up the maps, so that we would have a tidy basis for our next discussion.&lt;/p&gt;
+
+&lt;p&gt;This first step happened over the course of a few weeks. We could have gone faster and done it within a week or less, if required. Refining the maps over the course of several sessions helped everyone get comfortable with the method and, more importantly, what the map meant.&lt;/p&gt;
+
+&lt;p&gt;The aim was not to draw a perfect map. Like with any map, we wanted to hit the right level of abstraction. All we needed was an artifact we could use to guide our discussions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20240426_Map1.png&quot; alt=&quot;Map1&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A Wardley Map&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;em&gt;Quick interlude: You are looking at an (anonymized) Wardley Map. The general idea is this: The map shows the value chain of the business. The chains are made up of components. Each component depends on those below.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The vertical axis shows visibility to an end user. The higher up a component, the more visible it is to the user.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The horizontal axis plots the evolutionary state of each component. The basic claim is that under conditions of competition, components evolve from genesis to custom-built, from there to product/rental and finally to commodity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;See the recommended readings below for more detailed introductions to Wardley Mapping.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;step-2-identifying-the-impact-of-technology&quot;&gt;Step 2: Identifying the impact of technology&lt;/h1&gt;
+
+&lt;p&gt;Now that we had a map the group felt was a good enough representation of their activities, we turned to the impact different technologies would have.&lt;/p&gt;
+
+&lt;p&gt;We took a list of key technological shifts they were interested in (think LLMs, robotics, blockchain, etc.), looked at each one in turn and asked “where and how will this impact your business?”.&lt;/p&gt;
+
+&lt;p&gt;This meant doing two things:&lt;/p&gt;
+
+&lt;p&gt;First, in many instances we already had an intuition where, for example, LLMs would impact the business. We then used the map to pinpoint the specific component that would be affected. This grounded everyone’s intuition and translated arguments into a shared, visual language.&lt;/p&gt;
+
+&lt;p&gt;Second, we went through every component on the map and asked how LLMs (or any of the other technologies on the list) might conceivably impact that element. This way we were sure not to overlook an important effect.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20240426_Map2.png&quot; alt=&quot;Map1&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Now we see evolutionary movement&lt;/figcaption&gt;
+
+&lt;p&gt;As a result of these two exercises it quickly became apparent that LLMs were in all likelihood going to have a major impact on the agency. They would affect a large number of central components in the value chain. Virtual Reality, on the other hand, would only impact a minor, non-strategic element in the value chain.&lt;/p&gt;
+
+&lt;p&gt;The group quickly gained clarity on where it was worth spending time debating potential consequences of technological shifts and where we could safely move on. Because the maps helped anchor all conversations in the organization’s operational reality, we avoided spending lots of time debating questions that would have ultimately no business impact.&lt;/p&gt;
+
+&lt;h1 id=&quot;step-3-making-strategic-choices&quot;&gt;Step 3: Making strategic choices&lt;/h1&gt;
+
+&lt;p&gt;With the elements above in hand, we turned to strategy.&lt;/p&gt;
+
+&lt;p&gt;Depending on &lt;em&gt;where&lt;/em&gt; on the map technology was impacting components, different responses were needed.&lt;/p&gt;
+
+&lt;p&gt;If the component in question was relatively mature (i.e. existing on the right-hand side of the map) this implied the organization needed to &lt;strong&gt;react&lt;/strong&gt; quickly, follow “best practice” and make use of what the market had decided was the winning solution. In other words: there was nothing left to explore or figure out, the organization needed to get with the program and catch up as quickly as possible.&lt;/p&gt;
+
+&lt;p&gt;If the components where change was happening were placed in the middle of the map, there might be space to &lt;strong&gt;shape&lt;/strong&gt; what would happen. This is where the organization could make a difference with shrewd, strategic moves.&lt;/p&gt;
+
+&lt;p&gt;If, lastly, the components affected by technological change were less evolved (i.e. towards the left-hand side of the map) this meant that there would be a lot of uncertainty around how the future would unfold and therefore a lot of room for &lt;strong&gt;exploration&lt;/strong&gt;. Given the limited resources of the agency we felt that investments here would be too risky. Better to keep a watching brief and, given the considerable amounts of inertia in the environment, not worry about those components too much in the short term.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20240426_Map3.png&quot; alt=&quot;Map1&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Different strategies depending on where on the map we are&lt;/figcaption&gt;
+
+&lt;p&gt;Let’s take a closer look at the middle category where we saw potential for strategic action. In particular, one specific strategic gameplay stood out.&lt;/p&gt;
+
+&lt;p&gt;Without being able to name the specific agency and its service this is by necessity going to be somewhat cryptic, but the general idea was this:&lt;/p&gt;
+
+&lt;p&gt;There was a component which was in high demand, but could only be accessed by booking a series of appointments with a human interlocutor. The situation was structurally similar to how you can only get results from a blood test if you go see a doctor. We had, however, reason to believe that the commoditization of LLMs would soon allow this component to evolve to a commodity too.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/20240426_Map4.png&quot; alt=&quot;Map1&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Potential gameplay, using evolutionary movement to our advantage&lt;/figcaption&gt;
+
+&lt;p&gt;Because demand for this component got at present routed through a human and because humans are comparatively expensive, a commoditization would lead to a drop in cost and a corresponding increase in demand.&lt;/p&gt;
+
+&lt;p&gt;It seemed likely that the bundling with an expensive, but soon unnecessary complement would put pressure on the component to evolve.&lt;/p&gt;
+
+&lt;p&gt;The insight was this: what if we proactively commoditize the component and make it available online? This would release all the pent-up demand. That in turn would allow us to increase access to this sought-after component by several orders of magnitude.&lt;/p&gt;
+
+&lt;p&gt;The organization could serve this demand in a cost-efficient way, because it’s all commoditized, and route a share of that demand back to its traditional services.&lt;/p&gt;
+
+&lt;p&gt;If executed well, this play could be transformational. The agency would be able to serve a much larger number of residents in a cost-effective way (note that’s not the same as “cheap”). It could build organic reach and use that to drive demand for its other services.&lt;/p&gt;
+
+&lt;p&gt;In hindsight, after having pored over the maps for a few weeks, the move – and the rationale behind it – seemed obvious to everyone involved. I highly doubt, however, that we would have achieved the same level of clarity and conviction without the shared language of the Wardley maps.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are two excellent resources if you would like to learn more about Wardley Mapping:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://youtu.be/KkePAhnkHeg?si=cZQJTW7KP2OS3yCh&quot;&gt;A short video&lt;/a&gt; (the first in a series of four) by &lt;a href=&quot;https://twitter.com/swardley&quot;&gt;Simon Wardley&lt;/a&gt;, explaining the basics of Mapping&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.davesresearch.com/wardley-mapping/&quot;&gt;A blog post&lt;/a&gt; by &lt;a href=&quot;https://www.linkedin.com/in/davehora/&quot;&gt;Dave Hora&lt;/a&gt; that provides an excellent introduction to strategy and Wardley Mapping&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I would like to warmly thank my colleagues at staatslabor, specifically Lynn Reinhart, Giulia Colella, and Dario Meloni who were part of the project team and to Lisa Brombach and Carla Mueller for helpful comments. Lynn and Giulia, in particular, did much of the essential work of drawing (and redrawing) the maps.&lt;/p&gt;
+
+&lt;p&gt;Our thanks, of course, also go to the unnamed government organization which kindly gave us permission to try a different way of doing strategy.&lt;/p&gt;
+
+&lt;p&gt;Finally, we owe all of what’s described above to &lt;a href=&quot;https://twitter.com/swardley&quot;&gt;Simon Wardley&lt;/a&gt;, the inventor of the eponymous method, and to his decision to publish all his work under a Creative Commons license (CC BY-SA). Accordingly, this article is also published under that same license.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>How to do things at work (if you&apos;re starting out)</title>
-   <link href="https://dannybuerkli.com//2023/10/25/how-to-do-things-at-work"/>
+   <link href="http://localhost:4000/2023/10/25/how-to-do-things-at-work"/>
    <updated>2023-10-25T00:00:00+02:00</updated>
-   <id>https://dannybuerkli.com//2023/10/25/how-to-do-things-at-work</id>
+   <id>http://localhost:4000/2023/10/25/how-to-do-things-at-work</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 25 October 2023&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This was originally an internal document meant to help out new joiners figure out how to be productive at work.&lt;/em&gt;&lt;/p&gt;
@@ -145,9 +301,9 @@ My focus here is on individual contribution, not on management. Nevertheless it 
  
  <entry>
    <title>Facets of failure - lessons we might be able to learn from Switzerland’s pandemic crisis management</title>
-   <link href="https://dannybuerkli.com//2021/04/28/four-facets-of-failure"/>
+   <link href="http://localhost:4000/2021/04/28/four-facets-of-failure"/>
    <updated>2021-04-28T00:00:00+02:00</updated>
-   <id>https://dannybuerkli.com//2021/04/28/four-facets-of-failure</id>
+   <id>http://localhost:4000/2021/04/28/four-facets-of-failure</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 28 April 2021&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This article was originally published on &lt;a href=&quot;https://dannybuerkli.medium.com/some-lessons-we-might-be-able-to-learn-from-switzerlands-crisis-management-in-this-pandemic-b72deb43c6e5&quot;&gt;Medium&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -359,9 +515,9 @@ The countries that did comparatively well all shifted into an “all-out effort�
  
  <entry>
    <title>Four things I’ve been surprised by in the context of the pandemic</title>
-   <link href="https://dannybuerkli.com//2021/03/03/four-things-ive-been-surprised-by"/>
+   <link href="http://localhost:4000/2021/03/03/four-things-ive-been-surprised-by"/>
    <updated>2021-03-03T00:00:00+01:00</updated>
-   <id>https://dannybuerkli.com//2021/03/03/four-things-ive-been-surprised-by</id>
+   <id>http://localhost:4000/2021/03/03/four-things-ive-been-surprised-by</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 03 March 2021&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This short piece was originally published on &lt;a href=&quot;https://dannybuerkli.medium.com/four-things-ive-been-surprised-by-in-the-context-of-the-pandemic-f2115d14724&quot;&gt;Medium&lt;/a&gt;. It was originally &lt;a href=&quot;https://twitter.com/dannybuerkli/status/1348320859405103104&quot;&gt;a thread I wrote on Twitter&lt;/a&gt; in January 2021. It seemed to resonate quite a bit, which is why I’ve turned it into a lightly edited blog post.&lt;/em&gt;&lt;/p&gt;
@@ -426,9 +582,9 @@ The countries that did comparatively well all shifted into an “all-out effort�
  
  <entry>
    <title>„Gradually, then suddenly“ — four concepts that may help us think clearly about the coronavirus epidemic</title>
-   <link href="https://dannybuerkli.com//2020/03/08/gradually-then-suddenly"/>
+   <link href="http://localhost:4000/2020/03/08/gradually-then-suddenly"/>
    <updated>2020-03-08T00:00:00+01:00</updated>
-   <id>https://dannybuerkli.com//2020/03/08/gradually-then-suddenly</id>
+   <id>http://localhost:4000/2020/03/08/gradually-then-suddenly</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on &lt;a href=&quot;https://medium.com/@dannybuerkli/gradually-then-suddenly-four-concepts-that-may-help-us-think-clearly-about-the-coronavirus-671e2583f828&quot;&gt;Medium&lt;/a&gt; (08 March 2020).&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -587,9 +743,9 @@ The countries that did comparatively well all shifted into an “all-out effort�
  
  <entry>
    <title>What I think we do at the Centre for Public Impact</title>
-   <link href="https://dannybuerkli.com//2020/01/30/what-i-think-we-do-at-cpi"/>
+   <link href="http://localhost:4000/2020/01/30/what-i-think-we-do-at-cpi"/>
    <updated>2020-01-30T00:00:00+01:00</updated>
-   <id>https://dannybuerkli.com//2020/01/30/what-I-think-we-do-at-CPI</id>
+   <id>http://localhost:4000/2020/01/30/what-I-think-we-do-at-CPI</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This article was published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/what-i-think-we-do-at-the-centre-for-public-impact-54abaa81f3f5&quot;&gt;Medium&lt;/a&gt; page (30 January 2020).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;This is my last week at the &lt;a href=&quot;https://www.centreforpublicimpact.org/&quot;&gt;Centre for Public Impact&lt;/a&gt; after five wonderful years. I feel privileged to have been part of an organisation with such an ambitious purpose.&lt;/p&gt;
@@ -634,9 +790,9 @@ The countries that did comparatively well all shifted into an “all-out effort�
  
  <entry>
    <title>Easy-to-avoid mistakes which will diminish your chances when applying for a job</title>
-   <link href="https://dannybuerkli.com//2019/09/04/mistakes-to-avoid"/>
+   <link href="http://localhost:4000/2019/09/04/mistakes-to-avoid"/>
    <updated>2019-09-04T00:00:00+02:00</updated>
-   <id>https://dannybuerkli.com//2019/09/04/mistakes-to-avoid</id>
+   <id>http://localhost:4000/2019/09/04/mistakes-to-avoid</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This article was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/13-easy-to-avoid-mistakes-which-will-unnecessarily-but-significantly-diminish-your-chances-when-de2b4b0f5093&quot;&gt;Medium&lt;/a&gt; page (04 September 2019).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I have been involved in a few recruitment rounds over the past years. There are recurring, easy-to-avoid mistakes people make which unnecessarily but very significantly diminish their chances.&lt;/p&gt;
@@ -713,9 +869,9 @@ The countries that did comparatively well all shifted into an “all-out effort�
  
  <entry>
    <title>A tale of two paradigms — meet the ideas which changing public administrations around the world</title>
-   <link href="https://dannybuerkli.com//2019/08/23/a-tale-of-two-paradigms"/>
+   <link href="http://localhost:4000/2019/08/23/a-tale-of-two-paradigms"/>
    <updated>2019-08-23T00:00:00+02:00</updated>
-   <id>https://dannybuerkli.com//2019/08/23/a-tale-of-two-paradigms</id>
+   <id>http://localhost:4000/2019/08/23/a-tale-of-two-paradigms</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/a-tale-of-two-paradigms-meet-the-idea-which-is-quietly-changing-public-administrations-around-e2e57171f451&quot;&gt;Medium&lt;/a&gt; page (23 August 2019).&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -868,9 +1024,9 @@ The countries that did comparatively well all shifted into an “all-out effort�
  
  <entry>
    <title>How self-organisation has changed the way we work and what I have learned along the way</title>
-   <link href="https://dannybuerkli.com//2019/07/31/how-self-organisation-has-changed-the-way-we-work"/>
+   <link href="http://localhost:4000/2019/07/31/how-self-organisation-has-changed-the-way-we-work"/>
    <updated>2019-07-31T00:00:00+02:00</updated>
-   <id>https://dannybuerkli.com//2019/07/31/how-self-organisation-has-changed-the-way-we-work</id>
+   <id>http://localhost:4000/2019/07/31/how-self-organisation-has-changed-the-way-we-work</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/how-self-management-has-changed-the-way-i-work-5976fc46cca3&quot;&gt;Medium&lt;/a&gt; page (31 July 2019).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;In January this year we, the London-based team of the &lt;a href=&quot;https://www.centreforpublicimpact.org/&quot;&gt;Centre for Public Impact&lt;/a&gt;, began moving from being a hierarchical, conventional organisation to one that’s built on self-organisation. We collectively determine the projects we take on as an organisation, we individually decide where our skills and judgment can contribute most and each project team is empowered to make all decisions it needs to. There’s more detail to it, of course, but this is the gist of it.&lt;/p&gt;
@@ -927,9 +1083,9 @@ The countries that did comparatively well all shifted into an “all-out effort�
  
  <entry>
    <title>How we know when decentralization works in government</title>
-   <link href="https://dannybuerkli.com//2019/05/13/how-we-know-when-decentralization-works"/>
+   <link href="http://localhost:4000/2019/05/13/how-we-know-when-decentralization-works"/>
    <updated>2019-05-13T00:00:00+02:00</updated>
-   <id>https://dannybuerkli.com//2019/05/13/how-we-know-when-decentralization-works</id>
+   <id>http://localhost:4000/2019/05/13/how-we-know-when-decentralization-works</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/how-we-know-when-decentralization-works-in-government-7299bd7d8f50&quot;&gt;Medium&lt;/a&gt; page (13 May 2019).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;There is a lively debate raging in the public policy world over the use of evidence, the role of innovation and experimentation, and the importance of “place”. Some public policies clearly benefit from being steered from the national level. Others are much more effective when key decisions are made locally, e.g. in cities.&lt;/p&gt;
@@ -1083,9 +1239,9 @@ The countries that did comparatively well all shifted into an “all-out effort�
  
  <entry>
    <title>“What gets measured gets managed” — It’s wrong and Drucker never said it</title>
-   <link href="https://dannybuerkli.com//2019/04/08/what-gets-measured-gets-managed-drucker-never-said-it"/>
+   <link href="http://localhost:4000/2019/04/08/what-gets-measured-gets-managed-drucker-never-said-it"/>
    <updated>2019-04-08T00:00:00+02:00</updated>
-   <id>https://dannybuerkli.com//2019/04/08/what-gets-measured-gets-managed-drucker-never-said-it</id>
+   <id>http://localhost:4000/2019/04/08/what-gets-measured-gets-managed-drucker-never-said-it</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This article was originally published on the Centre for Public Impact’s &lt;a href=&quot;https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6&quot;&gt;Medium&lt;/a&gt; page (08 April 2019).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Out of all received wisdoms “what gets measured gets managed” must be one of the most widely accepted as obvious. After all, how could we ever manage something that isn’t being measured?&lt;/p&gt;
@@ -1137,9 +1293,9 @@ The countries that did comparatively well all shifted into an “all-out effort�
  
  <entry>
    <title>10 Government Innovations and Their Place in the Hype Cycle</title>
-   <link href="https://dannybuerkli.com//2016/05/18/ten-government-innovations-and-their-place-in-the-hype-cycle"/>
+   <link href="http://localhost:4000/2016/05/18/ten-government-innovations-and-their-place-in-the-hype-cycle"/>
    <updated>2016-05-18T00:00:00+02:00</updated>
-   <id>https://dannybuerkli.com//2016/05/18/ten-government-innovations-and-their-place-in-the-hype-cycle</id>
+   <id>http://localhost:4000/2016/05/18/ten-government-innovations-and-their-place-in-the-hype-cycle</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This article was originally published in the &lt;a href=&quot;https://www.huffpost.com/entry/10-government-innovations_b_10031858&quot;&gt;Huffington Post&lt;/a&gt; (18 May 2016).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
