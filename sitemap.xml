@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://dannybuerkli.com//about</loc>
-<lastmod>2025-01-19T11:13:05+01:00</lastmod>
+<lastmod>2025-03-08T20:45:16+01:00</lastmod>
 </url>
 <url>
 <loc>https://dannybuerkli.com//reading</loc>
-<lastmod>2025-01-19T11:13:05+01:00</lastmod>
+<lastmod>2025-03-08T20:45:16+01:00</lastmod>
 </url>
 <url>
 <loc>https://dannybuerkli.com//search</loc>
-<lastmod>2025-01-19T11:13:05+01:00</lastmod>
+<lastmod>2025-03-08T20:45:16+01:00</lastmod>
 </url>
 <url>
 <loc>https://dannybuerkli.com//2016/05/18/ten-government-innovations-and-their-place-in-the-hype-cycle</loc>
@@ -59,6 +59,10 @@
 <url>
 <loc>https://dannybuerkli.com//2024/04/26/wardley-maps-tech-strategy</loc>
 <lastmod>2024-04-26T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>https://dannybuerkli.com//2025/02/02/where-the-map-ends</loc>
+<lastmod>2025-02-02T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>https://dannybuerkli.com//</loc>

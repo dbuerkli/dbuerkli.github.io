@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "https://dannybuerkli.com//2025/02/02/where-the-map-ends",
+            "title": "Where the map ends: understanding Wardley maps’ limitations",
+            "summary": "Where the map ends: understanding Wardley maps’ limitations",
+            "content_text": "Danny Buerkli, 02 February 2025Every tool carries the context of its creation. Every tool therefore also has certain limitations. Wardley Mapping, though one of the most versatile analytical methods I have come across, inevitably rests on assumptions that shape what the maps can and cannot tell us.Below are four limitations, as I currently understand the method:First, Wardley maps describe how components evolve from genesis to commodity. However, they cannot explain which new components will emerge in the genesis stage. These tend to “pop into existence,” so to speak.At the same time the framework does indicate that innovation, which includes the genesis of new components, is facilitated by the commodification of other components.If we observe a move towards commodification, we can anticipate a wave of combinatorial innovation. Yet the map itself cannot tell us what new element will appear.Second, the development of components along the evolutionary axis is driven by competition.In the absence of competition, we would expect components to remain stationary because the evolutionary pressures aren’t there to move them along.Third, like a topographical map, a Wardley Map can only represent what its creators already know. You can’t map what you don’t see. As a result, we are inevitably constrained by how well — or how poorly — we understand the landscape.Fourth, the usefulness of a Wardley map also depends on which part of reality we choose to represent and which elements we decide to include. The right answer depends on the question we are trying to answer. While picking the appropriate segment of a system at the right level of resolution is crucial, the rules are difficult to codify.Getting the most out of Wardley Mapping requires experience, which is a way of saying that it involves implicit, somewhat difficult-to-codify knowledge. I am not sure whether this is a limitation, but some prefer more easily codified and thus “template-able” methods.These limitations are not defects. Any method must be understood in terms of the assumptions it carries and the constraints which these imply.The question is never whether a method is perfect; the question is whether, for what we are trying to achieve, it is more useful than the next best alternative.",
+            "content_html": "<p><em>Danny Buerkli, 02 February 2025</em></p><p>Every tool carries the context of its creation. Every tool therefore also has certain limitations. Wardley Mapping, though one of the most versatile analytical methods I have come across, inevitably rests on assumptions that shape what the maps can and cannot tell us.</p><p>Below are four limitations, as I currently understand the method:</p><p><em>First</em>, Wardley maps describe how components evolve from genesis to commodity. However, they cannot explain <em>which</em> new components will emerge in the genesis stage. These tend to “pop into existence,” so to speak.</p><p>At the same time the framework does indicate that innovation, which includes the genesis of new components, is facilitated by the commodification of other components.</p><p>If we observe a move towards commodification, we can anticipate a wave of combinatorial innovation. Yet the map itself cannot tell us what new element will appear.</p><p><em>Second</em>, the development of components along the evolutionary axis is driven by competition.</p><p>In the absence of competition, we would expect components to remain stationary because the evolutionary pressures aren’t there to move them along.</p><p><em>Third</em>, like a topographical map, a Wardley Map can only represent what its creators already know. You can’t map what you don’t see. As a result, we are inevitably constrained by how well — or how poorly — we understand the landscape.</p><p><em>Fourth</em>, the usefulness of a Wardley map also depends on which part of reality we choose to represent and which elements we decide to include. The right answer depends on the question we are trying to answer. While picking the appropriate segment of a system at the right level of resolution is crucial, the rules are difficult to codify.</p><p>Getting the most out of Wardley Mapping requires experience, which is a way of saying that it involves implicit, somewhat difficult-to-codify knowledge. I am not sure whether this is a limitation, but some prefer more easily codified and thus “template-able” methods.</p><p>These limitations are not defects. Any method must be understood in terms of the assumptions it carries and the constraints which these imply.</p><p>The question is never whether a method is perfect; the question is whether, for what we are trying to achieve, it is more useful than the next best alternative.</p>",
+            "url": "https://dannybuerkli.com//2025/02/02/where-the-map-ends",
+            
+            
+            
+            
+            
+            "date_published": "2025-02-02T00:00:00+01:00",
+            "date_modified": "2025-02-02T00:00:00+01:00",
+            
+                "author":  {
+                "name": "Danny Buerkli",
+                "url": "https://dannybuerkli.com/",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://dannybuerkli.com//2024/04/26/wardley-maps-tech-strategy",
             "title": "How we used maps to help a government agency figure out its technology strategy",
             "summary": "How we used maps to help a government agency figure out its technology strategy",
