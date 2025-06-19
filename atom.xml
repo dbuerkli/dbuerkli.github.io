@@ -4,13 +4,198 @@
  <title>Danny Buerkli</title>
  <link href="https://dannybuerkli.com//atom.xml" rel="self"/>
  <link href="https://dannybuerkli.com//"/>
- <updated>2025-03-08T20:45:16+01:00</updated>
+ <updated>2025-06-19T14:09:59+02:00</updated>
  <id>https://dannybuerkli.com/</id>
  <author>
    <name>Danny Buerkli</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Understanding the Economic Impacts of Transformative AI: A Guide for the Perplexed</title>
+   <link href="https://dannybuerkli.com//2025/06/18/econ-impacts-of-tai"/>
+   <updated>2025-06-18T00:00:00+02:00</updated>
+   <id>https://dannybuerkli.com//2025/06/18/econ-impacts-of-TAI</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 18 June 2025&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It is becoming increasingly evident that AI systems may have disruptive effects on labor markets and the wider economy. Despite this, the economic impacts of transformative AI remain oddly understudied. While there are disagreements over the pace of change and the magnitude of these effects, it is clearly worth taking these questions seriously.&lt;/p&gt;
+
+&lt;p&gt;Over recent months, we have seen a surge in thoughtful publications on the topic. Given the breadth of this emerging field, however, it can be difficult to understand how different analyses relate to one another.&lt;/p&gt;
+
+&lt;p&gt;This “guide for the perplexed” aims to highlight some of the most significant contributions, structured around a simple framework.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/20250618_econ_tai.png&quot; alt=&quot;Map1&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Mechanical birds when?&lt;/figcaption&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;To make sense of the complex economic effects of &lt;a href=&quot;https://www.dropbox.com/scl/fi/fnyzd4mgknisslp2m78vd/ETAI_Agenda.pdf?rlkey=grsgrxkh8vrylodtyoo2dek7d&amp;amp;e=1&amp;amp;dl=0&quot;&gt;transformative AI&lt;/a&gt;, it helps to break down the issue into three central questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;How long will it take us to see transformative AI?&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;What will the economic effects be?&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;What should we do about it?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, two further questions will likely become increasingly important:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;What are the politics of this?&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;How do governments need to change?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let’s explore each question in detail.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-long-will-it-take-us-to-see-transformative-ai&quot;&gt;How long will it take us to see transformative AI?&lt;/h2&gt;
+
+&lt;p&gt;A key concern is how much time we all have to prepare for a future with transformative AI. Debates over timelines are highly contentious. This section highlights arguments that clarify the core disagreements between competing perspectives.&lt;/p&gt;
+
+&lt;p&gt;Two recent articles illustrate two starkly contrasting visions:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ai-2027.com&quot;&gt;&lt;strong&gt;“AI 2027”&lt;/strong&gt;&lt;/a&gt; (April 2025), by Daniel Kokotajlo, Scott Alexander, Thomas Larsen, Eli Lifland, and Romeo Dean, concludes that we may well see runaway superintelligence by the end of 2027. This enormous impact within a very short time frame, leaving almost no room for intervention, makes AI fundamentally different from other technologies we’ve had to contend with.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://knightcolumbia.org/content/ai-as-normal-technology&quot;&gt;&lt;strong&gt;“AI as Normal Technology”&lt;/strong&gt;&lt;/a&gt; (April 2025), by Arvind Narayan and Sayash Kapoor, argues the opposite case: AI systems will take a long time to develop and diffuse through the economy. AI is, in other words, a powerful but fundamentally mundane technology. All previous lessons we have learned about handling technology still apply.&lt;/p&gt;
+
+&lt;p&gt;The core disagreement between the two teams revolves around whether AI research itself will be automated. This would lead to rapidly self-improving AI systems.&lt;/p&gt;
+
+&lt;p&gt;The AI 2027 team believes this to be not only possible but in fact likely. Arvind and Sayash don’t think so.&lt;/p&gt;
+
+&lt;p&gt;Arvind and Sayash additionally believe that there exist important bottlenecks that will constrain AI diffusion. The AI 2027 is not materially concerned with diffusion, since a superintelligent system would be so capable that it would blow past any hurdles immediately.&lt;/p&gt;
+
+&lt;p&gt;A helpful deep dive into the self-improvement aspect is presented in &lt;a href=&quot;https://www.forethought.org/research/three-types-of-intelligence-explosion&quot;&gt;&lt;strong&gt;“Three Types of Intelligence Explosion”&lt;/strong&gt;&lt;/a&gt; (March 2025) by Tom Davidson, Rose Hadshar, and Will MacAskill.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, there isn’t yet a similarly detailed exploration of bottlenecks to AI diffusion. Tyler Cowen, in &lt;a href=&quot;https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html&quot;&gt;&lt;strong&gt;“Why I think AI take-off is relatively slow”&lt;/strong&gt;&lt;/a&gt; (February 2025), comes closest and outlines reasons why AI take-off may take a long time.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-will-the-economic-effects-of-transformative-ai-be&quot;&gt;What will the economic effects of transformative AI be?&lt;/h2&gt;
+
+&lt;p&gt;Once transformative AI does diffuse through the economy, what will its economic impacts look like?&lt;/p&gt;
+
+&lt;p&gt;This question is hard to reason about because it refracts immediately into a vast set of interlinked issues of wages, power, identity, social relations, and more. As a result, many of the articles mentioned below treat the economic effects of transformative AI as one question of concern, among others.&lt;/p&gt;
+
+&lt;p&gt;We can group existing work into two categories: broad-stroke analyses outlining general economic and societal shifts, and more targeted investigations addressing specific economic questions.&lt;/p&gt;
+
+&lt;p&gt;Let’s begin with the broad stroke analyses:&lt;/p&gt;
+
+&lt;p&gt;Anton Korinek is one of the few macroeconomists to explicitly address transformative AI. In &lt;a href=&quot;https://www.dropbox.com/scl/fi/viob7f5yv13zy0ziezlcg/AGI_Scenarios.pdf?rlkey=8hxq9rm82kksocw1zjilcxf8v&amp;amp;e=1&amp;amp;dl=0&quot;&gt;&lt;strong&gt;“Scenarios for the Transition to AGI”&lt;/strong&gt;&lt;/a&gt; (March 2024) Anton and Donghyun Suh model potential trajectories for economic output and wages under different AGI scenarios. Later, in &lt;a href=&quot;https://www.nber.org/system/files/working_papers/w32980/w32980.pdf&quot;&gt;&lt;strong&gt;“Economic Policy Challenges for the Age of AI”&lt;/strong&gt;&lt;/a&gt; (September 2024), Anton considers future roles for human labor and identifies production factors likely to grow in importance post-AGI.&lt;/p&gt;
+
+&lt;p&gt;In a somewhat similar exercise, Epoch AI has published &lt;a href=&quot;https://epoch.ai/blog/announcing-gate&quot;&gt;&lt;strong&gt;GATE&lt;/strong&gt;&lt;/a&gt;, a competing macroeconomic model. The model, for example, predicts significantly accelerated economic growth and concludes that the &lt;em&gt;“global economy can marshal enough effective compute to automate most tasks within two decades.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In their &lt;a href=&quot;https://intelligence-curse.ai&quot;&gt;&lt;strong&gt;“Intelligence Curse”&lt;/strong&gt;&lt;/a&gt; (April 2025) essay series Luke Drago and Rudolf Laine draw parallels to the resource curse. They argue that powerful entities may lose incentives to invest in ordinary people, similar to how many resource-rich states today neglect their populations. Their analysis highlights early warning signals, potential shifts in power structures, the erosion of existing social contracts, and possible interventions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gradual-disempowerment.ai&quot;&gt;&lt;strong&gt;“Gradual Disempowerment”&lt;/strong&gt;&lt;/a&gt; (January 2025), by Jan Kulveit, Raymond Douglas, Nora Ammann, Deger Turan, David Krueger, and David Duvenaud takes a cautionary stance, suggesting that even in the absence of an intelligence explosion incremental increases in AI capabilities “pose a substantial risk of eventual human disempowerment”. Their &lt;a href=&quot;https://gradual-disempowerment.ai/misaligned-economy&quot;&gt;economics chapter&lt;/a&gt; outlines how the human labor share of GDP might gradually asymptote towards zero, with attendant disempowering consequences.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf&quot;&gt;&lt;strong&gt;Labor Market Risks chapter of the International AI Safety Report 2025&lt;/strong&gt;&lt;/a&gt; (February 2025) provides a concise, extensively referenced overview of the current evidence. As a scientific report, it remains cautious about speculative scenarios but offers a robust foundation for understanding labor market impacts.&lt;/p&gt;
+
+&lt;p&gt;Now let’s look at the more focused explorations:&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&quot;https://knightcolumbia.org/content/what-will-remain-for-people-to-do&quot;&gt;&lt;strong&gt;“What Will Remain for People to Do?”&lt;/strong&gt;&lt;/a&gt; (March 2025) Daniel Susskind examines the effect of transformative AI on jobs, starting from the premise that AI could eventually perform all economically valuable tasks more productively than humans. His relatively optimistic conclusion is that comparative advantages, preferences for human-led processes, and normative considerations will preserve certain tasks for human workers.&lt;/p&gt;
+
+&lt;p&gt;Similarly, Noah Smith, in &lt;a href=&quot;https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the&quot;&gt;&lt;strong&gt;“Plentiful, high-paying jobs in the age of AI”&lt;/strong&gt;&lt;/a&gt; (March 2024), looks closely at comparative advantage. He argues that as long as compute is finite and not literally free, the use of AI systems comes with an opportunity cost, ensuring some tasks remain economically viable for humans.&lt;/p&gt;
+
+&lt;p&gt;Finally, what do the leaders of leading AI labs say? While you may choose to not take what they are writing at face value, it is still instructive.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&quot;https://www.darioamodei.com/essay/machines-of-loving-grace&quot;&gt;&lt;strong&gt;“Machines of Loving Grace”&lt;/strong&gt;&lt;/a&gt; (October 2024) Dario Amodei, the CEO of Anthropic, sketches &lt;em&gt;“what a world with powerful AI might look like if everything goes right.”&lt;/em&gt; He argues that 20% annual GDP growth is achievable in the developing world.&lt;/p&gt;
+
+&lt;p&gt;Sam Altman, CEO of OpenAI, in &lt;a href=&quot;https://blog.samaltman.com/the-gentle-singularity&quot;&gt;&lt;strong&gt;“The Gentle Singularity”&lt;/strong&gt;&lt;/a&gt; (June 2025) hedges his bets but writes that &lt;em&gt;“2026 will likely see the arrival of systems that can figure out novel insights. 2027 may see the arrival of robots that can do tasks in the real world.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-should-we-do-about-the-economic-effects-of-transformative-ai&quot;&gt;What should we do about the economic effects of transformative AI?&lt;/h2&gt;
+
+&lt;p&gt;Given the potentially profound economic changes caused by transformative AI, how should societies respond? Recent discussions focus on reforming our social and economic institutions to meet these challenges.&lt;/p&gt;
+
+&lt;p&gt;Deric Cheng is currently editing an anthology titled the &lt;a href=&quot;https://www.agisocialcontract.org&quot;&gt;&lt;strong&gt;“AGI Social Contract”&lt;/strong&gt;&lt;/a&gt; (June 2025). In the anthology’s &lt;a href=&quot;https://www.agisocialcontract.org/anthology/forging-a-new-agi-social-contract/a-research-agenda-key-questions-for-a-new-social-contract#governance-and-public-ownership&quot;&gt;introductory piece&lt;/a&gt;, he summarizes the state of play and outlines key questions for a new social contract.&lt;/p&gt;
+
+&lt;p&gt;As part of this anthology, &lt;a href=&quot;https://www.agisocialcontract.org/anthology/windfall&quot;&gt;&lt;strong&gt;“The Missing Institution: A Global Dividend System for the Age of AI”&lt;/strong&gt;&lt;/a&gt; (June 2025), by Anna Yelizarova proposes a global dividend system that would share the proceeds from concentrated AI wealth.&lt;/p&gt;
+
+&lt;p&gt;This suggestion belongs to a broader set of proposals known as “benefits sharing,” which explores mechanisms for the fair distribution of AI-generated wealth.&lt;/p&gt;
+
+&lt;p&gt;An earlier and influential proposal along these lines is the &lt;strong&gt;Windfall Clause&lt;/strong&gt;, which describes an &lt;em&gt;“ex ante commitment by AI firms to donate a significant amount of any eventual extremely large profits garnered from the development of transformative AI.”&lt;/em&gt; In their &lt;a href=&quot;https://www.governance.ai/research-paper/the-windfall-clause-distributing-the-benefits-of-ai-for-the-common-good&quot;&gt;&lt;strong&gt;paper&lt;/strong&gt;&lt;/a&gt; from January 2020 Cullen O’Keefe, Peter Cihon, Ben Garfinkel, Carrick Flynn, Jade Leung, and Allan Dafoe outline the mechanics of the idea. While the Windfall Clause as initially conceived has somewhat fallen out of favor, it remains influential as a foundational concept.&lt;/p&gt;
+
+&lt;p&gt;Building on critiques of the Windfall Clause, “&lt;a href=&quot;https://www.cip.org/blog/predistribution-over-redistribution-beyond-the-windfall-clause&quot;&gt;&lt;strong&gt;Predistribution Over Redistribution&lt;/strong&gt;&lt;/a&gt;” (October 2024) by Saffron Huang and Sam Manning argues that we should focus on early structural interventions that prevent extreme wealth concentration before it occurs, rather than trying to redistribute wealth after the fact.&lt;/p&gt;
+
+&lt;p&gt;Taking a macroeconomic perspective, Era Dabla-Norris at the International Monetary Fund (IMF) published a staff discussion note titled &lt;a href=&quot;https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/06/11/Broadening-the-Gains-from-Generative-AI-The-Role-of-Fiscal-Policies-549639?cid=bl-com-SDNEA2024002&quot;&gt;&lt;strong&gt;“Broadening the Gains from Generative AI: The Role of Fiscal Policies”&lt;/strong&gt;&lt;/a&gt; (June 2024). This paper outlines fiscal tools and policies that governments could employ to harness generative AI’s benefits, mitigate negative labor market impacts, and promote fair distribution.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-the-politics-of-the-economic-effects-of-transformative-ai&quot;&gt;What are the politics of the economic effects of transformative AI?&lt;/h2&gt;
+
+&lt;p&gt;Politics fundamentally is about “who gets what, when, and how.” Under any scenario the impacts of transformative AI are unavoidably political. So it is surprising that there has been relatively little analysis of the political dimensions.&lt;/p&gt;
+
+&lt;p&gt;A notable exception is the recent work by Anton Leicht. In his essays &lt;a href=&quot;https://writing.antonleicht.me/p/ai-and-jobs-politics-without-policy&quot;&gt;&lt;strong&gt;“AI and Jobs: Politics without Policy”&lt;/strong&gt;&lt;/a&gt; (June 2025) and &lt;a href=&quot;https://writing.antonleicht.me/p/three-fault-lines-in-conservative&quot;&gt;&lt;strong&gt;“Three Fault Lines in Conservative Thinking”&lt;/strong&gt;&lt;/a&gt; (May 2025), Anton offers helpful context on the policy landscape, especially in the US. These essays explore some of the structural and political challenges that will shape how the political debate about transformative AI might play out.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-governments-need-to-change&quot;&gt;How do governments need to change?&lt;/h2&gt;
+
+&lt;p&gt;If transformative AI arrives, it stands to reason that governments and public administrations will need to adapt significantly, not just in terms of specific policy decisions but also in their fundamental operations and structures. While the preceding sections considered which policies might be necessary, this section asks: how should government institutions themselves change?&lt;/p&gt;
+
+&lt;p&gt;One of the few pieces to explicitly look at this question is Ed de Minckwitz’s &lt;a href=&quot;https://policyexchange.org.uk/publication/government-in-the-age-of-superintelligence/&quot;&gt;&lt;strong&gt;“Government in the Age of Superintelligence”&lt;/strong&gt;&lt;/a&gt; from June 2025. In his report for Policy Exchange, the London think tank, he looks at the impact of AGI on healthcare, education, infrastructure, defense, and politics.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;To close, four reflections:&lt;/p&gt;
+
+&lt;p&gt;1) I have intentionally stacked the deck and sidestepped the question of whether or when we will have transformative AI. Instead, I have focused on asking what will happen once transformative AI is a reality.&lt;/p&gt;
+
+&lt;p&gt;2) The rate at which thoughtful analyses and proposals are coming out is already high and will only increase. Specific articles and reports highlighted above may well go stale but the overall framework will hopefully remain useful.&lt;/p&gt;
+
+&lt;p&gt;3) This guide is necessarily woefully incomplete. There is far more excellent work than can be featured in an overview like this.&lt;/p&gt;
+
+&lt;p&gt;4) Much more thinking and preparation is urgently needed. Given the scale and importance of transformative AI’s potential impact on jobs and economies, the quantity and depth of thinking and policy preparation ought to increase fast.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to my Windfall Trust colleagues Deric Cheng, Helen Stevenson, Anna Yelizarova, and Adrian Brown for their helpful comments.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The End Of Bureaucracy As We Know It?</title>
+   <link href="https://dannybuerkli.com//2025/06/03/end-of-bureaucracy"/>
+   <updated>2025-06-03T00:00:00+02:00</updated>
+   <id>https://dannybuerkli.com//2025/06/03/end-of-bureaucracy</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Danny Buerkli, 06 June 2025&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;AI may be about to do to government what the power loom did to weaving.&lt;/p&gt;
+
+&lt;p&gt;For decades, we’ve been digitizing government: moving paper forms online, connecting databases, speeding up communication. But even with digital transformation done right, we have only been rearranging how information moves around. The actual work of manipulation of symbols (reading materials, making decisions, writing responses) still happens exclusively the same way it always did: inside brains.&lt;/p&gt;
+
+&lt;p&gt;That’s why, despite all our technology, a government office today would be instantly recognizable to a civil servant from a hundred years ago. If you brought in a capable civil servant from the early nineteen-hundreds they would be up and running before lunch. We have screens and keyboards now, but the logic of the wiring which shuffles information from one cranium to another remains essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;This is not a dig at government bureaucracies. We simply have not had technology which would have changed the fundamental logic of public administration.&lt;/p&gt;
+
+&lt;p&gt;It is however not how technology transformed other industries. When mechanical looms arrived in the 1800s, they didn’t just help weavers pass thread faster. They fundamentally changed what it meant to make cloth.&lt;/p&gt;
+
+&lt;p&gt;We are arguably at that moment now with most of knowledge work, which includes public administration. And if we are not there yet we will soon be. AI can read, analyze, draft, and reason. In other words: it can think. If this strikes you as a bizarre claim, I strongly encourage you to play around with some of the most recent reasoning models.&lt;/p&gt;
+
+&lt;p&gt;Of course AI systems will still need to be supervised in places. But that is no different from how less experienced civil servants have their work checked by more seasoned colleagues.&lt;/p&gt;
+
+&lt;p&gt;The question before us is: what happens when every policy analyst has the analytical capacity of an entire department? When every caseworker can process applications with the thoroughness of a team? The binding constraint on public administration has always been the number of people who can read, think, and decide. That constraint is about to disappear.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/20250603_lorenzetti.png&quot; alt=&quot;Map1&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;What would Lorenzetti&apos;s &quot;Allegory of Good and Bad Government&quot; look like for our age?&lt;/figcaption&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;This shift raises questions we’ve never had to ask before. Here are four implications worth considering:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1) Against State Capacity?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We might not want government to become too effective. Imagine tax authorities that can audit every transaction in real-time, or immigration systems that track every movement instantly. Public administrations aren’t just constrained by laws, but the number of people they have, how capable they are, and how well they work together. We may soon find ourselves in the odd position of defending bureaucratic inability to get things done as a feature, not a bug.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2) But Do You Have A Choice?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yet we may not have much choice. Consider pharmaceutical regulation: once one country uses AI to review drug applications, others must follow or risk missing critical safety signals buried in complex data. The same logic applies everywhere. As citizens submit AI-generated documents and companies automate their compliance reporting, governments that don’t keep up will simply drown. The pension wave hitting public sectors worldwide only accelerates this: with boomers retiring en masse and fewer workers to replace them, automation becomes necessity, not choice.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3) The Small Government Paradox&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This creates an intriguing opportunity for those who’ve long advocated for smaller government. One metric, though not the only one, is headcount. Why replace retiring civil servants when AI can do their work? The political narrative writes itself: no layoffs, just natural attrition plus “automation like we see in the private sector.” But: 100 regulators equipped with AI might wield more power than 10,000 working with paper. Is that really smaller government, or just government with a smaller headcount?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4) The Stabilization Dilemma&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The counter-argument runs deeper than efficiency. If AI displaces millions of private sector workers, government employment might become our economic ballast, a form of distributed universal basic income disguised as public service. We might need an “inefficiently” large public workforce precisely because the private sector becomes too efficient.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The same technology that could make government monumentally more capable might also demand we keep it deliberately incapable. The same force that enables a radically smaller state might require us to maintain a bloated one.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Where the map ends: understanding Wardley maps’ limitations</title>
@@ -42,6 +227,10 @@
 &lt;p&gt;These limitations are not defects. Any method must be understood in terms of the assumptions it carries and the constraints which these imply.&lt;/p&gt;
 
 &lt;p&gt;The question is never whether a method is perfect; the question is whether, for what we are trying to achieve, it is more useful than the next best alternative.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/20250202_Turrell.png&quot; alt=&quot;Map1&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;We can’t ever capture all of reality… (James Turrell’s “Meeting” at MoMa PS1)&lt;/figcaption&gt;
 </content>
  </entry>
  
@@ -174,9 +363,7 @@ The agency found the results compelling. And because what we did was useful and 
 
 &lt;p&gt;In hindsight, after having pored over the maps for a few weeks, the move – and the rationale behind it – seemed obvious to everyone involved. I highly doubt, however, that we would have achieved the same level of clarity and conviction without the shared language of the Wardley maps.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here are two excellent resources if you would like to learn more about Wardley Mapping:&lt;/p&gt;
 
@@ -189,9 +376,7 @@ The agency found the results compelling. And because what we did was useful and 
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;I would like to warmly thank my colleagues at staatslabor, specifically Lynn Reinhart, Giulia Colella, and Dario Meloni who were part of the project team and to Lisa Brombach and Carla Mueller for helpful comments. Lynn and Giulia, in particular, did much of the essential work of drawing (and redrawing) the maps.&lt;/p&gt;
 
@@ -527,10 +712,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
 
 &lt;p&gt;I’m hopeful that this can provide the ground for meaningful change and reform. There’s much work to be done and I’m encouraged by the many committed, capable, and creative teams and individuals having a go at changing the collective infrastructure we all rely on for our wellbeing, prosperity, and freedom.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;This essay builds on many sources, including many conversations I’ve had with friends and my colleagues at staatslabor. I am also grateful to everyone on Twitter who pointed out flaws and mistakes in the original thread.&lt;/p&gt;
 
@@ -632,9 +814,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The current situation around the coronavirus epidemic is evolving rapidly. Switzerland, where I’m based, as of March 7 2020, has 228 confirmed cases. The overwhelming odds are that this number will increase rapidly and with it will the number of seriously affected individuals.&lt;/p&gt;
 
@@ -742,9 +922,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
 
 &lt;p&gt;I offer these thoughts in the spirit of Donella Meadows — a pioneer of systems thinking — who said: &lt;em&gt;“Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Further reading:&lt;/em&gt;&lt;/p&gt;
 
@@ -766,9 +944,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;I owe a lot of thanks to all the individuals who took the time to read and comment on initial drafts. I asked people with expertise in epidemiology and other related fields to look over it in an attempt to avoid obvious mistakes. Any remaining errors are, obviously, mine.&lt;/p&gt;
 </content>
@@ -1047,9 +1223,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
 
 &lt;p&gt;One day this new, complexity-informed paradigm will no doubt seem blindingly obvious, just like the managerial paradigm of efficiency and “best practice” feels obvious right now. Until then we need to keep chipping away at the old paradigm and leading by example to bring about a new one.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Special thanks go to my colleagues &lt;a href=&quot;https://twitter.com/LenaKuenkel&quot;&gt;Lena Kuenkel&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/_AdrianBrown&quot;&gt;Adrian Brown&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/JohnBurgoyne07&quot;&gt;John Burgoyne&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/bnjcomms&quot;&gt;Bridget Nurre Jennions&lt;/a&gt; for their help with this post.&lt;/p&gt;
 </content>
@@ -1104,9 +1278,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
 
 &lt;p&gt;I wanted to take a step back and share some of what we have learned. This is a personal reflection — and one that in all likelihood I would have never written if it weren’t for this environment which allows for more openness and vulnerability. I’m confident that my colleagues would agree with much of it but I’m equally certain that they’d bring up other aspects as well and tell some of the stories &lt;em&gt;very &lt;/em&gt;differently.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;I also wanted to express our gratitude to those who have and are still helping us figure this out.&lt;/p&gt;
 
@@ -1256,9 +1428,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
 
 &lt;p&gt;In other words, we should start from the assumption that a problem can be dealt with at the lowest level and only hand it up if there is compelling evidence that it’s necessary. Unless we are very sure we’re in a situation with a smooth response surface and low variability localism will generate better results.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Sources and inspiration&lt;/strong&gt;&lt;/p&gt;
 
@@ -1314,9 +1484,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
 
 &lt;p&gt;What’s depressing about this is how predictable these problems with measurement and management are, how long we’ve understood them, how everyone involved in pursuing some meaningless metric knows it’s a sham and how “what gets measured gets managed” somehow is still accepted as gospel.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The quote from Simon Caulkin above was previously inaccurately attributed to V. F. Ridgway. Many thanks to &lt;a href=&quot;http://scottbot.net/&quot;&gt;Scott B. Weingart&lt;/a&gt; for spotting the error and &lt;a href=&quot;https://twitter.com/scott_bot/status/1115254667569659910&quot;&gt;kindly pointing it out&lt;/a&gt;.&lt;/p&gt;
 
@@ -1331,9 +1499,7 @@ The countries that did comparatively well all shifted into an “all-out effort�
    <id>https://dannybuerkli.com//2016/05/18/ten-government-innovations-and-their-place-in-the-hype-cycle</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This article was originally published in the &lt;a href=&quot;https://www.huffpost.com/entry/10-government-innovations_b_10031858&quot;&gt;Huffington Post&lt;/a&gt; (18 May 2016).&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Hype Cycle, created by Gartner, provides a helpful and entertaining way to map how a technology develops from conception to maturity to adoption. As new technologies and ways of doing things come into the world, it takes experimentation to fully grasp the potential (or lack thereof) of something new. And much like in the private sector, where the Hype Cycle originated, it can be applied just as well to government.&lt;/p&gt;
 
