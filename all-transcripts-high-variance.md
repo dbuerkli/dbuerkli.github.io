@@ -24,7 +24,7 @@ Email me at *dannybuerkli at gmail dot com* (I like receiving email!) or find me
 
 ## Table of contents
 
-- **Wardley Mapping and the Art of Strategy – with Simon Wardley** (2026-05-27): Simon Wardley — former CEO and creator of Wardley Mapping — joins Danny Buerkli to talk about how he went from feeling like a fake CEO to finding one of the most useful ways of thinking about strategy. Simon also explains how he cheats at prediction, calling cloud, serverless, vibe coding, and the rise of intelligent agents years — sometimes decades — before they arrived. They also talk about why data centers are heading to space, what SpimeScript will do to every supply chain on Earth, why he thinks China will win the AI race, and how large language models are a non-kinetic form of warfare.
+- **Wardley Mapping: How to Cheat at Predicting the Future – with Simon Wardley** (2026-05-27): Simon Wardley — former CEO and creator of Wardley Mapping — joins Danny Buerkli to talk about how he went from feeling like a fake CEO to finding one of the most useful ways of thinking about strategy. Simon also explains how he cheats at prediction, calling cloud, serverless, vibe coding, and the rise of intelligent agents years — sometimes decades — before they arrived. They also talk about why data centers are heading to space, what SpimeScript will do to every supply chain on Earth, why he thinks China will win the AI race, and how large language models are a non-kinetic form of warfare.
 - **AI Strategy for Middle Powers – with Anton Leicht** (2026-04-23): If you don't have a frontier AI lab within your borders, as a country, what exactly is your plan? Anton Leicht — visiting scholar at the Carnegie Endowment for International Peace and author of the Threading the Needle Substack — joins Danny Buerkli to talk through the strategic options available to middle powers. They discuss why the UK seems more situationally aware than others, what leverage the Netherlands truly has (or not) thanks to ASML, and why the window to act may be measured in low single-digit years rather than decades.
 - **The Quest for the Perfect Weapon – with Jeff Stern** (2026-03-25): Jeff Stern — reporter and author of The Warhead — joins Danny Buerkli to talk about the long quest to build the perfect weapon. They discuss how a company mostly known for calculators revolutionized warfare, the paradox of precision-guided munitions, what disappears behind the language of surgical force, and how covering conflict changed Jeff’s understanding of his own role as a reporter.
 - **Intelligence Saturation and the Economics of AI – with Ioana Marinescu** (2026-03-04): Ioana Marinescu — associate professor at the University of Pennsylvania, research associate at the NBER, and member of Anthropic's Economic Advisory Council — joins Danny Buerkli to discuss her 'intelligence saturation' paper, which divides the economy into an intelligence sector and a physical sector to model what happens as AI automates cognitive work. They discuss why a recent scenario piece that moved markets gets the economics wrong, what parameters to watch to understand where we're headed, why being first to AGI may matter less than people think, her policy proposals for AI Adjustment Insurance and a Digital Dividend, what UBI experiments do and don't tell us about a world without work, Ioana's favorite theory of divorce, and what it feels like to be an intelligence worker watching AI get better at your job.
@@ -39,13 +39,13 @@ Email me at *dannybuerkli at gmail dot com* (I like receiving email!) or find me
 
 ---
 
-## Wardley Mapping and the Art of Strategy – with Simon Wardley
+## Wardley Mapping: How to Cheat at Predicting the Future – with Simon Wardley
 
-2026-05-27 | [Apple Podcasts](https://podcasts.apple.com/podcast/high-variance-with-danny-buerkli/id1839231559) | [Spotify](https://open.spotify.com/show/19vjjI6amjfur4u0i6UeLh)
+2026-05-27 | [Apple Podcasts](https://podcasts.apple.com/us/podcast/wardley-maps-how-to-cheat-at-predicting-the-future/id1839231559?i=1000769830635) | [Spotify](https://open.spotify.com/episode/4LSXMQa49p8JOfHmz3fV42?si=MKLD25abTaK03ayjHnoXhg)
 
 Simon Wardley — former CEO and creator of Wardley Mapping — joins Danny Buerkli to talk about how he went from feeling like a fake CEO to finding one of the most useful ways of thinking about strategy. Simon also explains how he cheats at prediction, calling cloud, serverless, vibe coding, and the rise of intelligent agents years — sometimes decades — before they arrived. They also talk about why data centers are heading to space, what SpimeScript will do to every supply chain on Earth, why he thinks China will win the AI race, and how large language models are a non-kinetic form of warfare.
 
-**Danny Buerkli:** My guest today is Simon Wardley. Simon is a former CEO, scholar, and most famously the inventor — or discoverer — of Wardley Mapping, the most widely useful way of thinking about strategy and much else. Simon, welcome.
+**Danny Buerkli:** My guest today is Simon Wardley. Simon is a former CEO, scholar, and most famously the inventor — or discoverer — of Wardley Mapping, the most wildly useful way of thinking about strategy and much else. Simon, welcome.
 
 **Simon Wardley:** Fantastic to be here. I'll have to push back on the "scholar." I'm a terrible academic — so lousy. I stopped at my second master's, so I'm not anything like a scholar. The mapping stuff was all accidental discoveries. They drag me in to teach at a couple of places, a day here and there, which is extremely kind. There are some academics who look into the maps, but they're academics. I'm just a guy who wandered along.
 
@@ -372,8 +372,6 @@ The way I learn patterns is pretty simple. I use the mapping when we're building
 **Danny:** For anyone who hasn't read your book — warmly recommended. It is highly rated, but in my view still underrated. There's a huge amount of alpha in there, as some people would put it. With that, thank you so much, Simon. This was huge fun.
 
 **Simon:** It was fantastic. Some of the most interesting questions as well — they brought up things I thought had been forgotten. Always fun.
-
-**Danny:** Thank you very much. Thanks for listening. If you like this podcast, please give us a rating and leave a review wherever you get your podcasts. It makes a big difference, particularly for newer podcasts like this one.
 
 ---
 
