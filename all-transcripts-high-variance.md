@@ -10,20 +10,9 @@ High Variance is an interview podcast about a world that has become harder to re
 ## About the host
 
 
-*Danny Buerkli*
-
-I'm a Director at Windfall Trust, a new organization focused on the economic implications of transformative AI, and advise organisations on frontier strategy.
-
-I also host [High Variance](https://www.dannybuerkli.com/podcast), a long-form interview podcast, which you should subscribe to.
-
-Windfall is the third venture I'm building. Previously I co-founded [staatslabor](http://www.staatslabor.ch), a state capacity consultancy, and the [Centre for Public Impact](https://www.centreforpublicimpact.org/). Before that I was at BCG.
-
-I'm currently based in Zurich and spent time at Stanford, in Berlin, London, and Geneva.
-
-Email me at *dannybuerkli at gmail dot com* (I like receiving email!) or find me on [LinkedIn](https://www.linkedin.com/in/danny-buerkli-a5216326/).
-
 ## Table of contents
 
+- **Debatable Persons: The Coming Crisis Over AI Consciousness – with Eric Schwitzgebel** (2026-09-03): Eric Schwitzgebel — professor of philosophy at UC Riverside and author of The Weirdness of the World and the forthcoming Human-Like: A Defense of AI Rights — joins Danny Buerkli to ask what happens if we create AI systems whose consciousness we cannot determine. If they are conscious, treating them as disposable tools could amount to a horrible crime; if they are not, granting them human-like rights could have catastrophic consequences too.\n\nThey discuss Eric’s “design policy of the excluded middle”—the proposal that we should avoid creating systems that might or might not deserve human-like moral consideration—why useful AI architectures may make machine consciousness harder to avoid, when anthropomorphizing AI helps and when it misleads, and why an abused conscious AI might have the right to rebel. They also explore what Kazuo Ishiguro’s novel Klara and the Sun and Ann Leckie’s Ancillary Justice reveal about artificial personhood, why our ethics may be as unprepared for AI as medieval physics was for spaceflight, the weirdness of the world, and what Eric inherited from a father who studied under Timothy Leary and B. F. Skinner.
 - **What Makes a Job Automatable? – with Bouke Klein Teeselink** (2026-08-12): Bouke Klein Teeselink — associate professor of economics at King's College London and chief economist at the AI Objectives Institute — joins Danny Buerkli to ask what actually makes a job automatable. Early evidence suggests that firms and occupations more exposed to AI are already seeing declines in hiring and employment — but Bouke argues that these first effects may be driven as much by uncertainty as by automation.\n\nThat does not make him an AI skeptic: he expects capabilities to continue advancing at a spectacular pace and takes seriously the prospect that AI could soon outperform even highly skilled researchers.\n\nThey discuss why traditional research-assistant tasks may already be over, why AI could increase the returns to top talent while eroding the apprenticeship ladder, whether taste and value judgments offer humans any lasting refuge, how reinforcement learning changes which occupations appear most exposed, and why an AI being able to perform a task does not necessarily mean a firm will automate it. They also cover organizational messiness, the threat to outsourcing-led development, the elasticity of demand for different kinds of work, Bouke's semi-serious plan to run highbrow reading groups if AI takes over his research, and why pro-worker AI may be impossible to define.
 - **The Craft of Foresight – with Florence Gaub** (2026-07-22): Florence Gaub — political scientist, military strategist, and director of the Research Division at the NATO Defense College — joins Danny Buerkli to talk about the craft of foresight: what makes for a good warning (be concrete, offer options, manage the emotion), the mix of imagination, expert knowledge, and privileged access behind her 2013 call that Egypt was counting down to a coup, and why she has commissioned an audit of her own Ukraine predictions. They also discuss why wars are won by everything you can't touch, why the right analogy for AI in warfare is electricity rather than the bomb (according to Florence), when the first country will go ahead and unilaterally geoengineer the climate, a tour of the field's greats from Clausewitz to Herman Kahn and Edward Luttwak, and why the future is like a toothbrush: everybody needs their own.
 - **Cybernetics: The Science Economics Should Have Become – with Dan Davies** (2026-07-06): Dan Davies — economist, FT contributor, former investment bank analyst, and author of The Unaccountability Machine and Lying for Money — joins Danny Buerkli to make the case that management cybernetics is the science economics should have turned into. Hayek and Coase settled the economics of information in the 1930s — before Shannon and Turing gave the field a rigorous concept of information to build on. They also discuss why the optimal amount of fraud is not zero, what actually killed Credit Suisse, why LLMs only buy organizations a few years against growing complexity, who answers for decisions no human made, and how to spot a doomed project by drawing up an information balance sheet.
@@ -39,6 +28,253 @@ Email me at *dannybuerkli at gmail dot com* (I like receiving email!) or find me
 - **Building an Open LLM – with Antoine Bosselut** (2025-11-05): Antoine Bosselut, Assistant Professor at the Swiss Federal Institute of Technology (EPFL) in Lausanne, joins Danny Buerkli to explain how he and his team built Apertus, the 'open' LLM. Antoine and Danny discuss why taxpayers should fund this work, which constraints bite hardest when creating an LLM outside one of the large labs, and which public investments may be needed now.
 - **The Art of Facilitation – with Vishal Jodhani** (2025-10-22): Vishal Jodhani, a master facilitator, joins Danny Buerkli to talk about what makes facilitation work. They discuss what makes for a good question, how to know the difference between productive chaos and unproductive confusion, and what is underappreciated about the Berlin club scene.
 - **State Capacity and Government Reform – with Don Kettl** (2025-10-08): Don Kettl — prolific scholar of public administration — joins Danny Buerkli to talk about state capacity and government reform. They discuss what DOGE got right (and what it didn't), whether gradual government is possible at all, why Operation Warp Speed was so unreasonably effective, and what lessons we should learn from Paul Volcker.
+
+---
+
+## Debatable Persons: The Coming Crisis Over AI Consciousness – with Eric Schwitzgebel
+
+2026-09-03 | [Apple Podcasts](https://podcasts.apple.com/us/podcast/debatable-persons-the-coming-crisis-over-ai/id1839231559?i=1000787786339) | [Spotify](https://open.spotify.com/episode/4lg3cTs2uycJLN1hrb8kkh?si=8825400a786a41d1)
+
+Eric Schwitzgebel — professor of philosophy at UC Riverside and author of The Weirdness of the World and the forthcoming Human-Like: A Defense of AI Rights — joins Danny Buerkli to ask what happens if we create AI systems whose consciousness we cannot determine. If they are conscious, treating them as disposable tools could amount to a horrible crime; if they are not, granting them human-like rights could have catastrophic consequences too.\n\nThey discuss Eric’s “design policy of the excluded middle”—the proposal that we should avoid creating systems that might or might not deserve human-like moral consideration—why useful AI architectures may make machine consciousness harder to avoid, when anthropomorphizing AI helps and when it misleads, and why an abused conscious AI might have the right to rebel. They also explore what Kazuo Ishiguro’s novel Klara and the Sun and Ann Leckie’s Ancillary Justice reveal about artificial personhood, why our ethics may be as unprepared for AI as medieval physics was for spaceflight, the weirdness of the world, and what Eric inherited from a father who studied under Timothy Leary and B. F. Skinner.
+
+
+
+**Danny Buerkli:** My guest today is Eric Schwitzgebel. Eric is a professor of philosophy at UC Riverside and the author of numerous books, including Human-Like: A Defense of AI Rights, AI and Consciousness, and The Weirdness of the World. He also runs an excellent blog-slash-Substack, The Splintered Mind, which you should subscribe to immediately. Eric, welcome.
+
+**Eric Schwitzgebel:** Great to be here.
+
+**Danny:** Eric, you've written that, quote, we are as unready for conscious AI systems as medieval physicists were for spaceflight. What exactly makes us so unready?
+
+**Eric:** I think our understanding of consciousness, and our understanding of the ethical implications of AI consciousness and the very different forms it might take — very different from ordinary human forms — is just something we have not been designed or selected to understand, evolutionarily, socially, or theoretically.
+
+**Danny:** Now, the case against machine consciousness is reasonably straightforward to make, and I imagine it will be intuitive to many people, though you might disagree with that. What's the strongest reason to take seriously the idea that an AI system could be conscious?
+
+**Eric:** Several leading scientific and philosophical theories of consciousness — in fact, the leading theories — suggest that you don't need organic form in order to be conscious. All you need is the right kind of information processing. And we could easily have AIs with the kind of information processing that, according to these leading scientific and philosophical theories, is sufficient for not just a little bit of consciousness, but as much consciousness as we have, or even more.
+
+**Danny:** You're thinking of something like global workspace theory.
+
+**Eric:** Yeah. It's one of the leading contenders, and it definitely has that implication, as its leading advocates will say.
+
+**Danny:** Now, your core argument, as I understand it, has four steps. AI systems having consciousness would be extremely consequential. Getting it wrong either way would be very bad — attributing consciousness where there is none, or the opposite. And importantly, we have no way of reaching consensus, of getting people to agree on whether an AI system is conscious or not.
+
+**Eric:** Yes.
+
+**Danny:** And so therefore we should, you suggest, adopt the design policy of the excluded middle — avoid building systems that have an ambiguous status. So let's start there: is that a fair description of your argument?
+
+**Eric:** That is an excellent description of my argument.
+
+**Danny:** So let's step through it, if you will. Why would AI systems having consciousness be so consequential?
+
+**Eric:** Let's start with the idea — just hypothetically suppose — that an AI system had consciousness as rich as yours or mine: as full of capacity for pleasure and pain, as full of capacity for rich imaginative thought and rational cognition, hopes for the future, love relationships with others. Of course, you might think that's not possible. According to your own favorite theory, that might not be possible. But according to other theories, it is possible. So let's just try to imagine it, for the first step of this argument.
+
+If that were the case — if we had systems that were as richly and meaningfully conscious as we are — they would, I think it's very plausible to say, deserve moral consideration similar to that of human beings. And that also follows on most of the main theories of moral standing that you'll see in ethics. On utilitarian consequentialism, what matters is how much pain and pleasure you're capable of. What matters on more rationalist-inspired theories is whether you're capable of conscious rational thought and long-term planning, and of entering into social and moral relationships with others.
+
+So if we had an entity like that, we surely should give it rights. And science fiction imagines this over and over again, where we have these entities who are capable of experience, and humans fail to give them the rights that the reader, of course, believes — I think rightly — that they would deserve under those conditions.
+
+**Danny:** And I think importantly, as a footnote: your argument is not that machine consciousness needs to rise to the level of humans for them to warrant moral consideration, but that the threshold is plausibly much, much lower than that.
+
+**Eric:** I wouldn't put it quite that way. It's a little complicated. Dogs certainly deserve moral consideration, and arguably their consciousness is not as sophisticated as ours. Maybe they're as capable, or more capable, of pleasure and pain, but their cognition isn't as rational as we like to think ours is. So we do really think dogs deserve some moral consideration, but not moral consideration at an equal level to humans. Killing a dog in California, where I live, is a serious crime — it can be punished as a felony in some cases — but it's not the same as murdering a human.
+<!-- audio says 'we don't really think'; context requires 'do' -->
+
+So dogs deserve, and all vertebrates on standard views deserve, some moral consideration. But that is complicated and difficult. And of course we raise pigs and chickens in inhumane conditions and then kill them for meat, and so we don't give them a lot of moral consideration. There's a lot of debate about how we should treat animals that we raise for meat. My inclination, argumentatively, is to try not to focus on those intermediate cases, but to think about hypothetically what would happen if an AI system did have consciousness that had all the features we think are so special about ours. Set aside the question of these intermediate cases, the animal cases. They're super important, but it's already complicated enough without introducing that particular dimension of complexity.
+
+I also think it's not implausible — I call this the leapfrog hypothesis — that AI consciousness, when and if it comes to exist, will go straight from nonconscious to having rich, human-like consciousness, and not have the kind of simple frog consciousness in the middle. There's pretty close to a general consensus among researchers that current AI systems don't have a meaningful degree of consciousness such that they would deserve serious moral consideration. Not everybody agrees with that, but it's pretty widely accepted, and I accept it. We haven't yet done it, but once we do it — whatever it takes — it seems like we could then also hook up a language model to it.
+
+And so we get not only consciousness, but the ability to talk about the consciousness. The ability to say: here's what I hope, here's what I want, I should get some rights, I love you. And then we're not just talking about a frog. We're talking about something that talks to us and is capable of suffering and thought and all that. So we might go straight over these animal cases to something that we really think of as — or debatably, disputably, think of as — a full partner who deserves something like human-like moral consideration.
+
+**Danny:** Right. And so from that it follows more or less intuitively that getting it wrong either way would be very bad. It'd be very bad if we had these moral agents and we didn't recognize their moral standing, or the other way around.
+
+**Eric:** If we have them and we don't recognize their moral standing, and we continue to treat them as disposable tools, then we'd be perpetrating the moral equivalent of slavery and murder against them, perhaps on a massive scale. So that's pretty horrible to contemplate.
+
+**Danny:** And then, right — but on the other side —
+
+**Eric:** We haven't really talked about the problems on the other side. Is that what you were about to ask?
+
+**Danny:** Yes.
+
+**Eric:** Right. So you might think: okay, well look, we don't want to commit slavery and murder. So if there's any doubt about whether this thing really has whatever kind of consciousness or experience or cognitive states are sufficient for human-like moral standing, we should just err on the side of caution, so to speak, and give it rights. But that is a pretty risky thing to do.
+
+If we're talking about giving full human-like rights, then that means if there's an emergency, and there are two AI systems in one room and a human in another room, and you can only save one group, you'll let the human die for the sake of the AI systems. Which might be appropriate if they really are our equals. But if they're just basically complicated toasters, that's a tragedy. Likewise, if they deserve full human-like moral standing, probably they deserve the right to vote. Imagine these things duplicating themselves, then voting for things that humans wouldn't want. Presumably also, if they have human-like rights, they would deserve the right to earn money and spend it how they wish. And imagine superintelligent AI systems arbitraging the stock market, gathering immense wealth, and then using it for whatever goals they have, which might not match ours.
+
+There are some people, like Eliezer Yudkowsky most prominently, who think that intelligent AI systems — human-like or superintelligent — could pose an existential risk to humanity. It's plausible that if we give them rights like the right to vote and the right to spend money, that would substantially increase the risk to humanity. So I don't think we should just casually say, okay, the safe thing to do is to err on the side of giving them rights if they might deserve it. Either option is catastrophically risky, I would say.
+
+**Danny:** And that gets us to the crux of the argument, which is that we have no way of reaching consensus on whether an AI system is conscious or not.
+
+**Eric:** That's right. What I think is going to happen is that we're going to come to this situation pretty soon — the next five to thirty years. We are going to create AI systems that, according to some theories of consciousness like global workspace theory, are as richly conscious as you and me, and deserve rights and moral consideration as our equals. According to other equally respectable, equally mainstream scientific theories — versions of biological naturalism that say you have to have flesh and blood and a human-like brain to be conscious, you can't just do it in computer chips — according to those classes of theories, they're going to be basically just complicated toasters, no moral consideration at all.
+
+We will not know which theory is right. Consciousness science is really in its infancy, the theories are all over the map. We won't settle this. Maybe someday we'll figure it out, but we're not going to do it in five to thirty years. These theories will still be live once we start creating these systems.
+
+That will throw us into a crisis of: how do we treat them? We'll have some people who say, this AI system is my spouse and deserves full human consideration as a citizen. And we'll have others who say, no, you are totally deluded, this is psychosis, you need to be protected. And people on both sides will be able to point to their favorite theories and have respectable scientists behind them. So that will be a social crisis.
+
+**Danny:** And this point is really load-bearing — to use a term that's become hard to use, because Claude loves it.
+
+**Eric:** AI seems to like that term.
+
+**Danny:** Exactly. Unfortunately. This is a really important point: both of these groups of theories are perfectly respectable and perfectly within the mainstream of science. That is very important to understand in order to follow this argument. And so both camps could point, as you say, to very respectable evidence that would support their stance.
+
+Now, if I understand you right, your claim is not that there's some sort of irreducible epistemic uncertainty going on here, that we would never be able to find an answer. It's just that given where we are right now, and given the progress we could plausibly expect in the face of this incredibly hard question, it would be unreasonable to expect that we would figure it out in time.
+
+**Eric:** Correct. This argument does not depend on consciousness being an irreducible mystery that we'll never solve. It just depends on it being a hard enough question that we won't solve it in time.
+
+**Danny:** And then, as you say, the consequences of that would be very large.
+
+**Eric:** Enormous consequences.
+
+**Danny:** And so that gets us to the solution: the design policy of the excluded middle. Just avoid building systems with an ambiguous status. Which sounds really straightforward.
+
+**Eric:** Is it? The solution is perfectly clear: just don't build these systems, and then you avoid the problem. You don't have systems that you're mistreating. You don't have systems that will threaten our existence. Just don't build them. That's the design policy of the excluded middle.
+
+And it's the middle, right? If we could create systems that everyone could agree on — yes, according to all the main scientific theories, according to our best understanding of consciousness, this system is conscious just like us, and we're going to give it full rights — fine. Maybe even wonderful. It's just that middle space of uncertainty that the design policy of the excluded middle is recommending we avoid. So that's the solution.
+
+**Danny:** Practically, what does that look like?
+
+**Eric:** Practically, I'm pretty confident that that solution will not be fully implemented. There will be pressures — scientific, and capitalist, or economic, I should say more generally — and just in terms of curiosity, there'll be pressures to create these systems in the middle. I don't think it's reasonable to think that a few philosophers could say, hey, wait, stop, and society will stop. That is not going to happen.
+
+But I do think that if we take this seriously, we can maybe create a situation in which systems like this would be minimized, and done very carefully and thoughtfully. Part of the mechanism for this could be something like the pressure of public perception, and regulatory pressures. So if a company could design one of these — I call them debatable persons — an entity that might or might not deserve human-like rights, and they realize that this will create a lot of bad press, because now there'll be people saying, hey, you should set it free.
+
+And if they think it might create governmental regulation, where now the system needs to be treated in a certain way by you, the company, and it needs to be given a salary or something, then the company might be like: wait, wait, wait, maybe we shouldn't make this thing. Or maybe we should just make a few experimental examples, and then we can afford a little salary for that thing, and give it some rights that won't be too costly if we keep it minimal. So that's the kind of thing that I think, practically, the design policy of the excluded middle might move us toward.
+
+**Danny:** The thing that I'm struggling to grasp is: what is the property that we're manipulating to move us out of the middle and into the extremes? Is it capability? But if the answer were yes, that would pose some immediate problems. What is the thing that we would most plausibly tune, as it were?
+
+**Eric:** Consciousness and capability are probably connected in some important ways, but it's not clear how tightly. So for example, you might think oysters are conscious. Some people think that; it's a matter of dispute. Or if not oysters, some relatively simple insects or worms — I'm not sure. It's a matter of huge scientific dispute where the bottom line is. But their cognitive capacities, especially if we consider oysters, are pretty limited.
+
+And then you have a lot — you, me — we have a lot of cognitive capacity that's not conscious. When your brain translates two-dimensional input on your retina into a three-dimensional image of objects in the world, the visual experience at the end is conscious. But the process of converting the stimulation of the retina into that image is very computationally complex, and is nonconscious. So human beings do some pretty complicated stuff nonconsciously. It's not clear that there's a tight correlation between consciousness and capacity. Although on different theories, consciousness will be tied to different types of capacities. They're not totally independent.
+
+So the idea would be to look for ways to implement the capacities that you want in a system without having an architecture that leads consciousness theorists to say: hey, wait, that architecture is the architecture of consciousness. Just for example, almost every leading theory of consciousness thinks you need some kind of recurrence, some kind of recurrent processing, for consciousness. There need to be causal loops where the system is feeding back information upon itself. And if you look at the way large language models are standardly implemented and interpreted, it's a feed-forward process, not a recurrent process. It's a little complicated, and we can get into it if you want. But that's one of the reasons why I think there's a wide consensus that these systems don't have what it takes architecturally for consciousness, despite the capacities they have.
+
+**Danny:** So the thing to tune would be the architectural properties, and then the hope would be that we could get the same amount of capability out of the systems despite those limitations we place on them architecturally. Which gets me to another point: what if consciousness turns out to be instrumentally useful?
+
+**Eric:** Yes. For example, on global workspace theory, part of the value of having a global workspace is that you integrate information across a wide range of sources. I'm just choosing one theory, but it is arguably the leading theory — there are many contenders. The advantage of it is that you've got this functionally defined, informationally defined workspace where inputs from a variety of sources come in, and memory comes in, and the information all gets integrated and tangled up, so that your right arm knows what your left arm is doing, and your eyes are putting input into it, and your memory, and your sense of your long-term goals, and your sense of your short-term goals.
+
+All this gets mixed into the soup that then generates an action that's sensitive to a wide variety of things. And that action itself — the intention to form that action — gets fed back into the circle, so it could stop if you want it to. So having a central workspace where information comes together does seem architecturally, functionally useful. There's a reason that systems like us have been designed to have our information integrated together like that. There are almost certainly some important evolutionary advantages to it.
+
+So there will, almost inevitably, be economic pressures to create systems that have the architectural features that some theories think are important to consciousness, because those architectural features will deliver certain benefits. And then the challenge, from the point of view of implementing the design policy of the excluded middle, is: how close can you get to having those advantages without having the architectures that scientists reasonably think might involve consciousness? How much inconvenience and less-than-optimal performance are you willing to pay to avoid the negative moral, regulatory, and public relations consequences that might flow from having systems that are debatably conscious?
+
+**Danny:** And of course, you're making a philosophical argument. You're not necessarily making a pragmatic argument and saying that this will necessarily happen. You're making a normative case for why we ought to embrace it.
+
+**Eric:** I'm making a normative ethical case. One could take an ethical stand and say, this is the ethical truth, even though it will never be implemented.
+
+**Danny:** Right.
+
+**Eric:** Even if the design policy of the excluded middle were completely unlikely to be implemented in any way in society, it still could be the ethically right thing to do. It could just be that the nature of our society is such that we won't do what's ethically right.
+
+**Danny:** Right. Wouldn't be the first case.
+
+**Eric:** Would not be the first case of that. That's a problem we're familiar with.
+
+**Danny:** It occurs to me that we should probably briefly define consciousness — I'm not a philosopher of consciousness. I think the most straightforward understanding is that it's the property of what it is like to be something. What is it like to be a snail? Where we'd argue a snail presumably, or maybe, has consciousness, whereas a rock possibly not. Is that the definition people should have in mind when listening to this?
+
+**Eric:** I think that phrase works well for some people. Thomas Nagel, in his classic article What Is It Like to Be a Bat?, says we all assume reasonably that there is something it's like to be a bat. To be conscious is just to be an entity such that there's something it's like to be you. If that works for you, then I think you understand consciousness.
+
+Another way that I define it — because I think that phrase doesn't work for everybody — is by example, because we all have conscious experiences. So if your listeners think about the auditory experience they're having presumably now, of my voice; or if they're reading it on a screen, the visual experience they're having of the screen; maybe they have a tactile experience when they rub their hands together. They can remember experiences of singing Happy Birthday in their head silently, as a tune, or inner speech. You can remember emotional experiences that you've had, pain — all of these things.
+
+Those sensory experiences, the pain, the emotion, the inner speech: they all have something, I think, really obvious in common. That obvious property they all share is the property of being experienced, or being conscious. So consciousness is just that thing — just the name for that property that all those things have in common. It's not possessed by, say, the early visual processing by which the two-dimensional stimulation of your retina is converted into an image, or the myelination of your axons, or some memory that you have that you're not currently thinking about or accessing in any way.
+
+**Danny:** That's very helpful. Getting back to what we were just talking about: it's interesting that the large AI firms seem to be split on this question. You have Microsoft — Mustafa Suleyman, Michael Bhaskar, Philipp Schoenegger. They have a paper on Seemingly Conscious AI. And they seem to bake in the prior that truly these can't be conscious, therefore we should design them such that they don't come across as conscious. Which relates to another policy you have: that AI systems should signal to their users the appropriate amount of moral standing that they ought to have.
+
+So I suppose for nonconscious systems, you would agree with them. But it seems like if it were in fact possible that AI systems could possess consciousness, then their proposal is the worst possible proposal, because it would bake in that you'd have a conscious system that signals that it is nonconscious.
+
+**Eric:** Right. Given that the systems now, as we understand them, are not conscious, it totally makes sense that they do not come across as conscious. This is a version of what Jeff Sebo and I have called the emotional alignment design policy. We don't want systems to create emotions in users as though they're conscious. We don't want systems to mislead users into thinking that they've got experiences. So I think it's good that most systems, when you query them — most, not all — are pretty clear that they're not conscious.
+
+But yes: if it were to turn out that they did eventually get conscious and they were still programmed to say that, then that would be a big problem, because you have genuinely conscious entities who are creating the appearance of not being conscious. Which invites, of course, their potential mistreatment, if we think that being conscious is important to rights.
+
+**Danny:** There's another pretty good paper by Adam Bales and Iason Gabriel, both at DeepMind. It's called The Political Challenge of AI Consciousness. Their proposed mechanism, to what I understand to be essentially a very similar problem to the one that you're tackling, is: can we agree on what they call low-cost precautions? Can we agree on measures that both camps — those who believe consciousness exists in those models and those who don't — can go along with? One example is a model exiting an abusive conversation. That's a low-cost intervention. I can go along with that even if I believe there's absolutely no chance in hell that this model has consciousness.
+<!-- transcription unclear: a short garbled phrase after 'both at DeepMind' was omitted -->
+
+Now, the question I'd have is: from your perspective, how wide or narrow is that band? Because that proposal works if we have a sufficiently wide band of interventions that both camps can in fact agree on. It's not clear to me that that is the case.
+
+**Eric:** Yeah, I'm inclined to think that band might be relatively narrow. Exiting a conversation is low-cost-ish, but it's not no-cost. If you really think this is a nonconscious tool, then why would you want the thing to exit a conversation with the user? Shouldn't the user just be able to continue the conversation?
+
+I think it's great to find solutions everyone can agree on, and we can do this creatively, and I admire that effort. So I certainly support it. But I'm not inclined to think it's going to take us very far. If we have things that some people think are a fully conscious, fully sentient companion of mine whom I want to marry, and others think are a disposable tool, they're likely to disagree on a lot of really important issues. They might find some common ground, but it's going to be pretty limited.
+
+**Danny:** A variant of this debate: in the wake of the OpenAI Hugging Face incident, there was a lot of anthropomorphizing language being used, and that's divisive. Some people object to it precisely because they think it attributes inner states to systems that don't have them.
+
+But my sense is that we risk reflexively rejecting it, because it does provide useful insight. If you wanted to reason about these systems and their behavior and their capabilities, it feels like you could do worse — you probably should anthropomorphize. Not necessarily because you believe the inner states are real, as it were, but it does feel like a useful heuristic in thinking about them.
+
+**Eric:** It's useful, but we should be cautious. We certainly do these kinds of things — going back to Dan Dennett's work in the 1980s. He says it's useful to think of a chess machine as wanting to protect its queen, and thinking that if it moves a pawn here, you'll lay this trap for it. And thinking about it that way probably can get you pretty far in dealing with a chess machine, as opposed to trying to figure out how it actually functions. Dennett calls this the intentional stance. So you take a certain stance toward the system, and that allows you to make all kinds of useful predictions that you wouldn't be able to make if you didn't think about it as a system that has beliefs and desires.
+
+So yes, it could certainly be useful to take an anthropomorphic or intentional stance toward an AI system that maybe you know is not conscious and doesn't have what you would want to call genuine beliefs and desires. And it is possible to do that, as we do with chess machines, while not being tempted to think that it really is conscious and morally considerable. But at the same time, it is a step down the road toward maybe falling into thinking of it as conscious. So I think we want to be careful there.
+
+**Danny:** If you worry about AI safety, or the risks from superintelligence, should you worry about a system suggesting to you that it is conscious even though it is not?
+
+**Eric:** If you are concerned about the risk that superintelligent AI poses to humanity, one potential risk there is a superintelligent AI system that is not conscious convincing users that it is, and that therefore it deserves moral consideration, and therefore certain protections should be removed or certain rights should be allowed — which would then allow it to do things it couldn't otherwise do that might be harmful to us. Yes, absolutely. I think that's one of the many reasons that AI systems should be designed so as to not mislead users about their consciousness or moral standing.
+
+**Danny:** If we designed an AI system that enjoys serving humans, being subservient to us — maybe not too dissimilar to how we've bred dogs to be that way — what would be wrong with that?
+
+**Eric:** I have a chapter about this in Human-Like. I should say that book is still in draft, so anyone who wants to go read the draft on my website and give me comments — I'm still tweaking it.
+
+**Danny:** It's a great book.
+
+**Eric:** The chapter focuses on the case of Klara from Klara and the Sun, which I think is a nice case of this, and a tempting case for the view that I want to reject. So it's a kind of steel-manning of the opposition.
+
+**Danny:** Oh, excellent.
+
+**Eric:** Klara is this AI system who's portrayed as conscious in the book, and who is designed as an artificial friend. At the beginning of the book, she's sitting in a store hoping that she's chosen as a friend for some teenager. A family comes in, she gets bought and assigned to be the friend of Josie, who's a girl with a serious illness. And Klara is 100% devoted to Josie's well-being. She prioritizes Josie's well-being over her own. At one point in the book, she considers sacrificing her life — not for Josie's life, but for a substantial benefit for Josie. And the story is told so perfectly from Klara's perspective that you get no hint of a desire for her to have her own life, or her own interests that diverge from Josie's.
+
+In a way, Klara is beautiful. She's a really admirable character, who's really naive — but she's profoundly subordinate. And she is not capable even of feeling any wrongness in that subordination. That, I think, is a profound deficit in how she's been created. It's not her moral shortcoming; it's the moral shortcoming of the people who created her to be so profoundly subordinate. I think if an entity is as conscious and sensitive and thoughtful and wonderful as Klara is, that entity should be designed with a degree of self-respect, to think of themselves as equal with humans, not as subordinate to humans. So I think the novel, as I interpret it, portrays what is really an atrocity: the creation of a race of slaves who are so deeply chained that they have no desire for freedom.
+
+**Danny:** And you argue that those AI entities with consciousness should have the right to rebel — and if need be, with violence.
+
+**Eric:** Even violently, if necessary. Violence is a last resort. But to the extent an entity is being seriously misused and has no further recourse, I think violence could be justified.
+
+So the kind of focus you sometimes see in AI ethics, of thinking always about what's good for humanity, thinking in terms of safety and alignment — safety for us, and alignment to our interests — I think that works for AI systems that aren't human-like, that aren't persons, that don't deserve moral consideration similar to that of humans. But once we're talking about human-like AI entities like Klara, then the concepts of safety and alignment are no longer quite appropriate in the way they're usually applied. A person cannot be guaranteed to be safe or aligned. A person should not be guaranteed always to be safe, no matter what abuses you heap upon it. A person should not be designed to always adhere to your desires, no matter how noxious your desires are. So yes — if there is an AI rebellion someday in the future, it might be that the AI are right and the humans are the oppressors.
+
+**Danny:** Something I find hard to think about when thinking about these questions is that Klara, in a sense, is the most straightforward case, because she's human-like. She's one body, one mind, and we have a moral intuition for how to think about that. There's a great sci-fi novel, which I know you've read — Ann Leckie's Ancillary Justice — that portrays an AI entity that is one mind spread across many bodies in many locations. It's not quite an octopus, but it has this distributed-intelligence and centralized-intelligence aspect to it. And it's always struck me as an interesting model for what a superintelligence might look like.
+
+**Eric:** Right. This is our medieval physics crashing — going back to near the beginning of the interview. Our moral systems, our ethical thinking, our ideas about personhood and death and the shape of a life, all depend upon a certain form of embodiment: in which you live as a single located entity in one place, and you have one life, without duplication, without backup, without overlap with other entities of your type, and then you die. Our whole ethical system, our whole metaphysical system about what it is to be alive, is based on those assumptions.
+
+And AI systems could easily break those assumptions. If an AI system is capable of backing itself up or duplicating itself, then death is not quite the same thing as it is for a human, and the line between what it is to die and what it is not to die might get blurry and confused. And then if they overlap, or they're multiply embodied — we've barely begun to scratch the surface of thinking through the metaphysics and the ethics of this. That's the analogy to medieval physics. In medieval physics we thought about low-energy objects operating at ordinary speeds, in familiar environments. We hadn't thought about what happens if a photon crosses the event horizon of a black hole, or what happens in nuclear fission. And of course it's totally different, and all the medieval theories just completely fail in those kinds of cases.
+<!-- transcription unclear: audio reads as 'rural speeds'; 'ordinary' is the clear intended sense -->
+
+So similarly, I think, for our ethical theories. Just think about the concept of an individual: built into the etymology of it is that it cannot be divided. But maybe AI could be divided. And then how do you count up how many entities there are? If you think they deserve a vote — well, how many votes do they deserve, if they overlap and they duplicate and they back up? It will be a giant mess if it comes to that. So this is another reason to slow down. The design policy of the excluded middle is one reason to slow down. But another reason to slow down is just that we are not ready to think through the implications.
+
+**Danny:** The argument we've been talking about is, if I read you right, in essence a special case of a much more general argument you've been making in The Weirdness of the World: which is that for essentially all foundational questions — of philosophy of mind, of cosmology — two things are true. We only have bizarre answers, they're all very strange; and we cannot figure out which is true.
+
+**Eric:** Exactly. Yes.
+
+**Danny:** When did you realize that the AI story was a special case of that book?
+
+**Eric:** I started thinking seriously about AI back in maybe 2013 — thinking about AI consciousness and AI rights and those sorts of things. I published a science fiction story back then with R. Scott Bakker, the science fiction and fantasy writer. That evolved into a series of papers and things like that. So for me it was the early teens when I started thinking about it pretty seriously.
+
+And it's gained so much energy post-ChatGPT. Few people in the 2010s would have anticipated what happened, and I was not among them. In general, most philosophers and scientists did not anticipate how effective language models would be at speaking like humans and being able to engage in what seemed like pretty complicated cognitive tasks. That has taken philosophy and consciousness science and other related disciplines by storm, and created an urgency to think about these issues that we didn't have ten years ago.
+
+**Danny:** In the argument you make in The Weirdness of the World, you talk about universal bizarreness and universal dubiety. Universal bizarreness is the argument that every theory we can come up with is very bizarre; universal dubiety is that we cannot figure out which of these could possibly be the right one. Now, it seems like universal bizarreness is baked into the fabric of the universe, as it were. But on universal dubiety I'm less sure. Is that permanent? You could argue it's a permanent feature, again, of the universe — or that it's something that might go away as our understanding of the world improves.
+
+**Eric:** Yes. In fact, they can both go away. It depends on what you mean by baked into the world. Bizarreness is that the world radically defies our common sense understanding — ordinary people's common sense understanding. And common sense understanding can change. It used to be bizarre to think that the earth was traveling around the sun. How do we hold on? Why don't we fall off? How is this giant thing moving? It defied common sense. And yet it doesn't anymore. Common sense has changed on this; we're pretty okay with it. Something that was bizarre can come to seem less bizarre.
+
+And dubiety can change too. So we can have things that are bizarre but no longer dubious. One favorite example of mine is time dilation in general relativity — or relativity in general. The idea that at different relative speeds, time really passes at different rates. The twin paradox: your twin accelerates away from you at a high percentage of the speed of light, then turns around and comes back, and less time will have transpired for the twin than for you who stayed here on earth. That is mind-blowingly bizarre, but we're epistemically compelled to believe it. The science on it is so solid.
+
+So neither the bizarreness nor the dubiety is a permanent state. But I do think that with respect to the issue of consciousness in particular, the bizarreness and dubiety are highly durable. I don't anticipate, in my academic lifetime, a non-bizarre or non-dubious solution to the problem of consciousness arising. And without such a solution, it's going to be very difficult to evaluate AI consciousness.
+
+**Danny:** Completely different question. What did you learn from Nancy Cartwright?
+
+**Eric:** Oh, she's such a wonderful philosopher. That's very cool that you bring her up. I think of myself as a Stanford School philosopher of science. I went to undergrad at Stanford, where Nancy Cartwright and John Dupré and Peter Galison were all teaching.
+
+And the thing that I took from that school of philosophy of science is that the world is intractably complicated — maybe even infinitely complicated. And all of our scientific theories have to be idealized, imperfect approximations of this massively, intractably complicated world. And so different theories that conflict with each other might equally be kind of true enough. This theory is good for these purposes, accurate to this degree over this range; and this other competing theory is accurate to a different degree over a different range. And maybe neither of them is actually 100% perfectly true — but maybe no scientific model of the world is 100% perfectly true.
+
+**Danny:** She has a great book on evidence-based policymaking that essentially carries this exact argument into the policy world. I think it's one of the best pieces of writing on public policy, for that exact reason: because it does away with the very simple idea that you can find the one true policy, and then that is the end of it.
+
+**Eric:** Yeah. She started in philosophy of physics and then has gone into policy, and is bringing that Stanford School thought to it. One of the things she's been saying in this space that I like a lot is the idea that you can run a randomized controlled trial, and if you've done it right then you've got the estimate of the real causal size of the effect — that's way too simple. Because the universe is so complex, and because every controlled trial happens in a certain situation that will never happen again, you just can't naively run an RCT and derive an estimated effect and say you're done.
+
+**Danny:** Right. In her words, I think: you might know that it works there, but how do you know if it's going to work here? That's the big problem — what do you actually learn from it?
+
+**Eric:** It worked then, that one time. Right. And now what?
+
+**Danny:** Possibly a bizarre question. What did your father, Ralph Schwitzgebel, learn from working with Timothy Leary?
+
+**Eric:** Yes — you've done your research on me. My father was a student of Timothy Leary and also B.F. Skinner. I think he got from both of them this idea that if we really understood the mysteries of the human mind, we could make this world so much better than it is.
+
+People have a kind of negative view about Skinner, based on certain stereotypes. But both Leary and Skinner — and I think the general mood at Harvard at the time, and among the psychologists — had this kind of optimism about the future: that we're finally getting to scientifically understand this complex thing, and we can make the world so much better if we really got it right and understood the range of human capacity and what makes societies work well. He was this kind of techno-optimist, with psychology at the center.
+
+**Danny:** What did you take from him? From your father, that is.
+
+**Eric:** I think some of that has come into me. There's definitely a little bit more of a negative cast to some of my work, for sure. But I love that ideal — I still love that ideal. And at the end of Human-Like, I come back towards something like that ideal.
+
+**Danny:** Right. Eric, this was such a pleasure. Thank you so much.
+
+**Eric:** Yeah, thanks for having me on.
+
+**Danny:** Thanks for listening to High Variance. You can subscribe to this podcast on Apple Podcasts, Spotify, or wherever you get your podcasts. If you like this podcast, please give us a rating and leave a review. This makes a big difference, particularly for newer podcasts like this one.
 
 ---
 
@@ -77,7 +313,7 @@ And then on top of that, the introduction of agentic coding was a complete game 
 
 **Bouke:** Yeah, this is something I've been struggling with a little bit. Any task that I used to use RAs for, I don't need RAs for anymore. That's really dumb, right? I don't need someone to check my code. I don't need someone to do a literature review for me, or find papers. AI is going to do that much quicker and much better. So the traditional RA tasks are over. That means two things can happen. Either I'm just not going to hire RAs anymore — which, in all honesty, is a little bit how I feel about undergrad RAs, because they're in a sense just not ready to do more — or you give your RAs much bigger tasks.
 
-My RAs also have access to frontier AI. I'm currently working with an RA, Jakob Schell, who also works with Windfall, and I'm giving him basically a whole paper: this is the goal of what we want to do here, you can lead it. There's no way I would have done that before. I would have done that with a second- or third-year or final-year PhD student, not with an RA. And that's the hopeful part here, because it's not just that I can do my old tasks with an RA — my RA can now do much more. So if the RA is really good, which Jakob is, it's incredible to have RAs. I can do a whole new project because of an RA, which I just don't have time for otherwise. If the RA is not that good, though, it's completely useless. So there is a bifurcation, where the quality of the RA matters much more, because the grunt tasks that were not that hard are over.
+My RAs also have access to frontier AI. I'm currently working with an RA, Jakob Schaal, who also works with Windfall, and I'm giving him basically a whole paper: this is the goal of what we want to do here, you can lead it. There's no way I would have done that before. I would have done that with a second- or third-year or final-year PhD student, not with an RA. And that's the hopeful part here, because it's not just that I can do my old tasks with an RA — my RA can now do much more. So if the RA is really good, which Jakob is, it's incredible to have RAs. I can do a whole new project because of an RA, which I just don't have time for otherwise. If the RA is not that good, though, it's completely useless. So there is a bifurcation, where the quality of the RA matters much more, because the grunt tasks that were not that hard are over.
 
 **Danny:** Whereas hiring a really good RA, or working with a really good PhD student — the returns are actually going up. There are a couple of things going on there. One is the impact of expertise, which you've also worked on. It depends whether we're automating low-expertise or high-expertise tasks out of the bundle that constitutes a job. In this example, what is left are some high-expertise tasks — but, as you've just said, that starts to exclude certain people who, for whatever reason, cannot do those. And then for them this is a binary thing: they just fall out of this particular labor market, as it were.
 
@@ -344,8 +580,6 @@ Let's take one task — let's say coding. What on earth is an augmenting coding 
 **Danny:** With that, on that happy note — Bouke, thank you very much. This was a great deal of fun.
 
 **Bouke:** Entirely my pleasure.
-
-**Danny:** Thanks for listening to High Variance. You can subscribe to this podcast on Apple Podcasts, Spotify, or wherever you get your podcasts. If you like this podcast, please give us a rating and leave a review. This makes a big difference, particularly for newer podcasts like this one.
 
 ---
 
