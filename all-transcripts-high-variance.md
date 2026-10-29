@@ -1,6 +1,6 @@
 # High Variance – All Transcripts
 
-This file contains all transcripts from the High Variance podcast. Paste it into your LLM of choice to ask questions across episodes, search for themes, or explore what guests had to say.
+This file contains all transcripts from the High Variance podcast. Paste it into your AI of choice to ask questions across episodes, search for themes, or explore what guests had to say.
 
 High Variance is an interview podcast about a world that has become harder to read — more uncertain, more volatile, stranger. Host Danny Buerkli speaks with public intellectuals, entrepreneurs, and technologists to ask what is going on and how we should respond.
 
@@ -159,7 +159,7 @@ And also, as someone who's been involved, both in government and in consultancy 
 
 **Danny:** John Kay or Michael Barber?
 
-**Andrew:** I'm going to have to go with Michael on that basis.
+**Andrew:** I don't know John's stuff as well. I mean, I'm going to have to go with Michael on that basis.
 
 **Danny:** Fair enough. I think the interesting tension between the two is that John Kay wrote a great book called Obliquity, which says that some things we can only achieve indirectly. You've talked about this in relation to GDS: had the Government Digital Service been given a straight-up savings target, probably none of it would have actually been achieved. The way to go about it was an indirect one. Michael Barber has done some phenomenal work, but I think intellectually he in many ways stands for the exact opposite idea, which is: there's a thing you want to achieve, and the best way of going about it is just being brutally clear about what that thing is and then relentlessly pursuing it until you have it.
 
