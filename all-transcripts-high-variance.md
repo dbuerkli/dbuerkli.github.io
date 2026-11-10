@@ -12,6 +12,7 @@ High Variance is an interview podcast about a world that has become harder to re
 
 ## Table of contents
 
+- **Sci-Fi Economics and the Marginal Returns to Intelligence – with Andrey Fradkin** (2026-11-10): Andrey Fradkin — associate professor at Boston University, visiting scholar at the Stanford Digital Economy Lab, and co-host of the Justified Posteriors podcast — joins Danny Buerkli to ask what each new generation of AI models is actually worth. In the setting he has studied, people voting between chatbot answers, he finds suggestive evidence of diminishing marginal returns to intelligence. They discuss what that means for the frontier companies, why they might vertically integrate, why economists studying AI are working as historians, whether call centers will survive the next three years, and why he thinks the labor share will fall.
 - **The Case Against Government Reform – with Andrew Greenway** (2026-10-19): Andrew Greenway — co-founder of Public Digital, one of the founders of the UK's Government Digital Service, and co-author of the new book Digital Sovereignty: The Power to Decide — joins Danny Buerkli to make the case that many government institutions cannot be reformed, only replaced. They discuss what DOGE got right, why a Thanos snap of the top civil servants might help, how the strangler fig pattern lets new institutions absorb old ones, and why the Treasury is the department he would most enjoy replacing. They also cover how AI agents could break public services that rely on friction to stay affordable, why digital sovereignty debates are so often bad, and what AI will do to the bluffocrat.
 - **Debatable Persons: The Coming Crisis Over AI Consciousness – with Eric Schwitzgebel** (2026-09-03): Eric Schwitzgebel — professor of philosophy at UC Riverside and author of The Weirdness of the World and the forthcoming Human-Like: A Defense of AI Rights — joins Danny Buerkli to ask what happens if we create AI systems whose consciousness we cannot determine. If they are conscious, treating them as disposable tools could amount to a horrible crime; if they are not, granting them human-like rights could have catastrophic consequences too.\n\nThey discuss Eric’s “design policy of the excluded middle”—the proposal that we should avoid creating systems that might or might not deserve human-like moral consideration—why useful AI architectures may make machine consciousness harder to avoid, when anthropomorphizing AI helps and when it misleads, and why an abused conscious AI might have the right to rebel. They also explore what Kazuo Ishiguro’s novel Klara and the Sun and Ann Leckie’s Ancillary Justice reveal about artificial personhood, why our ethics may be as unprepared for AI as medieval physics was for spaceflight, the weirdness of the world, and what Eric inherited from a father who studied under Timothy Leary and B. F. Skinner.
 - **What Makes a Job Automatable? – with Bouke Klein Teeselink** (2026-08-12): Bouke Klein Teeselink — associate professor of economics at King's College London and chief economist at the AI Objectives Institute — joins Danny Buerkli to ask what actually makes a job automatable. Early evidence suggests that firms and occupations more exposed to AI are already seeing declines in hiring and employment — but Bouke argues that these first effects may be driven as much by uncertainty as by automation.\n\nThat does not make him an AI skeptic: he expects capabilities to continue advancing at a spectacular pace and takes seriously the prospect that AI could soon outperform even highly skilled researchers.\n\nThey discuss why traditional research-assistant tasks may already be over, why AI could increase the returns to top talent while eroding the apprenticeship ladder, whether taste and value judgments offer humans any lasting refuge, how reinforcement learning changes which occupations appear most exposed, and why an AI being able to perform a task does not necessarily mean a firm will automate it. They also cover organizational messiness, the threat to outsourcing-led development, the elasticity of demand for different kinds of work, Bouke's semi-serious plan to run highbrow reading groups if AI takes over his research, and why pro-worker AI may be impossible to define.
@@ -29,6 +30,275 @@ High Variance is an interview podcast about a world that has become harder to re
 - **Building an Open LLM – with Antoine Bosselut** (2025-11-05): Antoine Bosselut, Assistant Professor at the Swiss Federal Institute of Technology (EPFL) in Lausanne, joins Danny Buerkli to explain how he and his team built Apertus, the 'open' LLM. Antoine and Danny discuss why taxpayers should fund this work, which constraints bite hardest when creating an LLM outside one of the large labs, and which public investments may be needed now.
 - **The Art of Facilitation – with Vishal Jodhani** (2025-10-22): Vishal Jodhani, a master facilitator, joins Danny Buerkli to talk about what makes facilitation work. They discuss what makes for a good question, how to know the difference between productive chaos and unproductive confusion, and what is underappreciated about the Berlin club scene.
 - **State Capacity and Government Reform – with Don Kettl** (2025-10-08): Don Kettl — prolific scholar of public administration — joins Danny Buerkli to talk about state capacity and government reform. They discuss what DOGE got right (and what it didn't), whether gradual government is possible at all, why Operation Warp Speed was so unreasonably effective, and what lessons we should learn from Paul Volcker.
+
+---
+
+## Sci-Fi Economics and the Marginal Returns to Intelligence – with Andrey Fradkin
+
+2026-11-10 | [Apple Podcasts](https://podcasts.apple.com/us/podcast/sci-fi-economics-and-the-marginal-returns-to/id1839231559?i=1000800937041) | [Spotify](https://open.spotify.com/episode/5nxy4WKccgFNDd4v9cck7Q)
+
+Andrey Fradkin — associate professor at Boston University, visiting scholar at the Stanford Digital Economy Lab, and co-host of the Justified Posteriors podcast — joins Danny Buerkli to ask what each new generation of AI models is actually worth. In the setting he has studied, people voting between chatbot answers, he finds suggestive evidence of diminishing marginal returns to intelligence. They discuss what that means for the frontier companies, why they might vertically integrate, why economists studying AI are working as historians, whether call centers will survive the next three years, and why he thinks the labor share will fall.
+
+
+**Danny Buerkli:** My guest is Andrey Fradkin. Andrey is an associate professor at Boston University, currently on leave and a visiting scholar at the Stanford Digital Economy Lab. He also co-hosts the excellent Justified Posteriors podcast. Andrey, welcome.
+
+**Andrey Fradkin:** Thanks for that kind introduction. I'm excited to talk to you.
+
+**Danny:** Andrey, what are the marginal returns to machine intelligence?
+
+**Andrey:** Oh, you're going to start with the easy ones. So let's take a step back, because it's an interesting question. What does it really mean? I thought about it in the following way. Suppose you're getting more intelligent models over time. A natural question for an economist to ask is: what is the value of that little bit of intelligence that's added, one generation after another, as these models are released? So, for example, how much better is the Astra model than the Sol model, or the Fable model over the Opus model, or Opus 5.5 versus Opus 5? We know that they're better on benchmarks, the various tests people have designed to measure how well the models work. But it's less obvious whether these capabilities are very valuable, and how valuable they are relative to the previous advances we've had.
+
+And this has pretty profound implications for the economy, and also for the profit margins of different companies, right? So even if Anthropic can make better models generation after generation, if people aren't willing to pay for them, or if they think the slightly worse models are good enough, then that's a pretty big challenge to their business model. It also has some pretty profound implications for how we think about what is scarce in the economy. One view, and this is the San Francisco AGI view, is that the scarce thing in the economy is intelligence: if we just had more von Neumanns, we would solve all of our problems. But maybe other things are scarce, like our ability to coordinate, or even certain natural resource bottlenecks that are really important in the economy.
+
+Okay, so that's the big framing of the picture. I don't think I have a general answer; I think it's hard to come up with a general answer for this. But one place where I have looked for diminishing returns to intelligence is in people's preferences. So the hypothetical here is: let's say you're talking to a chatbot, you type in a prompt and you get a response. How much more do you like the response from the smarter model versus the dumber model? And it turns out you do, on average, like the responses from the smarter model, although we should always caveat that by saying they're trained to give good responses. So it might not be their smartness that's the cause of the good response. It might be something else. So we're thinking about how we measure whether this is actually going on.
+
+We're going to use some data on people's preferences. In particular, there are datasets where people vote between two different responses generated by different models. And we think about how much the win rate improves from one model generation to the next, for more recent model improvements versus past model improvements. Now, you have to think a while back, but that jump between, let's say, GPT-3 and GPT-4 was pretty substantial, right? It was pretty obvious that we were getting a lot of returns to intelligence there. And when we do this measurement exercise, we do find some suggestive evidence of diminishing returns to intelligence, at least in chatbot responses. Now, this is just one little piece of things, because there are many things you want to use LLMs for that are not in our dataset: agentic tasks, for example, or scientific tasks.
+
+**Danny:** Can I ask on that? One interpretation is, well, there are diminishing returns to intelligence. Another interpretation is that the things we as consumers ask of LLMs, which is what this is measuring, are just not sufficiently hard to max out the capabilities. And therefore you don't even see the improvement as much as you might with commercial applications, where presumably people are more thoughtful about which model they use.
+
+**Andrey:** I'm not claiming that the new models aren't more intelligent. I'm just saying that people don't value those little gains in intelligence very much in this setting, in the consumer setting. And this is one of the bull cases, let's say, for something like Muse, Meta's new agentic product. They're not using the best model. They don't even tell the user what model they're using. But it's good enough that other things start mattering more: how well integrated is it? How easy is it to use? The interface itself starts mattering more than the underlying model that sits underneath it. The other thing I'd say is that in some other work we've done, we've thought about what economists would call preference heterogeneity.
+
+What does that mean? It's like: I like apples, you like bananas, we like different fruits, right? We're not comparing the caloric content of those fruits, the intelligence of those fruits. We just like different things. So we do a measurement exercise where we look at whether there's preference heterogeneity among people for different response characteristics. And in fact, there's a lot of it. Some people like long responses. Some people like short responses. Some people like bullet points, others like tables. And you can get deeper into that using embedding techniques: people like different embeddings. So when a model gives a response, unless it somehow already knows your preferences perfectly, different models are going to give different responses, and some people might like one style of response more than another.
+
+And this is not super correlated with the intelligence of the model. So the exercise we do in this research is to consider ten different models of different intelligences, and then think about which model's response would be best for the user for any given prompt. And we find that even though some of these models are very smart and others are not as smart, we're going to use at least some of every model for some of the users. So this goes to show that other things start mattering. I guess there's an argument that a smart enough model will know exactly the right style to serve to each user, but we're not seeing the same sort of returns from that as intelligence increases.
+
+**Danny:** It's kind of poetic. Every model finds its home.
+
+**Andrey:** Yes, for a given prompt. But not all things are like that. Some things are not about user preferences. They're really about: did you do this thing? Were you able to solve this math problem, or create a piece of software that files the taxes? We're getting to the point where all the models are good enough, and now we have to start thinking of tasks where intelligence remains the bottleneck. We can definitely think of those, but most people don't have those problems. Even most businesses don't really have those problems on a day-to-day basis. Or they do have them, but the individuals within the business don't.
+
+**Danny:** And the natural implication of that argument, just to spell it out, would be that it turns out there's a limited amount of intelligence we need for most things in the economy, as it were. Current models do a pretty decent job at that level, and that is it. And given how quickly tokens from models at a given quality get cheaper, we should just assume that it's going to commoditize completely, and that would be bad news for model providers.
+
+**Andrey:** Yeah, I think that's right. They need to pull something out of a hat, like a new use case that's extraordinarily valuable. The other thing they can do is vertically integrate. These agents are extremely powerful, but businesses are slow to figure out how to use them. The labs are very agent-first natives. So you can imagine that they could pick an industry, go after the lucrative ones, and just say: hey, we're going to create our own GPUs, and they're going to be better than Nvidia's, and we're going to be better organized, so we'll do it more efficiently, and then we'll start making money that way. Picking Nvidia as a competitor, they're doing that for very strategic reasons. But you can imagine other industries that are a lot less competitive, or less sophisticated.
+
+**Danny:** Which industry would you bet on to be the first?
+
+**Andrey:** The first? It kind of feels like they're trying everything. But think about a hospital system: you can run a hospital much more efficiently with agentic tooling. And then you might say, well, actually, that's not the reason why hospitals are expensive. Maybe it's because of scarce operating rooms and doctors, and we legally still need doctors involved, and so on. So there's that. There are lots of consulting-style businesses. And I guess there are a bunch of roll-ups of various small businesses happening right now, where the idea is you aggregate a bunch of dentists and then you make them operate much more efficiently.
+
+**Danny:** Yeah, like HVAC cleaners in the Midwest or something. What do we know about the willingness to pay for frontier tokens?
+
+**Andrey:** Generally, businesses are willing to pay a substantial premium for frontier lab tokens at every intelligence level versus open-source models. Or at least that's been true for the past year and a half or so, even as open-source models have gotten pretty good. There are a few potential explanations for that. One is that these frontier models are better in ways that are not measured by the benchmarks. Another is that there are legal protections, data-use protections, that the frontier labs offer. They have a good reputation. If you start consuming a lot of open-source models from Chinese providers, you might start getting worried about various things. Or there's even just legal uncertainty about open-source models and how they're trained. And big businesses are pretty risk-averse.
+
+So they happen to trust closed-source models more often. I think the other thing is that the frontier labs have been innovative in interface design, right? Claude Code, Codex: these are just very good tools. It's very handy how everything is done. And yes, you can recreate that with open source, and people are doing it. But this is very young; it's been less than a year. So it's not a crazy idea to say: hey, I don't want to figure out how to create my own version of Codex with open-source models underneath, so I'm just going to use Codex for now.
+
+**Danny:** What's the shape of the curve, as it were, in terms of marginal returns to intelligence? There's a premium. Is that premium constant across levels of intelligence, or does it change as you get to the very top?
+
+**Andrey:** Well, no, that's the diminishing part, right? But we don't know. I think the answer is we don't know. The work I've done looks at a very specific setting, which is these votes over chatbot responses, and I'm not going to extrapolate from that to all use cases of LLMs in the economy.
+
+**Danny:** What do we know from the OpenRouter data?
+
+**Andrey:** There's a lot of ongoing work we're doing there, but I don't have a result for you about diminishing returns to intelligence from there.
+
+**Danny:** Okay. Nor increasing returns, I suppose.
+
+**Andrey:** Nor increasing. I think one thing we know is that there is a premium for more intelligent models. There's a premium for closed-source, more intelligent models. And there are a lot of changes in which models are being used on OpenRouter: market shares are changing across labs, across models. It's also worth pointing out that OpenRouter is not a representative sample. It represents, as far as we know, maybe approximately 2% of tokens. Most people just go direct to the source, right? They go to Anthropic or OpenAI. It's a very interesting population on OpenRouter, and we're learning a lot about that population. But extrapolating into the overall market is a little tricky. We've also done work with Azure, where we have data on how enterprises that are using inference on Azure are switching models.
+
+And broadly, compared to any other industry, we're seeing very large, quick changes in which models are being used, but they're still not instantaneous. And certainly there's a lot of inertia in how firms use them; they'll stick with an older model for quite a bit of time.
+
+**Danny:** The models are getting cheaper. You pointed this out: something on the order of a thousand times over roughly two years for a given level of intelligence, which I think is the fastest of any general-purpose technology we've seen.
+
+**Andrey:** As far as we know, yeah, it's the fastest.
+
+**Danny:** What, then, is the time value of frontier intelligence, as it were? The naive interpretation would be: knowing that I can get the same performance a thousand times cheaper, if I pay for the best performance now, clearly I have to believe that it's very important that I do this work now, at the given price. Because otherwise, either I do it with a cheaper model, or I just wait until that intelligence is available to me.
+
+**Andrey:** I think, in some weird way, even frontier intelligence is insanely cheap.
+
+**Danny:** It's too cheap to matter in these ways.
+
+**Andrey:** There are some problems where you're going to really burn up a lot of tokens, obviously, like solving Navier–Stokes, right? That, to me, is completely inefficient. If we knew ex ante that we could solve Navier–Stokes with this level of intelligence, there's no reason to have burned $10 million doing it today versus waiting two years. I don't think it matters. Other problems are different: if you're solving cancer today, that seems pretty valuable. But from a business point of view, let's say you have a software engineer and they're being paid on the order of $500k to a million. Giving them a $200-a-month Codex subscription seems like a no-brainer, right?
+
+It's just so little money compared to their salaries. So that's one version of it. The other thing is, it's not just about the tokens themselves. It's about learning how to use the tokens. So yes, you'll have this level of intelligence two years from now, but you want to learn how to use it now. You're essentially going to where the puck is going, to some extent. If you're using the dumber models, they have limitations, and those limitations are not going to exist a year from now. You might as well plan for it. You might as well just be riding the frontier if you can afford it, and then adapt as necessary to get cheaper inference in the future.
+
+**Danny:** Right. Given all of this, do you expect the market for intelligence to concentrate further or to fragment?
+
+**Andrey:** I mean, these are hard questions. I have very diffuse priors on these. It seems to me that we have a variety of model providers. I think a big open question is how important distillation is. If distillation were substantially harder, what would the gap be between the open-source and the closed-source models? Some people think distillation is the only reason we have so much competition. I'm not so sure. But what I imagine, given the diminishing returns to intelligence, is that you might actually have a variety of agentic systems in the future. They might use different models under the hood, or they might use the same models under the hood, but they're going to organize them in different ways. There might be some fine-tuning involved; you might fine-tune a model to a particular use case.
+
+For that to happen, fine-tuning essentially needs to become very, very easy. It's already pretty easy, but it can become even easier and very fast. And then, maybe this is just me being hopeful, we're going to have an ecosystem of intelligences. And I doubt they're all going to be owned by Anthropic and OpenAI, but...
+
+**Danny:** As you've said before, this is very much not the SF consensus, as it were. I'm trying to pin down where exactly the disagreement is. Or do you just fundamentally not believe that there can be high returns to extremely high intelligence?
+
+**Andrey:** I believe there can be high returns to extremely high intelligence. I just don't believe those returns hold for all sectors of the economy in the way the economy is currently organized, right? I think there's some world where we don't have organizational constraints and laws, and everything gets started from scratch being AI-first, and then maybe the intelligence can really run loose, in a good way maybe, and create a very efficient economy. But that's not the world we're entering. And once again, it's not that I don't think they'll find high-return use cases for some of this intelligence. It's just that for office workers using LLM agents, we're kind of almost there. We're almost maxed out at what we need the intelligence to be for that.
+
+**Danny:** The intelligence is not the binding constraint there.
+
+**Andrey:** Yeah. But I think the SF view kind of relies on some sort of backward-bending logic. This is the RSI thing: the intelligence is going to get so smart, and the first thing it's going to be really good at is creating more intelligence more efficiently. And then all of a sudden, you might see Anthropic able to create a tiny model that's more intelligent than any open-source model and serve it extremely cheaply, essentially wiping out the open-source sector. That's the sort of thing that would need to happen. And I'm not saying it won't. But then, of course, with such a cheap model, how much money can they really make off of it? And at the same time, there's still competition. One thing we know from economic studies of industries is that even two firms can be quite competitive with each other. And that really limits the returns, especially when switching costs are essentially zero.
+
+**Danny:** Right. Which is why, presumably, and this is not a recursive self-improvement superintelligence thing, we're seeing efforts to make switching harder, and we should expect to see much more of that.
+
+**Andrey:** Yeah. OpenAI kind of blocked Cursor from serving its models.
+
+**Danny:** In 2024, you wrote a blog post about sci-fi economics. What are the important questions about AI that we can't answer by studying what's happened so far?
+
+**Andrey:** Essentially, almost all of them. This is a hobby horse of mine. Economists, empirical economists, have been trained to study mostly near history, sometimes far history. So I think of them as historians. And if we think the world is going to be more or less stable, then maybe near history is a pretty good guide to what will happen in the near future, and that might be a very good guide for our policy. So, again, in the healthcare system, we might see: hey, when we expanded Medicaid in this state, this is how it affected health outcomes, and we can make a cost-benefit calculation or something else, and then maybe apply it to other states. That seems like a pretty reasonable extrapolation. With AI, given the rapid increase in capabilities, it seems like a study is already outdated as soon as it's written, right?
+
+So you have studies like: how much does AI improve the effectiveness of call center workers? That was published in a top econ journal. I don't think there's anything particularly wrong with the research. It just tells us nothing about what we care about.
+
+**Danny:** Whenever I see a headline, the first thing I do is try to find out which model they used in the study. That tells you a lot about how current it is or not, and how much weight you should presumably put on it.
+
+**Andrey:** Exactly. But it's wrong for another reason too, in addition to the fact that the model being used is just outdated. The relevant margin is oftentimes organizational adjustment. So if you keep the organizational structure the same, do an RCT, and find a productivity effect of 3% or 20% or 50%, reorganization is going to have a bigger effect. Or one way to put it is: what has happened to the market for call center workers in the Philippines? Are we going to have call centers in the next three years? What are we talking about?
+
+**Danny:** What do you think?
+
+**Andrey:** I'm not an expert in the industry, but it would be weird to me if we have a lot of call center workers, honestly. Why do we need call center workers at this point? The AIs can speak. They know the rules pretty well. It's just bizarre. So, to be on the more positive end, I think there are many possible futures: futures with different market power structures, with different ways in which intelligence is sold, in which intelligence translates into productivity improvements. And these are all things we should be exploring, and not just in the way that a lot of wordcels, as I call them... There are so many wordcels in AI who are just writing these pieces.
+
+I kind of view DeepMind as a big offender here. I read their pieces and I'm like: you said nothing new. You just put a bunch of words on a page without any math, without any data, and cited a bunch of things. And I'm like, that's not really that useful. Whereas if we can have models of the future that think through some assumptions about what the parameters would be, that's highly useful. I think of Chad Jones as a practitioner of this who does it really well, or Phil Trammell. But there are others who are just doing these sorts of exercises. Or, alternatively, thinking about various forms of extrapolation into the future that are potentially interesting.
+
+**Danny:** What are you thinking of when you say that?
+
+**Andrey:** Well, for example, the METR benchmark, the time horizon benchmark, because it was one of the most influential pieces of empirical work on AI, right? But it doesn't really look like a paper. Certainly, if you had shown this to economists before it became popular, they'd have been like: are you smoking crack? So I don't know.
+
+**Danny:** Let's quickly explain. The METR chart measures the ability of a given model to do software engineering work, and that work is measured in human time. For different tasks, we measure how long it would take a human to do them, and then we check whether the model can do it. And the assumption is that the longer the task the model can do, measured in human time, clearly the more capable it is.
+
+**Andrey:** Yes, exactly. It creates a conversion unit between human labor and AI capabilities. And the reason I think economists would have balked if it was presented as an econ paper is that the tasks used to measure the time horizon are bad. There are small samples. They don't really have a lot of tests that are more than a few hours long anyway. Then they use these weird extrapolations and functional forms. It's not disciplined in the way economists would want. But it's not disciplined for a few reasons. One is that we don't actually have the data to make it that disciplined. But at the same time, there's a speed premium in this field. You could spend a year or two years polishing some benchmark, but by that point, time has passed.
+
+But I would say that that work has proven influential. I know a few economists who are working on deeper versions of it, but I don't think they would have been working on this without the METR work to begin with.
+
+**Danny:** You mentioned the call center in the Philippines. A term that comes up quite a bit is pro-worker AI: what if AI, but it's good for the workers? I know you've written and talked about this. This is clearly not my specialty, but I've struggled to understand what that would practically look like. What does a model look like that is pro-worker versus one that isn't?
+
+**Andrey:** Yeah. I'm definitely the wrong person to ask, because I also struggle to understand what this is. Let me just kind of steelman—
+
+**Danny:** What's the steelman argument in favor?
+
+**Andrey:** I think the steelman argument, one version of it, is that we can identify which AI deployments are augmentative of workers in a way that doesn't diminish demand for labor. And then we're going to create incentives, or ideology, that result in firms using that sort of AI and not another sort of AI. And where you get to the concrete examples is where you throw your hands up. I've seen noted economists suggest: oh, what if the plumber had glasses, and the glasses helped them upskill from being a normal plumber to being a very advanced plumber? And I'm thinking: yeah, but the same technology can let a normal person do the plumbing. And it also exists already. So to me it's like: well, you haven't proposed anything.
+
+You're like: wouldn't it be nice if there was this thing that magically made everything all right? Another version of it that I've heard is: what if, for these models that are more advanced than what we have now, we take away agentic mode and just have them be in chat mode? So they're very smart, but they can't actually act. And I'm like, that's not going to happen. But this is the sort of stuff people are proposing. And then there's another related strand of thought: well, we just need to fix the tax code, because the tax code is too advantageous to capital right now, and if we change that, then on the margin we'll have less labor displacement. Which is like, all right.
+
+That's fine. That has nothing to do with pro-worker AI. These incentives are a little distorted; you can fix those. So that seems reasonable as far as it goes. And then, finally, a final form of the argument is really from a consulting point of view. I think there's a pretty legitimate worry that some CEOs are a little too excited about automation, and it might be that the most efficient thing to do is not firing the workers and figuring out a better way to use human and AI labor together, and maybe they're overlooking that.
+
+**Danny:** As in, they're getting too excited about the potential, or they're getting too excited about being able to say something cool in an earnings call, and that may lead them to do things that are ultimately unhelpful, but then the damage is done. Fair enough. I've really struggled to understand the idea, but clearly... Well, the question is: these are smart people advocating for pro-worker AI. And yet, listening to you, the idea doesn't feel particularly strong. So what is going on there? These are not people known for a lack of rigor, or for lacking a good track record in research. But maybe you disagree.
+
+**Andrey:** I tend not to extrapolate too far from expertise in one area to another. Obviously, these people are smart, but smart people have been on all sides of every political debate in history.
+
+**Danny:** Fair enough.
+
+**Andrey:** The other thing is, I think there's a lot of bias among academics. Academics want to be influential. They want to feel like they have something to contribute and something to fix. They want to offer policy prescriptions. And if you just think that AI is this unstoppable force, there's less for you to do. So there's just a bias toward "oh, we can do something." And then there's part of it that's just wishful thinking. I think that's what a lot of people who are very AGI-pilled would say here: you guys don't understand how profound AGI is, and it's going to change everything.
+
+**Danny:** Right. We've talked a bit about the labor market effects. There seems to be an interesting bifurcation. There's clearly a consensus within the economist community that the economic effects of AI are real, if not already today, then certainly in the future. There was the "We must act now" statement that came out of where you're sitting right now. But at the same time, we haven't seen very many effects yet. There's some debate; we may be seeing some things in some corners of the economy, for particularly exposed new joiners in the labor market. How do you think about this? Is it just going to take much longer, where much longer may be five or ten years, which would still be incredibly fast on a historical time scale?
+
+**Andrey:** What is "it"?
+
+**Danny:** Meaningful changes in the labor market.
+
+**Andrey:** I see, I see. Because I do think there are already economic effects. We have a massive investment boom. We are constructing data centers. There are all these new companies that are very successful, right? It's not that there aren't economic effects. I think if you take Tim Bresnahan's work seriously, a lot of the effects of the earlier waves of AI technologies, predictive AI and machine learning, materialize through creating new products rather than through direct substitution in existing production processes.
+
+**Danny:** But that's not what motivated the "We must act now" statement, as it were.
+
+**Andrey:** "We must act now" is a vague statement about AI being important for the economy. I signed it, but ultimately, you're reading too much into it. It's meaningless, in my opinion. Sorry.
+
+**Danny:** That's a fair opinion.
+
+**Andrey:** In the sense that, yes, of course AI has the potential to transform the economy. If you don't think that's true, you're an idiot. So then a bunch of economists sign it. What is the effect of this? I don't know. We're serious people, you know? But on the labor market effects, if you follow the strain of thought about, let's say, messy jobs and diffusion frictions, and just the fact that firms really don't like firing people, you get to a state where you have pretty gradual labor market effects. And at the same time, there are increases in labor demand for lots of occupations: plumbers, electricians, for example, but lots of others. Even software engineer demand hasn't fallen, because it turns out there's a complementarity between telling the AI what to do and knowing what the AI can do.
+
+So yeah, I'm certainly more of a gradualist. I think there will be effects. I think the labor share will fall. But I don't think it's going to happen overnight. And I actually think a very likely scenario for how it might happen is that we get a recession, and that creates a cleansing effect for these firms, that can just—
+
+**Danny:** A shakeout.
+
+**Andrey:** They shake out, and then the recession is over, and then you realize: oh, wait, there are a lot fewer old-school jobs in the economy, right? So that's one of the things to keep in mind here. And you can imagine something like that happening if any of the big assumptions about the ROI of AI don't materialize.
+
+**Danny:** Yes. This has been my favorite bad-news scenario for jobs in particular: exactly that. You get some form of investment bust, you get the shakeout, and that would probably be the fast way to reorganize some bits of the labor market. How do you think about the relationship between the economic value of machine intelligence, of AI, and the safety concerns? It's not clear to me to what degree these are highly correlated, or to what degree they're two separate concerns.
+
+**Andrey:** Yeah, I think the intuition that they're quite correlated is pretty good, actually. We want safe products. If I'm a firm, I don't want to buy an AI that might accidentally hack my competitor in the process of doing some work. If I'm OpenAI and I'm going to get sued by 100 different firms for hacking into them, that might actually affect my business. So there's a pretty good incentive not to be unsafe on this dimension. I think safety is a very confusing word. It encompasses so many different things. So I like to think about big-S safety and small-S safety. Small-S safety is what I'd call reliable products. And there's an amazing world where small-S safety actually just gets us to big-S safety. But big-S safety is: we have no existential risk, or we've drastically reduced the chance of existential risk, by being able to design AIs that are never going to hurt humanity, whatever that means.
+
+And to me, it's always seemed like big-S safety is really hard. On the one hand, any sufficiently powerful tool can be used by a bad person to do a lot of damage, and I think preventing that is really, really hard. And then there are autonomous AI systems that are superintelligent. I do think controlling them might be quite hard, although I don't particularly think they'll want to kill humanity either. So those are some initial thoughts. And then the other thing to think about is some weird spillovers. One concern I've heard is that Anthropic might have safe models, but then their safe models are distilled by open-source players who don't care as much about safety, and there's nothing Anthropic can really do about that. And then we get safety and economic value not being correlated.
+
+**Danny:** Right. On small-S safety, it stands to reason that it's bad for business if your product gets you sued a lot. Now, you don't say this, but presumably that is not an argument that this will sort itself out, because that principle is generally true, and yet we still regulate drugs, for example, or cars, or any other potentially dangerous thing.
+
+**Andrey:** Certainly. There's no amount of lawsuit that compensates for the destruction of humanity, right? There are limits to this.
+
+**Danny:** Sure. But that's big-S safety. I was talking about small-S safety.
+
+**Andrey:** Yeah. Yeah.
+
+**Danny:** But even for small-S safety, I suppose the incentive itself would point in the right direction, but it's arguably not likely to be enough.
+
+**Andrey:** Yeah, it might not be enough. Especially for small firms.
+
+**Danny:** You've had Noah Smith on your podcast. You talk about a term that I think is really helpful, which is elite overproduction, which comes from Peter Turchin. And you also helpfully mentioned the wordcels. You talked about it, but it feels like an under-covered angle that that class feels, by a wide margin, probably the most threatened by AI, but it's also the class that has a lot of political capital and social capital. And so if I was looking for trouble, political trouble, that is where I would expect to see it first, presumably.
+
+**Andrey:** What do you mean by political trouble in this specific case?
+
+**Danny:** Very aggressive professional licensing of some sort, for example, which we're seeing in some professions. But I wouldn't be surprised if we saw much more widespread, much more aggressive practices that go beyond, I don't know, psychotherapists or whatever it is.
+
+**Andrey:** I think it's kind of hard to start a new licensing regime. I think there might be certification that this is homegrown, human-produced writing, and some people might prefer to support that. So there might be a small sub-sector there. I kind of thought you meant more of a general AI regulation movement, or anti-AI-company movement. I think, yes, the status hierarchy is being turned around, and people losing status especially is a recipe for political unrest, because people are just really unhappy and they want to change things. And then we're going to get a lot of political pressure. And I think especially if we start to see actual unemployment effects, the pressure is going to be overwhelming.
+
+**Danny:** Do you have a prediction as to how successful that countermovement is going to be?
+
+**Andrey:** There's an active stop/pause AI movement. I don't imagine they'll be successful. I think one reason might be just their unilateral moves to do that. People are going to have problems with that. One way to think about it is that a Pause AI movement will create a depression right now. A successful Pause AI movement will create a depression. But I do imagine more typical things that governments do, like just increasing compliance a ton: for firms that are firing workers, rules that they can't fire them because of AI displacement, or something that creates frictions for that. I mean, Europe has a lot of these frictions already, unrelated to AI. It's hard to fire people in Europe.
+
+Then data center bans, various taxes. But I think other risks include not a successful Pause AI, but maybe just a socialist getting elected and trying to create very socialist policies in general, right? Oftentimes when big waves succeed, it's because there's a lot of unhappiness. So imagine that by the time the election is happening in 2028, you have 10% unemployment, and everyone thinks it's because of AI. You might imagine socialists sweeping the election, or even non-socialists going for socialist policies because otherwise they're not politically viable. And who knows what will happen at that point.
+
+**Danny:** I think it was in your very first podcast episode that you said economists don't generally put their skin in the game, and that back then, it hadn't occurred to you to buy Nvidia, even though you've obviously thought about this a ton. Do you have skin in the game now?
+
+**Andrey:** I have some skin in the game. I mean, the S&P at this point is very much skin in the game, I should say. But I have a little bit of concentration in some investments. I think the biggest skin in the game I personally have is my career. Essentially everything I do is AI-related. So if I ever wanted to increase the proportion of my life that I devote to making money, that would be very easy. I'm sure I could have more skin in the game. But one of the things with investing, and I think a lot of economists fall into this trap... There are two traps economists fall into. Maybe they're not even traps, but there are just two reasons.
+
+One is, we know that the index is pretty good, and it's pretty hard to beat an index. So that's one. And then we might have some ideas about where there are opportunities, but figuring out how to create a good bet on those opportunities is oftentimes non-trivial. Maybe this wave has been an exception. Maybe just following Situational Awareness and investing in whatever he's investing in is a great strategy. But even implementing that, you have to track the quarterly filings of Situational Awareness. It's not that much work, but it requires some thinking overhead. And then with the more complicated bets, you start thinking about them, and then all you're thinking about is investments. And maybe that's not your favorite thing to do.
+
+**Danny:** Maybe there's a reason why that's not your job. It plausibly could be your job, but it manifestly isn't.
+
+**Andrey:** Yeah. Think about Anthropic, right? I've been bullish on Anthropic for a very long time. I have documented records of that, trying to see if they needed an economist in 2022, right? So I've been pretty bullish on Anthropic, but I haven't ever had a position in Anthropic directly. And some part of it is, yeah, it was a private company. Yes, you can buy into some weird side equity arrangements, some SPV, but you don't even know if it's real. And it just felt like a lot of effort. And I was sitting in Boston. So, once again, I could have, but... And then there's also a question of bet sizing, right? Because in addition to knowing, let's say you're very certain that Anthropic is going to be worth a lot of money, how big of a bet are you putting in?
+
+Let's say you put in... I mean, now we're talking about different base assumptions about your wealth level, but you could put in a small bet, make a very nice return, and it doesn't affect your life at all. So you actually have to be willing to put a lot of skin in the game for it to meaningfully affect your life. So that's another consideration. And to be clear, if you'd been invested in Anthropic very early on, you didn't need to put in a lot, because the return is insane. But—
+
+**Danny:** There's a reason why these specific opportunities are scarce, right?
+
+**Andrey:** Yeah, exactly. But do you have skin in the game? I'm curious.
+
+**Danny:** Mostly through the index, for the reasons you mentioned. AI has made it easier, I think, to figure out the shape of the bet. Much easier. And I certainly would feel confident doing things now that would have taken me... Or the bar is just lower, because it would have taken me maybe three days before, and now I can possibly do it in two hours.
+
+**Andrey:** Yeah. There are a lot of agentic products cropping up right now to help people make bets. For obvious reasons, I'm a little wary of people thinking, "Oh, I can do this too." We know the history of this. But I think the good version of it, and I doubt that that's what's going to happen, is actually helping people hedge a little better. Let's say you're employed at, I don't know, General Motors, and you're being paid in equity. And even if you're not, maybe you're planning to work there for a while. You have a bunch of risks from competitors, various things that could happen to GM that might affect your career. Sizing that bet, creating it, and making sure it rolls over correctly: you could maybe have paid a financial advisor for that, but it would have been prohibitively expensive.
+
+But now that the AI can do it, maybe that's a really great thing. Economists have for a very long time been advocating that, in some ideal world, people should be hedging these risks. We just haven't had the combination of technology and regulatory environment to make this accessible to normal people. But I think that's a positive version.
+
+**Danny:** Onto a completely different thing. You run a very successful podcast. I believe there are other successful podcasts out there; Acquired is one of them. There's an HBR case study on Acquired. What have you learned from that case study?
+
+**Andrey:** I've been listening to Acquired for a long time. I've actually cited Acquired in one of my papers as a reference, to give you an example. So I kind of knew a lot about Acquired to begin with, is maybe what I'd say. And I've talked with the author of the case, Shane, quite a few times about podcasting. I think the specific things are just some of the data on the growth curve. Also the life decisions of the podcasters: like anything, starting a podcast, you can do it part-time, and you don't really know where it's going to go. And then over time, first of all, there's this exponential growth curve for a while, the S-curve of adoption that takes a while to ramp up.
+
+And then you have a decision: how do you spend your time? Do you want to put more time into the podcast? Do you want to create more podcasts? They have in some sense moved to creating fewer podcasts, which is a very fascinating move, right? Less content, but more effort per unit of content. How they think about their sponsors. They're so deliberate and thoughtful that it's just good to see their thought process.
+
+**Danny:** I found the case study through your recommendation on X, and I really enjoyed reading it, because it's rare that you get to...
+
+**Andrey:** What did you find interesting?
+
+**Danny:** I was struck by the growth curve, in a sense how smooth it was. I would have expected it to be much more jagged, and less smoothly linear.
+
+**Andrey:** But what is your goal with this podcast? In your ideal world, a year or two years from now, what does it look like?
+
+**Danny:** It's hard to answer, because on some level it's endogenous to what is going to happen over the next twelve to eighteen months. I really can't tell you.
+
+**Andrey:** Is there a growth number you're hoping to hit? Or what is your measure of whether the podcast has been successful or not?
+
+**Danny:** Definitely growth. But also, to be honest, the quality of the conversation is probably the one thing I'm most interested in right now. Podcast distribution is a weird thing. You know more about it than I do. But unless you get very lucky, I think it's hard to make big discontinuous jumps in listenership. And so it feels like, in the product and distribution equation, the one thing you can control is the quality of the product. That said, in an ideal world, and maybe this is actually a better answer to your question, I would quite love the idea of spending a month on an episode and actually reading everything someone has written. That would be my nirvana, as it were.
+
+**Andrey:** I mean, there are a few people who I think have pulled this off, but there are truly few. Tyler Cowen, but that's because he has a reading speed that is insane.
+
+**Danny:** I don't know if I can get quite to that reading speed. I read pretty fast, but not that fast. And it's not just his reading speed, I should also say.
+
+**Andrey:** No, of course. Dwarkesh certainly prepares very deeply for his episodes. But yeah, it's hard, especially interviewing someone like Acemoglu. I don't know if I could ever read all the articles he's written. I don't know how he wrote them. But I agree with you that you have to get a lot of consumption value out of the conversation itself.
+
+**Danny:** You mean you, as a creator, as it were?
+
+**Andrey:** Yeah. Because otherwise you're trying to chase this weird thing.
+
+**Danny:** The thing I enjoy so much about it is essentially thinking: whose work would I have fun spending relatively significant amounts of time with? And I don't think I could make myself do it if I didn't think someone's work was genuinely interesting. I think it would be very hard yards to do that. Final question: what have you taken away from Vipassana meditation? And what have you not taken away from Vipassana meditation?
+
+**Andrey:** I started doing meditation, I guess, a little bit after I got my PhD. I went on one of these ten-day silent meditation retreats, and I've done a few retreats since. So I wouldn't say I'm some sort of super meditator or anything like that, but I've done quite a bit of meditation at various points in my life. When I think back on it, I always pick out different parts of it. On a very utility level, being able to see your thoughts flowing in your head as they're happening is something we don't do in daily life, and it creates a lot of blind spots. And once you see these thoughts, you realize how compulsive many of them are. Maybe they're not always very wholesome.
+
+But also, there's so much emotional valence to some thoughts that you can't take a step back and maybe put yourself in a better position. So I think that's one part of it. Another part of it is just our day-to-day life: how hectic it is, how everything feels like we need to do it now, now, now. You go to a meditation retreat, you don't have access to your phone, some of them don't have any reading material, and you can just go for a walk without any devices. And it can be the most wonderful experience ever. We forget that, with all the demands on our attention that exist. And I do think there are ways to live profoundly happier, more balanced lives that are around the corner. But at the same time, what haven't I gotten? I come back from a retreat and I feel better for a while, but then I fall into old habits pretty easily. I feel like it's hard to maintain the state of mind and being that I get on meditation retreats.
+
+**Danny:** And you've also written about this. I thought something you wrote was really interesting: that there's a heritage to any particular meditation tradition, and there's a logical end point if you're actually serious about that lineage, which may or may not lead you to a place where you actually want to be. This is something I've thought about. I'm not an expert meditator, but on the margin it's helpful. But ultimately, is this actually taking me where I think I want to be? Or is this taking me into withdrawal from life?
+
+**Andrey:** I think this gets into some deep philosophical issues about the nature of identity, which is so key to a lot of Buddhist traditions, right? The idea of no-self, that the self is an illusion. But when we're making this decision, how far down the path of meditation do I want to go, you're going to be a different person at the end of it, with different preferences. The question is, how much do you want to remain the same over time? And I think some of the most important decisions in life have this characteristic, right? Famously, becoming a parent is something we think changes your preferences and your life. And it's hard. You can't really know who that new you is going to be, and whether the current you is going to like that.
+
+**Danny:** Right. It's very hard to anticipate. In the case of parenthood, at least in my neck of the woods, there's more anecdotal evidence to draw on about the range of possible outcomes, compared to meditation.
+
+**Andrey:** Interesting. I think on a day-to-day level, for a lot of people, having kids is like a net bad.
+
+**Danny:** And I think there's good research to back that up.
+
+**Andrey:** Yeah.
+
+**Danny:** With that, Andrey, thank you very much.
+
+**Andrey:** Thanks. This is so much fun.
 
 ---
 
